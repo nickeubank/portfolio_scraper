@@ -1,0 +1,6567 @@
+{
+ "debug": false,
+ "reference": "1267/14",
+ "data": [
+  {
+   "id": "36495",
+   "reference": "1267/14",
+   "folio": "1",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17601226",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "---",
+   "master_forename": "Matthew",
+   "master_surname": "Hall",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36495",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Hall",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "him",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208720",
+       "qty": "18",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36496",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17601226",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Success",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Cullis",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36496",
+     "merchant_forename": "George",
+     "merchant_surname": "Farley",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "wool 02/02",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208721",
+       "qty": "1780",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208722",
+       "qty": "25",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208723",
+       "qty": "10",
+       "measure": "pocket",
+       "commodity": "hops",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208724",
+       "qty": "10",
+       "measure": "basket",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208725",
+       "qty": "5",
+       "measure": "box",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "36497",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Harris",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "rest 02/01",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208726",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "9 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208727",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208728",
+       "qty": "21",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36498",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610106",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Minehead",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36498",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208729",
+       "qty": "2000",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36499",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610107",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Britannia",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Hadley",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36499",
+     "merchant_forename": "William",
+     "merchant_surname": "Coles",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208730",
+       "qty": "40",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208731",
+       "qty": "13",
+       "measure": "of",
+       "commodity": "forge hammers and anvils",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208732",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "oak poles",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36500",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610108",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36500",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208733",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208734",
+       "qty": "20",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208735",
+       "qty": "15",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208736",
+       "qty": "40",
+       "measure": "side",
+       "commodity": "broad glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208737",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "alum leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208738",
+       "qty": "13",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208739",
+       "qty": "5",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "33 hhd",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36501",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610117",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Shrewsbury",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36501",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Harris",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208740",
+       "qty": "35",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "17 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208741",
+       "qty": "6",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36502",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610119",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Thomas and Hannah",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Jones",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36502",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Garn",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208742",
+       "qty": "13",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "19 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208743",
+       "qty": "8",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36503",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610121",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Thomas and Benjamin",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Wharton",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36503",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208744",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "20 hhd",
+       "contributor": "0"
+      },
+      {
+       "id": "208745",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208746",
+       "qty": "20",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208747",
+       "qty": "30",
+       "measure": "bag",
+       "commodity": "wick yarn",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208748",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "timberstuff",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208749",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "tanned leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208750",
+       "qty": "40",
+       "measure": "crate + case",
+       "commodity": "glass + glasses",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36504",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610121",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Four Brothers",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Aston",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36504",
+     "merchant_forename": "William",
+     "merchant_surname": "Estopp",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": "2.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "208751",
+       "qty": "22",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208752",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "bark",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208753",
+       "qty": "9",
+       "measure": "quarter",
+       "commodity": "wheat flour",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36505",
+   "reference": "1267/14",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610123",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump j",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36505",
+     "merchant_forename": "John",
+     "merchant_surname": "Harmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "rest 03/01",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208754",
+       "qty": "47",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "22 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208755",
+       "qty": "18",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "36506",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "wool 02/10",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208756",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208757",
+       "qty": "30",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208758",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208759",
+       "qty": "60",
+       "measure": "bag",
+       "commodity": "flax seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208760",
+       "qty": "20",
+       "measure": "side",
+       "commodity": "glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208761",
+       "qty": "10",
+       "measure": "bag",
+       "commodity": "hops",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208762",
+       "qty": "14",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208763",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "alum leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208764",
+       "qty": "10",
+       "measure": "bundle",
+       "commodity": "paper",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36507",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610123",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Birmingham",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Cullis",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36507",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Farley",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208765",
+       "qty": "20",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "10 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208766",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208767",
+       "qty": "3",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36508",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610127",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "---",
+   "master_forename": "Matthew",
+   "master_surname": "Hall",
+   "from": "Gloucester",
+   "to": "Neath",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36508",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Hall",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "him",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208768",
+       "qty": "9",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208769",
+       "qty": "3000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36509",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610205",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Recovery",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Smith",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36509",
+     "merchant_forename": "William",
+     "merchant_surname": "Coles",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208770",
+       "qty": "15",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208771",
+       "qty": "9",
+       "measure": "ton",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208772",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "oak timber",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36510",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610205",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Happy Return",
+   "vessel_home": "---",
+   "master_forename": "Peter",
+   "master_surname": "Tyler",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36510",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208773",
+       "qty": "18",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "20 hhd",
+       "contributor": "0"
+      },
+      {
+       "id": "208774",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "ground clay",
+       "description": "6 hhd",
+       "contributor": "0"
+      },
+      {
+       "id": "208775",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208776",
+       "qty": "30",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208777",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "timberstuff",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208778",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "tanned leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208779",
+       "qty": "30",
+       "measure": "bag",
+       "commodity": "wick yarn",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208780",
+       "qty": "30",
+       "measure": "crate + case",
+       "commodity": "glass + glasses",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36511",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610207",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36511",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208781",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208782",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208783",
+       "qty": "30",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208784",
+       "qty": "50",
+       "measure": "bag",
+       "commodity": "flax seed",
+       "description": "6 hhd 40 cask 12 box",
+       "contributor": "0"
+      },
+      {
+       "id": "208785",
+       "qty": "8",
+       "measure": "bag",
+       "commodity": "clover seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208786",
+       "qty": "10",
+       "measure": "side",
+       "commodity": "broad glass",
+       "description": "1 butt 2 cask",
+       "contributor": "0"
+      },
+      {
+       "id": "208787",
+       "qty": "5",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "3 hhd 1 bag 2 box",
+       "contributor": "0"
+      },
+      {
+       "id": "208788",
+       "qty": "3",
+       "measure": "truss",
+       "commodity": "paper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208789",
+       "qty": "20",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36512",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610207",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Royal Ann",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Farley",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36512",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Rebolls",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208790",
+       "qty": "25",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208791",
+       "qty": "200",
+       "measure": "bundle",
+       "commodity": "sticks",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36513",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610219",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Betsy",
+   "vessel_home": "---",
+   "master_forename": "Joseph",
+   "master_surname": "Millard",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36513",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Garn",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208792",
+       "qty": "34",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "16 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208793",
+       "qty": "1",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208794",
+       "qty": "6",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36514",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610220",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Defiance",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Moxley",
+   "from": "Gloucester",
+   "to": "Chepstow",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36514",
+     "merchant_forename": "Luke",
+     "merchant_surname": "Phillips",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208795",
+       "qty": "1040",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208796",
+       "qty": "15",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208797",
+       "qty": "6",
+       "measure": "side",
+       "commodity": "glass",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36515",
+   "reference": "1267/14",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610221",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36515",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208798",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208799",
+       "qty": "50",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208800",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208801",
+       "qty": "50",
+       "measure": "bag",
+       "commodity": "flax + clover seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208802",
+       "qty": "2",
+       "measure": "crate",
+       "commodity": "glass ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208803",
+       "qty": "15",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36516",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610223",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Adventure",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Rawlings",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36516",
+     "merchant_forename": "James",
+     "merchant_surname": "Stewart",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208804",
+       "qty": "1000",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208805",
+       "qty": "1",
+       "measure": "of",
+       "commodity": "wagons",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36517",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610306",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dolphin",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36517",
+     "merchant_forename": "Joseph",
+     "merchant_surname": "Beard",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208806",
+       "qty": "27",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "12 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208807",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208808",
+       "qty": "16",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36518",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610307",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Griffiths",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36518",
+     "merchant_forename": "William",
+     "merchant_surname": "Coles",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208809",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208810",
+       "qty": "12",
+       "measure": "ton",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208811",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "birch poles",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36519",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610309",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36519",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "wool 04/07",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208812",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208813",
+       "qty": "40",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208814",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "6000 lb",
+       "contributor": "0"
+      },
+      {
+       "id": "208815",
+       "qty": "30",
+       "measure": "bag",
+       "commodity": "flax seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208816",
+       "qty": "6",
+       "measure": "truss",
+       "commodity": "paper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208817",
+       "qty": "15",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "36522",
+     "merchant_forename": "John",
+     "merchant_surname": "Harmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "rest 04/04",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208821",
+       "qty": "21",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "10 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208822",
+       "qty": "1",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208823",
+       "qty": "21",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36520",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610309",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Mary",
+   "vessel_home": "---",
+   "master_forename": "James",
+   "master_surname": "Weaver",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36520",
+     "merchant_forename": "James",
+     "merchant_surname": "Weaver",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "him",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208818",
+       "qty": "40",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208819",
+       "qty": "3000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36521",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610309",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Mary",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Glover j",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36521",
+     "merchant_forename": "John",
+     "merchant_surname": "Glover",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208820",
+       "qty": "90",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36523",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610312",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Defiance",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Moxley",
+   "from": "Gloucester",
+   "to": "Chepstow",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36523",
+     "merchant_forename": "Luke",
+     "merchant_surname": "Phillips",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208824",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208825",
+       "qty": "640",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208826",
+       "qty": "2000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208827",
+       "qty": "6",
+       "measure": "ton",
+       "commodity": "cast iron",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208828",
+       "qty": "10",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36524",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610321",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Betsy",
+   "vessel_home": "---",
+   "master_forename": "Joseph",
+   "master_surname": "Millard",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36524",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Garn",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208829",
+       "qty": "32",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "16 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208830",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208831",
+       "qty": "21",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36525",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610321",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36525",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208832",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208833",
+       "qty": "30",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208834",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208835",
+       "qty": "40",
+       "measure": "bag",
+       "commodity": "flax seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208836",
+       "qty": "50",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208837",
+       "qty": "10",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36526",
+   "reference": "1267/14",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "11",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610326",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Britannia",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Madley",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36526",
+     "merchant_forename": "William",
+     "merchant_surname": "Coles",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208838",
+       "qty": "30",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208839",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "timber + timberstuff",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36527",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610406",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Happy Return",
+   "vessel_home": "---",
+   "master_forename": "Peter",
+   "master_surname": "Tyler",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36527",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208840",
+       "qty": "19.5",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "20 hhd",
+       "contributor": "0"
+      },
+      {
+       "id": "208841",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "iron + ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208842",
+       "qty": "20",
+       "measure": "pack",
+       "commodity": "thread + manchester ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208843",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "timberstuff",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208844",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "tanned leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208845",
+       "qty": "20",
+       "measure": "bag",
+       "commodity": "wick yarn",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208846",
+       "qty": "40",
+       "measure": "crate + case",
+       "commodity": "glass + glasses",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208847",
+       "qty": "60",
+       "measure": "box",
+       "commodity": "glass",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36528",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610407",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36528",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "wool 05/03",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208848",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208849",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208850",
+       "qty": "50",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208851",
+       "qty": "100",
+       "measure": "bag",
+       "commodity": "flax seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208852",
+       "qty": "20",
+       "measure": "bag",
+       "commodity": "clover seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208853",
+       "qty": "12",
+       "measure": "case",
+       "commodity": "broad glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208854",
+       "qty": "40",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208855",
+       "qty": "5",
+       "measure": "hogshead",
+       "commodity": "alum leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208856",
+       "qty": "4",
+       "measure": "bag",
+       "commodity": "glue",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208857",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208858",
+       "qty": "10",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "36529",
+     "merchant_forename": "John",
+     "merchant_surname": "Harmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "rest 05/02",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208859",
+       "qty": "30",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "14 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208860",
+       "qty": "2",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36530",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610409",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Lord Windsor",
+   "vessel_home": "---",
+   "master_forename": "Evan",
+   "master_surname": "Evans",
+   "from": "Gloucester",
+   "to": "Neath",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36530",
+     "merchant_forename": "William",
+     "merchant_surname": "Coles",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208861",
+       "qty": "15",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208862",
+       "qty": "2000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36531",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610413",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Defiance",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Moxley",
+   "from": "Gloucester",
+   "to": "Chepstow",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36531",
+     "merchant_forename": "Luke",
+     "merchant_surname": "Phillips",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": "0.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "208863",
+       "qty": "12",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208864",
+       "qty": "560",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208865",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208866",
+       "qty": "10",
+       "measure": "truss",
+       "commodity": "manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208867",
+       "qty": "1",
+       "measure": "of",
+       "commodity": "bells",
+       "description": "1 cwt",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36532",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610413",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Waterman",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36532",
+     "merchant_forename": "John",
+     "merchant_surname": "Derbie",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208868",
+       "qty": "2200",
+       "measure": "bushel",
+       "commodity": "salt",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36533",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610414",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Cousins",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Williams",
+   "from": "Gloucester",
+   "to": "Newport",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36533",
+     "merchant_forename": "William",
+     "merchant_surname": "Keymis",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208869",
+       "qty": "800",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36534",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610417",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Adventure",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Rawlings",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36534",
+     "merchant_forename": "James",
+     "merchant_surname": "Stewart",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208870",
+       "qty": "920",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208871",
+       "qty": "8",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208872",
+       "qty": "2",
+       "measure": "butt",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208873",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "clover seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208874",
+       "qty": "2",
+       "measure": "basket",
+       "commodity": "bottled cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208875",
+       "qty": "1",
+       "measure": "of",
+       "commodity": "post chaises",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36535",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610417",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Minehead",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36535",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208876",
+       "qty": "2400",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36536",
+   "reference": "1267/14",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610418",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Worcester",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Cullis",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36536",
+     "merchant_forename": "George",
+     "merchant_surname": "Farley",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208877",
+       "qty": "2800",
+       "measure": "bushel",
+       "commodity": "salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208878",
+       "qty": "1000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208879",
+       "qty": "10",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208880",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208881",
+       "qty": "1",
+       "measure": "cask",
+       "commodity": "bottled cider",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36537",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610420",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Mary",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Glover j",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36537",
+     "merchant_forename": "John",
+     "merchant_surname": "Glover",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208882",
+       "qty": "60",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208883",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208884",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36538",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610420",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36538",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "wool 06/03",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208885",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208886",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208887",
+       "qty": "60",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208888",
+       "qty": "15",
+       "measure": "case",
+       "commodity": "broad glass",
+       "description": "english taken and made",
+       "contributor": "0"
+      },
+      {
+       "id": "208889",
+       "qty": "3",
+       "measure": "bag",
+       "commodity": "clover seed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208890",
+       "qty": "10",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "36539",
+     "merchant_forename": "John",
+     "merchant_surname": "Harmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "rest 06/02",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208891",
+       "qty": "51",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "22 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208892",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208893",
+       "qty": "19",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36540",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610429",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Banford",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Ford",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36540",
+     "merchant_forename": "William",
+     "merchant_surname": "Jenkins",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208894",
+       "qty": "30",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208895",
+       "qty": "5000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208896",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "oak poles",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36541",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610501",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dolphin",
+   "vessel_home": "---",
+   "master_forename": "Christopher",
+   "master_surname": "Clark",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36541",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Harris",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208897",
+       "qty": "22",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "10 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208898",
+       "qty": "7",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36542",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610506",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36542",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "wool 06/07",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208899",
+       "qty": "2000",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208900",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "20 hhd 1 brl",
+       "contributor": "0"
+      },
+      {
+       "id": "208901",
+       "qty": "40",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208902",
+       "qty": "12",
+       "measure": "case",
+       "commodity": "broad glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208903",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "alum leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208904",
+       "qty": "30",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208905",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "glue",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208906",
+       "qty": "7",
+       "measure": "truss",
+       "commodity": "writing paper",
+       "description": "57 pipe 8 hhd 3 bskt",
+       "contributor": "0"
+      },
+      {
+       "id": "208907",
+       "qty": "5",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "48 crib 7 bag 1 truss",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "36543",
+     "merchant_forename": "John",
+     "merchant_surname": "Harmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "rest 06/06",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208908",
+       "qty": "51",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "19 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208909",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208910",
+       "qty": "8",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36544",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610509",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Betty",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Madley",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36544",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Cullis",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208911",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208912",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "oak poles",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36545",
+   "reference": "1267/14",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610516",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Newnham Tracy",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Morgan",
+   "from": "Gloucester",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36545",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Hawkins",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208913",
+       "qty": "16",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "22 hhd",
+       "contributor": "0"
+      },
+      {
+       "id": "208914",
+       "qty": "30",
+       "measure": "ton",
+       "commodity": "british pig iron",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208915",
+       "qty": "180",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208916",
+       "qty": "14",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208917",
+       "qty": "6",
+       "measure": "barrel",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208918",
+       "qty": "3",
+       "measure": "cask",
+       "commodity": "bottled cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208919",
+       "qty": "15",
+       "measure": "basket",
+       "commodity": "bottled cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208920",
+       "qty": "15",
+       "measure": "gallon",
+       "commodity": "raisin wine",
+       "description": "2 cask",
+       "contributor": "0"
+      },
+      {
+       "id": "208921",
+       "qty": "2",
+       "measure": "cask",
+       "commodity": "cheese",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208922",
+       "qty": "6",
+       "measure": "box",
+       "commodity": "wearing apparel + household goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208923",
+       "qty": "1",
+       "measure": "of",
+       "commodity": "cider mills and press",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36546",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610519",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Standfast",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Aston",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36546",
+     "merchant_forename": "Samuel",
+     "merchant_surname": "Glover",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208924",
+       "qty": "60",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208925",
+       "qty": "50",
+       "measure": "bundle",
+       "commodity": "white hoops",
+       "description": "1 hhd 1 halfhhd 6 brl 3 box 4 frails",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36547",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610519",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Neath Packet",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Fone",
+   "from": "Gloucester",
+   "to": "Swansea",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36547",
+     "merchant_forename": "William",
+     "merchant_surname": "Coles",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208926",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36548",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610521",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36548",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208927",
+       "qty": "2200",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208928",
+       "qty": "15",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36549",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610521",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump j",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36549",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208929",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208930",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208931",
+       "qty": "20",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208932",
+       "qty": "120",
+       "measure": "gallon",
+       "commodity": "british spirits",
+       "description": "1 cask",
+       "contributor": "0"
+      },
+      {
+       "id": "208933",
+       "qty": "30",
+       "measure": "side",
+       "commodity": "broad glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208934",
+       "qty": "29",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208935",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "alum leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208936",
+       "qty": "3",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36550",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610528",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Royal Ann",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Poole",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36550",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Rebolls",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208937",
+       "qty": "25",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208938",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "whitton poles",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36551",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610601",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Mary",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Glover j",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36551",
+     "merchant_forename": "Joshua",
+     "merchant_surname": "Glover",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208939",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208940",
+       "qty": "10000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208941",
+       "qty": "30",
+       "measure": "cask",
+       "commodity": "nails",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36552",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610601",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Four Brothers",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Phillips",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36552",
+     "merchant_forename": "William",
+     "merchant_surname": "Estopp",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208942",
+       "qty": "40",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36553",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610603",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Happy Return",
+   "vessel_home": "---",
+   "master_forename": "Peter",
+   "master_surname": "Tyler",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36553",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208943",
+       "qty": "25",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208944",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208945",
+       "qty": "20",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208946",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "timberstuff",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208947",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "tanned leather",
+       "description": "returned",
+       "contributor": "0"
+      },
+      {
+       "id": "208948",
+       "qty": "20",
+       "measure": "bag",
+       "commodity": "wick yarn",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208949",
+       "qty": "40",
+       "measure": "crate + case",
+       "commodity": "glass + glasses",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36554",
+   "reference": "1267/14",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610604",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seven Brothers",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36554",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208950",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208951",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "oil",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208952",
+       "qty": "8",
+       "measure": "case",
+       "commodity": "glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208953",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208954",
+       "qty": "40",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208955",
+       "qty": "15",
+       "measure": "bag",
+       "commodity": "glue",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208956",
+       "qty": "30",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208957",
+       "qty": "10",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36555",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610605",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mercury",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Rawlings",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36555",
+     "merchant_forename": "James",
+     "merchant_surname": "Stewart",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": "7.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "208958",
+       "qty": "1400",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208959",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "15 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208960",
+       "qty": "4",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208961",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "paving stones",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208962",
+       "qty": "20",
+       "measure": "pair",
+       "commodity": "horse pots",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36556",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610606",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Bath",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36556",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Harris",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208963",
+       "qty": "19",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "19 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208964",
+       "qty": "1",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208965",
+       "qty": "5",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36557",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610608",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Defiance",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Moxley",
+   "from": "Gloucester",
+   "to": "Chepstow",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36557",
+     "merchant_forename": "Luke",
+     "merchant_surname": "Phillips",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208966",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208967",
+       "qty": "810",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208968",
+       "qty": "222",
+       "measure": "gallon",
+       "commodity": "bottled port wine",
+       "description": "5 cask",
+       "contributor": "0"
+      },
+      {
+       "id": "208969",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "cider",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208970",
+       "qty": "10",
+       "measure": "pocket",
+       "commodity": "hops",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208971",
+       "qty": "10",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36558",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610617",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Thomas and Benjamin",
+   "vessel_home": "---",
+   "master_forename": "Henry",
+   "master_surname": "Millard",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36558",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208972",
+       "qty": "24",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "26 hhd",
+       "contributor": "0"
+      },
+      {
+       "id": "208973",
+       "qty": "50",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208974",
+       "qty": "20",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208975",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "tanned leather",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208976",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "timberstuff",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208977",
+       "qty": "30",
+       "measure": "bag",
+       "commodity": "wick yarn",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208978",
+       "qty": "40",
+       "measure": "crate + case",
+       "commodity": "glass + glasses",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36559",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610618",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Betty",
+   "vessel_home": "---",
+   "master_forename": "Joshua",
+   "master_surname": "Millard",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36559",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Garn",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208979",
+       "qty": "50",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "26 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208980",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "208981",
+       "qty": "24",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36560",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610618",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dolphin",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36560",
+     "merchant_forename": "Joseph",
+     "merchant_surname": "Beard",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208982",
+       "qty": "17",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "8 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "208983",
+       "qty": "17",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36561",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610619",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joseph and Mary",
+   "vessel_home": "---",
+   "master_forename": "Charles",
+   "master_surname": "Crump",
+   "from": "Gloucester",
+   "to": "Bridgwater",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36561",
+     "merchant_forename": "Benjamin",
+     "merchant_surname": "Beale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208984",
+       "qty": "1600",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208985",
+       "qty": "40",
+       "measure": "pack",
+       "commodity": "thread + manchester goods",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208986",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "ironware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208987",
+       "qty": "4",
+       "measure": "truss",
+       "commodity": "paper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208988",
+       "qty": "12",
+       "measure": "box",
+       "commodity": "pins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208989",
+       "qty": "6",
+       "measure": "crate",
+       "commodity": "earthenware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208990",
+       "qty": "2",
+       "measure": "box",
+       "commodity": "wearing apparel",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208991",
+       "qty": "129",
+       "measure": "lb",
+       "commodity": "snuff",
+       "description": "1 hamper",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36562",
+   "reference": "1267/14",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610619",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Worcester Gally",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Cullis",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36562",
+     "merchant_forename": "George",
+     "merchant_surname": "Farley",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208992",
+       "qty": "2796",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208993",
+       "qty": "1000",
+       "measure": "of",
+       "commodity": "bricks",
+       "description": "in casks",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36563",
+   "reference": "1267/14",
+   "folio": "9",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "17610605",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peggy",
+   "vessel_home": "---",
+   "master_forename": "Samuel",
+   "master_surname": "Morgan",
+   "from": "Berkeley",
+   "to": "Bristol",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36563",
+     "merchant_forename": "Samuel",
+     "merchant_surname": "Morgan",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "him",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208994",
+       "qty": "14",
+       "measure": "ton",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208995",
+       "qty": "6",
+       "measure": "cwt",
+       "commodity": "pot clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208996",
+       "qty": "100",
+       "measure": "bundle",
+       "commodity": "hoops",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36564",
+   "reference": "1267/14",
+   "folio": "10",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610107",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Hopewell",
+   "vessel_home": "---",
+   "master_forename": "Benjamin",
+   "master_surname": "Rogers",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36564",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "208997",
+       "qty": "22",
+       "measure": "ton",
+       "commodity": "tobacco pipe clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208998",
+       "qty": "7",
+       "measure": "cwt",
+       "commodity": "tobacco pipe clay",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "208999",
+       "qty": "4",
+       "measure": "hogshead",
+       "commodity": "muscovado sugar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209000",
+       "qty": "2",
+       "measure": "tierce",
+       "commodity": "tallow",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209001",
+       "qty": "100",
+       "measure": "of",
+       "commodity": "irish raw cow hides in the hair",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209002",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "molasses",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209003",
+       "qty": "10",
+       "measure": "quarter cask",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209004",
+       "qty": "4",
+       "measure": "tierce",
+       "commodity": "sugar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209005",
+       "qty": "6",
+       "measure": "side",
+       "commodity": "glass",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209006",
+       "qty": "6",
+       "measure": "dozen",
+       "commodity": "brooms",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209007",
+       "qty": "4",
+       "measure": "dozen",
+       "commodity": "brooms",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209008",
+       "qty": "2",
+       "measure": "basket",
+       "commodity": "waters",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209009",
+       "qty": "4768",
+       "measure": "lb",
+       "commodity": "tobacco",
+       "description": "5 hhd 2 bskt",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36565",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610108",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Nancy",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Cullis",
+   "from": "Haverfordwest",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36565",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209010",
+       "qty": "840",
+       "measure": "bushel",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36566",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610112",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Shrewsbury",
+   "vessel_home": "---",
+   "master_forename": "Samuel",
+   "master_surname": "Harris",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36566",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209011",
+       "qty": "13",
+       "measure": "ton",
+       "commodity": "tobacco pipe clay",
+       "description": "858 ball",
+       "contributor": "0"
+      },
+      {
+       "id": "209012",
+       "qty": "10",
+       "measure": "hogshead",
+       "commodity": "refined sugar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209013",
+       "qty": "6",
+       "measure": "barrel",
+       "commodity": "rice",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209014",
+       "qty": "100",
+       "measure": "box",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209015",
+       "qty": "40",
+       "measure": "ring",
+       "commodity": "brass wire",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209016",
+       "qty": "81",
+       "measure": "lb",
+       "commodity": "tobacco",
+       "description": "1 box",
+       "contributor": "0"
+      },
+      {
+       "id": "209017",
+       "qty": "114",
+       "measure": "lb",
+       "commodity": "snuff",
+       "description": "1 box 1 bskt",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36567",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610122",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Worcester Gally",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Howell",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36567",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209018",
+       "qty": "20",
+       "measure": "chalder",
+       "commodity": "coals",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209019",
+       "qty": "150",
+       "measure": "firkin",
+       "commodity": "butter",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36568",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610204",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Recovery",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Smith",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36568",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209020",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "stone coal",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209021",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "copper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209022",
+       "qty": "4",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209023",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "pig iron",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36569",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610217",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Griffiths",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36569",
+     "merchant_forename": "John",
+     "merchant_surname": "Griffiths",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209024",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "stone coal",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209025",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36570",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610220",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Hopewell",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Crump",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36570",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Pritchard",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209026",
+       "qty": "64",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "30 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "209027",
+       "qty": "18",
+       "measure": "lb",
+       "commodity": "english wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36571",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610304",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Newnham Tracy",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Morgan",
+   "from": "London",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36571",
+     "merchant_forename": "---",
+     "merchant_surname": "Wallington and co",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209028",
+       "qty": "16",
+       "measure": "ton",
+       "commodity": "marble",
+       "description": "16 scantling",
+       "contributor": "0"
+      },
+      {
+       "id": "209029",
+       "qty": "1",
+       "measure": "trunk",
+       "commodity": "apparel",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209030",
+       "qty": "1",
+       "measure": "hamper",
+       "commodity": "apparel",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209031",
+       "qty": "2",
+       "measure": "cask",
+       "commodity": "currant wine",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209032",
+       "qty": "1",
+       "measure": "cwt",
+       "commodity": "sugar",
+       "description": "2 loaf 1 parcel",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36572",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610314",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Britannia",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Madley",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36572",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209033",
+       "qty": "13",
+       "measure": "ton",
+       "commodity": "stone coal",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209034",
+       "qty": "40",
+       "measure": "ton",
+       "commodity": "copper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209035",
+       "qty": "13",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36573",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610404",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Adventure",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Rawlings",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36573",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209036",
+       "qty": "6",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209037",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "chalk",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36574",
+   "reference": "1267/14",
+   "folio": "11",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610406",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Grange",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Lloyd",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36574",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209038",
+       "qty": "25",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36575",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610407",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Lord Windsor",
+   "vessel_home": "---",
+   "master_forename": "Evan",
+   "master_surname": "Evans",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36575",
+     "merchant_forename": "Evan",
+     "merchant_surname": "Evans",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "him",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209039",
+       "qty": "20",
+       "measure": "ton",
+       "commodity": "copper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209040",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36576",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610414",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seaflower",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Hodgon",
+   "from": "Milford",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36576",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209041",
+       "qty": "29",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36577",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610502",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Trigge",
+   "from": "Milford",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36577",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209042",
+       "qty": "18",
+       "measure": "chalder winchester measure",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209043",
+       "qty": "24",
+       "measure": "bushel winchester measure",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36578",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610502",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Hopewell",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Tyler",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36578",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209044",
+       "qty": "24",
+       "measure": "cwt",
+       "commodity": "tobacco pipe clay",
+       "description": "1471 ball",
+       "contributor": "0"
+      },
+      {
+       "id": "209045",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "tobacco pipe clay",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209046",
+       "qty": "2",
+       "measure": "lb",
+       "commodity": "tobacco pipe clay",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209047",
+       "qty": "20",
+       "measure": "hogshead",
+       "commodity": "molasses",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209048",
+       "qty": "10",
+       "measure": "hogshead",
+       "commodity": "refined sugar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209049",
+       "qty": "10",
+       "measure": "hogshead",
+       "commodity": "muscovado sugar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209050",
+       "qty": "4",
+       "measure": "tierce",
+       "commodity": "magnus",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209051",
+       "qty": "623",
+       "measure": "gallon",
+       "commodity": "spanish white wine",
+       "description": "5 butt",
+       "contributor": "0"
+      },
+      {
+       "id": "209052",
+       "qty": "9352",
+       "measure": "lb",
+       "commodity": "tobacco",
+       "description": "7 hhd 2 cask 3 box 7 brl 2 bag 1 tierce",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36579",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610504",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Molly",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Landan",
+   "from": "Chepstow",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36579",
+     "merchant_forename": "John",
+     "merchant_surname": "Hughes",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209053",
+       "qty": "122",
+       "measure": "cwt",
+       "commodity": "wool",
+       "description": "55 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "209054",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209055",
+       "qty": "2",
+       "measure": "lb",
+       "commodity": "wool",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36580",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610504",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mercury",
+   "vessel_home": "---",
+   "master_forename": "Owen",
+   "master_surname": "Jones",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36580",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209056",
+       "qty": "16",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36581",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610508",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Diligence",
+   "vessel_home": "---",
+   "master_forename": "Samuel",
+   "master_surname": "Cullis",
+   "from": "Chepstow",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36581",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Bullock",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209057",
+       "qty": "36",
+       "measure": "cwt",
+       "commodity": "english wool",
+       "description": "16 pack",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36582",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610516",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Neath Packet",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Fone",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36582",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209058",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "copper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209059",
+       "qty": "15",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36583",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610522",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Lord Windsor",
+   "vessel_home": "---",
+   "master_forename": "Evan",
+   "master_surname": "Evans",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36583",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209060",
+       "qty": "15",
+       "measure": "ton",
+       "commodity": "copper plates",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209061",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36584",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610528",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Worcester",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Cullis",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36584",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209062",
+       "qty": "35",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36585",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "11",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610604",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Jenkins",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36585",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209063",
+       "qty": "26",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36586",
+   "reference": "1267/14",
+   "folio": "12",
+   "rectoverso": "",
+   "seq": "12",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610608",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Betsy",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Crump",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36586",
+     "merchant_forename": "John",
+     "merchant_surname": "Carpenter",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209064",
+       "qty": "98",
+       "measure": "cwt",
+       "commodity": "wool",
+       "description": "46 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "209065",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209066",
+       "qty": "22",
+       "measure": "lb",
+       "commodity": "wool",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209067",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "bay yarn",
+       "description": "5 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "209068",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "bay yarn",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209069",
+       "qty": "11",
+       "measure": "lb",
+       "commodity": "bay yarn",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36587",
+   "reference": "1267/14",
+   "folio": "13",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610609",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Neath Packet",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Robert",
+   "from": "Neath",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36587",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209070",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "copper plates",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "209071",
+       "qty": "8",
+       "measure": "ton",
+       "commodity": "tinned plates",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36588",
+   "reference": "1267/14",
+   "folio": "13",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610613",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Britannia",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Hancock",
+   "from": "Carmarthen",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36588",
+     "merchant_forename": "James",
+     "merchant_surname": "Stewart",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": "44.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "209072",
+       "qty": "300",
+       "measure": "quarter",
+       "commodity": "oats",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36589",
+   "reference": "1267/14",
+   "folio": "13",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610616",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Betty",
+   "vessel_home": "---",
+   "master_forename": "John",
+   "master_surname": "Madley",
+   "from": "Tenby",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36589",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209073",
+       "qty": "35",
+       "measure": "chalder",
+       "commodity": "coal",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36590",
+   "reference": "1267/14",
+   "folio": "13",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610620",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Nancy",
+   "vessel_home": "---",
+   "master_forename": "William",
+   "master_surname": "Cullis",
+   "from": "Haverfordwest",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36590",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": "14.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "209074",
+       "qty": "800",
+       "measure": "bushel",
+       "commodity": "oats",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36591",
+   "reference": "1267/14",
+   "folio": "13",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610620",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Hopewell",
+   "vessel_home": "---",
+   "master_forename": "Thomas",
+   "master_surname": "Crump",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36591",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Pennington + son",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209075",
+       "qty": "25",
+       "measure": "cwt",
+       "commodity": "woollen yarn",
+       "description": "11 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "209076",
+       "qty": "16",
+       "measure": "lb",
+       "commodity": "woollen yarn",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209077",
+       "qty": "11",
+       "measure": "cwt",
+       "commodity": "bay yarn",
+       "description": "5 pack",
+       "contributor": "0"
+      },
+      {
+       "id": "209078",
+       "qty": "3",
+       "measure": "quarter",
+       "commodity": "bay yarn",
+       "description": "part of above",
+       "contributor": "0"
+      },
+      {
+       "id": "209079",
+       "qty": "1",
+       "measure": "lb",
+       "commodity": "bay yarn",
+       "description": "part of above",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36592",
+   "reference": "1267/14",
+   "folio": "13",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17610613",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "William and Susannah",
+   "vessel_home": "---",
+   "master_forename": "Robert",
+   "master_surname": "Jenkins",
+   "from": "Bristol",
+   "to": "Berkeley",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "36592",
+     "merchant_forename": "---",
+     "merchant_surname": "---",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "209080",
+       "qty": "1800",
+       "measure": "bushel",
+       "commodity": "linseed",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='36592' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}
