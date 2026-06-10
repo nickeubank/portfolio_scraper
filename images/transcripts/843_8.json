@@ -1,0 +1,2368 @@
+{
+ "debug": false,
+ "reference": "843/8",
+ "data": [
+  {
+   "id": "38645",
+   "reference": "843/8",
+   "folio": "8",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17001226",
+   "serial": "13",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "759",
+     "voyage_id": "38645",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (10).JPG",
+     "scale": "0.7211905207",
+     "rotation": "0.00",
+     "translation_x": "-656",
+     "translation_y": "-1698",
+     "clip_x1": "313",
+     "clip_y1": "499",
+     "clip_width": "1221",
+     "clip_height": "117",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38493",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "[This entry duplicated with others on f.12v]",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214852",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214853",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38644",
+   "reference": "843/8",
+   "folio": "10",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010218",
+   "serial": "66",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "758",
+     "voyage_id": "38644",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (12).JPG",
+     "scale": "0.8597281324",
+     "rotation": "3.00",
+     "translation_x": "-344",
+     "translation_y": "-2246",
+     "clip_x1": "226",
+     "clip_y1": "128",
+     "clip_width": "1551",
+     "clip_height": "185",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38492",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214850",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214851",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38646",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010220",
+   "serial": "71",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "760",
+     "voyage_id": "38646",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (15).JPG",
+     "scale": "0.8511308510",
+     "rotation": "3.00",
+     "translation_x": "-1993",
+     "translation_y": "-672",
+     "clip_x1": "206",
+     "clip_y1": "119",
+     "clip_width": "1575",
+     "clip_height": "146",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38494",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214854",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214855",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38647",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010220",
+   "serial": "72",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Thompson",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "761",
+     "voyage_id": "38647",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (15).JPG",
+     "scale": "0.8511308510",
+     "rotation": "3.00",
+     "translation_x": "-1993",
+     "translation_y": "-672",
+     "clip_x1": "210",
+     "clip_y1": "219",
+     "clip_width": "1575",
+     "clip_height": "123",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38495",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214856",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214857",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38648",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010220",
+   "serial": "73",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dorothy",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Weston",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "762",
+     "voyage_id": "38648",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (15).JPG",
+     "scale": "0.8511308510",
+     "rotation": "3.00",
+     "translation_x": "-1993",
+     "translation_y": "-672",
+     "clip_x1": "200",
+     "clip_y1": "300",
+     "clip_width": "1575",
+     "clip_height": "123",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38496",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214858",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214859",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38649",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010220",
+   "serial": "74",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "763",
+     "voyage_id": "38649",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (15).JPG",
+     "scale": "0.8013228008",
+     "rotation": "3.00",
+     "translation_x": "-1971",
+     "translation_y": "-842",
+     "clip_x1": "172",
+     "clip_y1": "248",
+     "clip_width": "1575",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38497",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214860",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "[quantity?]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38650",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010220",
+   "serial": "75",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Canary",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Will",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "764",
+     "voyage_id": "38650",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (15).JPG",
+     "scale": "0.8946937992",
+     "rotation": "3.00",
+     "translation_x": "-1993",
+     "translation_y": "-818",
+     "clip_x1": "172",
+     "clip_y1": "248",
+     "clip_width": "1575",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38498",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "15.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214861",
+       "qty": "85",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38651",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010305",
+   "serial": "96",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Farehan",
+   "vessel_home": "",
+   "master_forename": "Robert",
+   "master_surname": "Rye",
+   "from": "Southampton",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "765",
+     "voyage_id": "38651",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.8426195425",
+     "rotation": "-3.00",
+     "translation_x": "-492",
+     "translation_y": "-524",
+     "clip_x1": "149",
+     "clip_y1": "324",
+     "clip_width": "1485",
+     "clip_height": "103",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38499",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "21.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214862",
+       "qty": "150",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214863",
+       "qty": "16",
+       "measure": "bundle",
+       "commodity": "hoops",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38652",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010305",
+   "serial": "97",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Christian",
+   "vessel_home": "Poole",
+   "master_forename": "Nicholas",
+   "master_surname": "Rowe",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "766",
+     "voyage_id": "38652",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.8426195425",
+     "rotation": "-3.00",
+     "translation_x": "-492",
+     "translation_y": "-524",
+     "clip_x1": "171",
+     "clip_y1": "399",
+     "clip_width": "1485",
+     "clip_height": "103",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38500",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214864",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38653",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010305",
+   "serial": "98",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Christian",
+   "vessel_home": "Poole",
+   "master_forename": "Hugo",
+   "master_surname": "Primerose",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "767",
+     "voyage_id": "38653",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.8426195425",
+     "rotation": "-3.00",
+     "translation_x": "-492",
+     "translation_y": "-524",
+     "clip_x1": "168",
+     "clip_y1": "460",
+     "clip_width": "1485",
+     "clip_height": "103",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38501",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214865",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214866",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38654",
+   "reference": "843/8",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010305",
+   "serial": "100",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Thomas",
+   "vessel_home": "Lymington",
+   "master_forename": "Richard",
+   "master_surname": "Bursoe",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "768",
+     "voyage_id": "38654",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.8426195425",
+     "rotation": "-3.00",
+     "translation_x": "-533",
+     "translation_y": "-993",
+     "clip_x1": "119",
+     "clip_y1": "124",
+     "clip_width": "1485",
+     "clip_height": "103",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38502",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214867",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214868",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38655",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010325",
+   "serial": "123",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Wiles",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "769",
+     "voyage_id": "38655",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.9268814968",
+     "rotation": "0.00",
+     "translation_x": "-1998",
+     "translation_y": "-608",
+     "clip_x1": "139",
+     "clip_y1": "376",
+     "clip_width": "1720",
+     "clip_height": "102",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38503",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "16.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214869",
+       "qty": "90",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38656",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010325",
+   "serial": "124",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Brothers",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Thompson",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "770",
+     "voyage_id": "38656",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.9268814968",
+     "rotation": "0.00",
+     "translation_x": "-1998",
+     "translation_y": "-608",
+     "clip_x1": "142",
+     "clip_y1": "421",
+     "clip_width": "1720",
+     "clip_height": "102",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38504",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214870",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214871",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38657",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010325",
+   "serial": "125",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Prosperous",
+   "vessel_home": "Lymington",
+   "master_forename": "Richard",
+   "master_surname": "Bursud",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "771",
+     "voyage_id": "38657",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (16).JPG",
+     "scale": "0.9268814968",
+     "rotation": "0.00",
+     "translation_x": "-1998",
+     "translation_y": "-608",
+     "clip_x1": "144",
+     "clip_y1": "488",
+     "clip_width": "1720",
+     "clip_height": "102",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38505",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214872",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38658",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010423",
+   "serial": "155",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susan",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "772",
+     "voyage_id": "38658",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-542",
+     "translation_y": "-1193",
+     "clip_x1": "60",
+     "clip_y1": "377",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38506",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.0",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214873",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214874",
+       "qty": "15",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38659",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010423",
+   "serial": "156",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dorothy",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Weston",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "773",
+     "voyage_id": "38659",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-542",
+     "translation_y": "-1193",
+     "clip_x1": "62",
+     "clip_y1": "433",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38507",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "15.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214875",
+       "qty": "70",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214876",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38660",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010423",
+   "serial": "157",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Thompson",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "774",
+     "voyage_id": "38660",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-542",
+     "translation_y": "-1193",
+     "clip_x1": "59",
+     "clip_y1": "490",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38508",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214877",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214878",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38661",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010423",
+   "serial": "158",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Wills",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "775",
+     "voyage_id": "38661",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8175928995",
+     "rotation": "0.00",
+     "translation_x": "-608",
+     "translation_y": "-1190",
+     "clip_x1": "56",
+     "clip_y1": "554",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38509",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214879",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214880",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214881",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38662",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010424",
+   "serial": "161",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "776",
+     "voyage_id": "38662",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8175928995",
+     "rotation": "-3.00",
+     "translation_x": "-577",
+     "translation_y": "-1885",
+     "clip_x1": "91",
+     "clip_y1": "188",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38510",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "4.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214882",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38663",
+   "reference": "843/8",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010426",
+   "serial": "165",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Thomas",
+   "vessel_home": "Lymington",
+   "master_forename": "Richard",
+   "master_surname": "Burford",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "777",
+     "voyage_id": "38663",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.7933095728",
+     "rotation": "0.00",
+     "translation_x": "-617",
+     "translation_y": "-2111",
+     "clip_x1": "57",
+     "clip_y1": "228",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38511",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214883",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214884",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38664",
+   "reference": "843/8",
+   "folio": "16",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010512",
+   "serial": "185",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "778",
+     "voyage_id": "38664",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8215737366",
+     "rotation": "0.00",
+     "translation_x": "-1971",
+     "translation_y": "-1926",
+     "clip_x1": "153",
+     "clip_y1": "290",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38512",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214885",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38665",
+   "reference": "843/8",
+   "folio": "16",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010512",
+   "serial": "186",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Wills",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "779",
+     "voyage_id": "38665",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8215737366",
+     "rotation": "0.00",
+     "translation_x": "-1971",
+     "translation_y": "-1926",
+     "clip_x1": "139",
+     "clip_y1": "344",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38513",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "1.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214886",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214887",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38666",
+   "reference": "843/8",
+   "folio": "16",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010512",
+   "serial": "187",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susan",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "780",
+     "voyage_id": "38666",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8215737366",
+     "rotation": "0.00",
+     "translation_x": "-1971",
+     "translation_y": "-1926",
+     "clip_x1": "144",
+     "clip_y1": "403",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38514",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.0",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214888",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214889",
+       "qty": "15",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38667",
+   "reference": "843/8",
+   "folio": "16",
+   "rectoverso": "r",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010512",
+   "serial": "188",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Thompson",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "781",
+     "voyage_id": "38667",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8215737366",
+     "rotation": "0.00",
+     "translation_x": "-1971",
+     "translation_y": "-1926",
+     "clip_x1": "129",
+     "clip_y1": "464",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38515",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "1.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214890",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214891",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38668",
+   "reference": "843/8",
+   "folio": "16",
+   "rectoverso": "r",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010512",
+   "serial": "189",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dorothy",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Weston",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "782",
+     "voyage_id": "38668",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (17).JPG",
+     "scale": "0.8215737366",
+     "rotation": "0.00",
+     "translation_x": "-1971",
+     "translation_y": "-1926",
+     "clip_x1": "123",
+     "clip_y1": "516",
+     "clip_width": "1547",
+     "clip_height": "86",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38516",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "15.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214892",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214893",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38669",
+   "reference": "843/8",
+   "folio": "16",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010517",
+   "serial": "196",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Poole",
+   "master_forename": "Nicholas",
+   "master_surname": "Ousing",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "783",
+     "voyage_id": "38669",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-493",
+     "translation_y": "-584",
+     "clip_x1": "205",
+     "clip_y1": "391",
+     "clip_width": "1458",
+     "clip_height": "102",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38517",
+     "merchant_forename": "John",
+     "merchant_surname": "Newman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "5.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214894",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214895",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38674",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010601",
+   "serial": "218",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "788",
+     "voyage_id": "38674",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.6267418085",
+     "rotation": "3.00",
+     "translation_x": "-1669",
+     "translation_y": "-915",
+     "clip_x1": "491",
+     "clip_y1": "143",
+     "clip_width": "1174",
+     "clip_height": "71",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38521",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "17.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214900",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214901",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38675",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010601",
+   "serial": "219",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dorothy",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Weston",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "789",
+     "voyage_id": "38675",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.8341933471",
+     "rotation": "3.00",
+     "translation_x": "-1987",
+     "translation_y": "-764",
+     "clip_x1": "195",
+     "clip_y1": "169",
+     "clip_width": "1507",
+     "clip_height": "92",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38522",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214902",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214903",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38676",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010601",
+   "serial": "220",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Thompson",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "790",
+     "voyage_id": "38676",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.8341933471",
+     "rotation": "3.00",
+     "translation_x": "-1987",
+     "translation_y": "-764",
+     "clip_x1": "188",
+     "clip_y1": "228",
+     "clip_width": "1507",
+     "clip_height": "92",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38523",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214904",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214905",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38677",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "r",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010601",
+   "serial": "221",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susannah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "791",
+     "voyage_id": "38677",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.8341933471",
+     "rotation": "3.00",
+     "translation_x": "-1987",
+     "translation_y": "-764",
+     "clip_x1": "198",
+     "clip_y1": "292",
+     "clip_width": "1507",
+     "clip_height": "92",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38524",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214906",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214907",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38678",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "r",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010606",
+   "serial": "233",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Barell",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "792",
+     "voyage_id": "38678",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.7933095728",
+     "rotation": "0.00",
+     "translation_x": "-1935",
+     "translation_y": "-1682",
+     "clip_x1": "200",
+     "clip_y1": "157",
+     "clip_width": "1507",
+     "clip_height": "92",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38525",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "19.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214908",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214909",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214910",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "[photo barely legible]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38679",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "r",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010614",
+   "serial": "243",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "",
+   "master_surname": "",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "793",
+     "voyage_id": "38679",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (18).JPG",
+     "scale": "0.9233645304",
+     "rotation": "0.00",
+     "translation_x": "-2011",
+     "translation_y": "-2350",
+     "clip_x1": "190",
+     "clip_y1": "205",
+     "clip_width": "1507",
+     "clip_height": "92",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38526",
+     "merchant_forename": "John",
+     "merchant_surname": "Waller",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214911",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38680",
+   "reference": "843/8",
+   "folio": "17",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17010624",
+   "serial": "261",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "794",
+     "voyage_id": "38680",
+     "image_filename": "E 190_843_8 Southampton 25 Dec 1700 - 24 Jun 1701 (19).JPG",
+     "scale": "0.6756966111",
+     "rotation": "0.00",
+     "translation_x": "-691",
+     "translation_y": "-1460",
+     "clip_x1": "232",
+     "clip_y1": "350",
+     "clip_width": "1256",
+     "clip_height": "95",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38527",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214912",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214913",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "[quantity unclear]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38680' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

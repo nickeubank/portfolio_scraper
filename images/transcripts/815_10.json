@@ -1,0 +1,192 @@
+{
+ "debug": false,
+ "reference": "815/10",
+ "data": [
+  {
+   "id": "38147",
+   "reference": "815/10",
+   "folio": "7",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15810811",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "William",
+   "vessel_home": "Poole",
+   "master_forename": "Walter",
+   "master_surname": "Huse",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "6",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "311",
+     "voyage_id": "38147",
+     "image_filename": "E 190_815_10 Southampton 29 Sep 1580 - 29 Sep 1581 (8).JPG",
+     "scale": "0.7815710294",
+     "rotation": "3.00",
+     "translation_x": "-1741",
+     "translation_y": "-1262",
+     "clip_x1": "597",
+     "clip_y1": "309",
+     "clip_width": "1020",
+     "clip_height": "290",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38050",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Scott",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214109",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "gascon wine",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214110",
+       "qty": "4",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38148",
+   "reference": "815/10",
+   "folio": "7",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15810817",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Thorte",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "5",
+   "contributor": "2",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "38051",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Lane",
+     "merchant_occupation": "",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214111",
+       "qty": "12",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38149",
+   "reference": "815/10",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15810902",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Short",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "312",
+     "voyage_id": "38149",
+     "image_filename": "E 190_815_10 Southampton 29 Sep 1580 - 29 Sep 1581 (9).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-814",
+     "translation_y": "-1502",
+     "clip_x1": "283",
+     "clip_y1": "299",
+     "clip_width": "1014",
+     "clip_height": "289",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38052",
+     "merchant_forename": "John",
+     "merchant_surname": "Blanker",
+     "merchant_occupation": "",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214112",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38149' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

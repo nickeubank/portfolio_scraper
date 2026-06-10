@@ -1,0 +1,299 @@
+{
+ "debug": false,
+ "reference": "866/6",
+ "data": [
+  {
+   "id": "37914",
+   "reference": "866/6",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15920501",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "",
+   "vessel_home": "",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "73",
+     "voyage_id": "37914",
+     "image_filename": "E 190_866_6 Poole 26 Mar 1592 - 29 Sep 1592 (6).JPG",
+     "scale": "0.7815710294",
+     "rotation": "0.00",
+     "translation_x": "-2159",
+     "translation_y": "-630",
+     "clip_x1": "112",
+     "clip_y1": "199",
+     "clip_width": "1312",
+     "clip_height": "191",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37798",
+     "merchant_forename": "",
+     "merchant_surname": "",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "[document damaged]",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213613",
+       "qty": "84",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37915",
+   "reference": "866/6",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15920612",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "74",
+     "voyage_id": "37915",
+     "image_filename": "E 190_866_6 Poole 26 Mar 1592 - 29 Sep 1592 (6).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-2158",
+     "translation_y": "-1559",
+     "clip_x1": "67",
+     "clip_y1": "171",
+     "clip_width": "1362",
+     "clip_height": "316",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37799",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "William North, Robert Smith, 100 marks",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213614",
+       "qty": "44",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213615",
+       "qty": "8",
+       "measure": "barrel",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213616",
+       "qty": "4",
+       "measure": "bale",
+       "commodity": "paper",
+       "description": "containing 64 reams",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37916",
+   "reference": "866/6",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15920724",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "75",
+     "voyage_id": "37916",
+     "image_filename": "E 190_866_6 Poole 26 Mar 1592 - 29 Sep 1592 (6).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-2158",
+     "translation_y": "-1559",
+     "clip_x1": "81",
+     "clip_y1": "695",
+     "clip_width": "1353",
+     "clip_height": "165",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37800",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "William North, Robert Smith \u00a3[illegible]",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213617",
+       "qty": "16",
+       "measure": "barrel",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37917",
+   "reference": "866/6",
+   "folio": "5",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15920913",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "77",
+     "voyage_id": "37917",
+     "image_filename": "E 190_866_6 Poole 26 Mar 1592 - 29 Sep 1592 (7).JPG",
+     "scale": "0.9457009456",
+     "rotation": "9.00",
+     "translation_x": "-552",
+     "translation_y": "-569",
+     "clip_x1": "65",
+     "clip_y1": "314",
+     "clip_width": "1601",
+     "clip_height": "280",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37801",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "William North, Lamflet Holmes, \u00a3200",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213618",
+       "qty": "60",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213619",
+       "qty": "8",
+       "measure": "barrel",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213620",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "english woad",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37917' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

@@ -1,0 +1,169 @@
+{
+ "debug": false,
+ "reference": "867/11",
+ "data": [
+  {
+   "id": "37947",
+   "reference": "867/11",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16011001",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Judith",
+   "vessel_home": "Poole",
+   "master_forename": "Edward",
+   "master_surname": "Barrow",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "106",
+     "voyage_id": "37947",
+     "image_filename": "E 190_867_11 Poole 29 Sep 1601 - 04 Apr 1602 (2).JPG",
+     "scale": "2.1420458772",
+     "rotation": "0.00",
+     "translation_x": "435",
+     "translation_y": "1272",
+     "clip_x1": "13",
+     "clip_y1": "42",
+     "clip_width": "1506",
+     "clip_height": "389",
+     "invert": "0",
+     "brightness": "0.80",
+     "contrast": "0.55",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37834",
+     "merchant_forename": "Augustine",
+     "merchant_surname": "Skinner",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213698",
+       "qty": "12",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "[?quantity]",
+       "contributor": "2"
+      },
+      {
+       "id": "213699",
+       "qty": "0",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "[?quantity]",
+       "contributor": "2"
+      },
+      {
+       "id": "213700",
+       "qty": "4",
+       "measure": "doleae [casks]",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37948",
+   "reference": "867/11",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16011102",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Emmett",
+   "vessel_home": "Poole",
+   "master_forename": "Edward",
+   "master_surname": "Havercombe",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "107",
+     "voyage_id": "37948",
+     "image_filename": "E 190_867_11 Poole 29 Sep 1601 - 04 Apr 1602 (2).JPG",
+     "scale": "2.1420458772",
+     "rotation": "0.00",
+     "translation_x": "435",
+     "translation_y": "1272",
+     "clip_x1": "100",
+     "clip_y1": "343",
+     "clip_width": "1256",
+     "clip_height": "412",
+     "invert": "0",
+     "brightness": "0.80",
+     "contrast": "0.55",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37835",
+     "merchant_forename": "John",
+     "merchant_surname": "Berriman",
+     "merchant_occupation": "",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213701",
+       "qty": "37",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213702",
+       "qty": "8",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213703",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37948' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

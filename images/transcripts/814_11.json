@@ -1,0 +1,72 @@
+{
+ "debug": false,
+ "reference": "814/11",
+ "data": [
+  {
+   "id": "38136",
+   "reference": "814/11",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15750423",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Katherine",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Simmes",
+   "from": "Southampton",
+   "to": "Southampton",
+   "vessel_burthen": "6",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "300",
+     "voyage_id": "38136",
+     "image_filename": "E 190_814_11 Southampton 03 Apr 1575 - 29 Sep 1575 (3).JPG",
+     "scale": "1.3570471994",
+     "rotation": "6.00",
+     "translation_x": "-2455",
+     "translation_y": "45",
+     "clip_x1": "13",
+     "clip_y1": "42",
+     "clip_width": "1728",
+     "clip_height": "403",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38041",
+     "merchant_forename": "Francis",
+     "merchant_surname": "Loveday",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "for Ambrose Keyllowey",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214096",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38136' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

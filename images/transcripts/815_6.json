@@ -1,0 +1,145 @@
+{
+ "debug": false,
+ "reference": "815/6",
+ "data": [
+  {
+   "id": "38010",
+   "reference": "815/6",
+   "folio": "13",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15800421",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "London",
+   "master_forename": "John",
+   "master_surname": "Birch",
+   "from": "Southampton",
+   "to": "St Lucas",
+   "vessel_burthen": "70",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "171",
+     "voyage_id": "38010",
+     "image_filename": "E 190_815_6 Southampton 29 Sep 1579 - 29 Sep 1580 (14).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1781",
+     "translation_y": "-977",
+     "clip_x1": "637",
+     "clip_y1": "143",
+     "clip_width": "863",
+     "clip_height": "271",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37908",
+     "merchant_forename": "",
+     "merchant_surname": "",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "for the Ambassador of the King of Spain by virtue of the letters of the Lord Treasurer of England",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213827",
+       "qty": "150",
+       "measure": "piece",
+       "commodity": "timber",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38011",
+   "reference": "815/6",
+   "folio": "16",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15800617",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Youghal",
+   "master_forename": "William",
+   "master_surname": "Neale",
+   "from": "Southampton",
+   "to": "Cork",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "172",
+     "voyage_id": "38011",
+     "image_filename": "E 190_815_6 Southampton 29 Sep 1579 - 29 Sep 1580 (18).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-804",
+     "translation_y": "-1259",
+     "clip_x1": "520",
+     "clip_y1": "350",
+     "clip_width": "867",
+     "clip_height": "221",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37909",
+     "merchant_forename": "James",
+     "merchant_surname": "Mathew",
+     "merchant_occupation": "",
+     "merchant_abode": "Cork",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213828",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "spanish iron",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213829",
+       "qty": "400",
+       "measure": "pound",
+       "commodity": "alum",
+       "description": "in 2 barrels",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38011' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

@@ -1,0 +1,218 @@
+{
+ "debug": false,
+ "reference": "867/3",
+ "data": [
+  {
+   "id": "37980",
+   "reference": "867/3",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15961007",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Erenberry[?]",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Cartridge",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "139",
+     "voyage_id": "37980",
+     "image_filename": "E 190_867_3 Poole 29 Sep 1596 - 27 Mar 1597 (3).JPG",
+     "scale": "0.7815710294",
+     "rotation": "0.00",
+     "translation_x": "-1816",
+     "translation_y": "-866",
+     "clip_x1": "473",
+     "clip_y1": "311",
+     "clip_width": "1132",
+     "clip_height": "252",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37873",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "gentleman",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213772",
+       "qty": "80",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213773",
+       "qty": "7",
+       "measure": "doleae [casks]",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37981",
+   "reference": "867/3",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15961107",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Standley",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "12",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "140",
+     "voyage_id": "37981",
+     "image_filename": "E 190_867_3 Poole 29 Sep 1596 - 27 Mar 1597 (3).JPG",
+     "scale": "0.8010535842",
+     "rotation": "0.00",
+     "translation_x": "-1737",
+     "translation_y": "-1529",
+     "clip_x1": "488",
+     "clip_y1": "295",
+     "clip_width": "1228",
+     "clip_height": "248",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37874",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "gentleman",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213774",
+       "qty": "20",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37982",
+   "reference": "867/3",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15970111",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Seaberry",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Cartridge",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "141",
+     "voyage_id": "37982",
+     "image_filename": "E 190_867_3 Poole 29 Sep 1596 - 27 Mar 1597 (4).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-653",
+     "translation_y": "-752",
+     "clip_x1": "305",
+     "clip_y1": "142",
+     "clip_width": "1195",
+     "clip_height": "306",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37875",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "gentleman",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213775",
+       "qty": "104",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213776",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37982' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

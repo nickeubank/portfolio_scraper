@@ -1,0 +1,448 @@
+{
+ "debug": false,
+ "reference": "865/7",
+ "data": [
+  {
+   "id": "37925",
+   "reference": "865/7",
+   "folio": "0",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15751017",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "James",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Thresher",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "16",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "86",
+     "voyage_id": "37925",
+     "image_filename": "E 190_865_7 Poole 29 Sep 1575 - 22 Apr 1576 (2).JPG",
+     "scale": "0.7815710294",
+     "rotation": "0.00",
+     "translation_x": "-1904",
+     "translation_y": "-1329",
+     "clip_x1": "309",
+     "clip_y1": "171",
+     "clip_width": "1317",
+     "clip_height": "227",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37809",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Warfield",
+     "merchant_occupation": "grocer",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "Cast away upon the coast of normandie",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213636",
+       "qty": "13",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213637",
+       "qty": "1",
+       "measure": "",
+       "commodity": "bedsteads",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37926",
+   "reference": "865/7",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15751123",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Marie Rede",
+   "vessel_home": "Poole",
+   "master_forename": "Briant",
+   "master_surname": "Barker",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "16",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "87",
+     "voyage_id": "37926",
+     "image_filename": "E 190_865_7 Poole 29 Sep 1575 - 22 Apr 1576 (3).JPG",
+     "scale": "0.9457009456",
+     "rotation": "-3.00",
+     "translation_x": "-842",
+     "translation_y": "-1461",
+     "clip_x1": "65",
+     "clip_y1": "155",
+     "clip_width": "1355",
+     "clip_height": "259",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37810",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Warfield",
+     "merchant_occupation": "grocer",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213638",
+       "qty": "10",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37927",
+   "reference": "865/7",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15751217",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Myching",
+   "master_forename": "William",
+   "master_surname": "Smarte",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "18",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "88",
+     "voyage_id": "37927",
+     "image_filename": "E 190_865_7 Poole 29 Sep 1575 - 22 Apr 1576 (3).JPG",
+     "scale": "0.8426195425",
+     "rotation": "0.00",
+     "translation_x": "-2028",
+     "translation_y": "-1020",
+     "clip_x1": "313",
+     "clip_y1": "139",
+     "clip_width": "1318",
+     "clip_height": "334",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37811",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Warfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213639",
+       "qty": "16",
+       "measure": "doleae [casks]",
+       "commodity": "alum & copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37812",
+     "merchant_forename": "John",
+     "merchant_surname": "Harman",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Lewes",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213640",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213641",
+       "qty": "4",
+       "measure": "hogshead",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213642",
+       "qty": "3",
+       "measure": "cake",
+       "commodity": "rosten[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213643",
+       "qty": "2",
+       "measure": "pece",
+       "commodity": "dowlas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37928",
+   "reference": "865/7",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760125",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Marie Rede",
+   "vessel_home": "Poole",
+   "master_forename": "Briant",
+   "master_surname": "Barker",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "16",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "89",
+     "voyage_id": "37928",
+     "image_filename": "E 190_865_7 Poole 29 Sep 1575 - 22 Apr 1576 (3).JPG",
+     "scale": "0.8426195425",
+     "rotation": "-3.00",
+     "translation_x": "-2150",
+     "translation_y": "-1902",
+     "clip_x1": "114",
+     "clip_y1": "290",
+     "clip_width": "1451",
+     "clip_height": "270",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37813",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Warfield",
+     "merchant_occupation": "grocer",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213644",
+       "qty": "9",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213645",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213646",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213647",
+       "qty": "10",
+       "measure": "barrel",
+       "commodity": "english honey",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37929",
+   "reference": "865/7",
+   "folio": "3",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15760309",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Teger",
+   "vessel_home": "Dartmouth",
+   "master_forename": "Symond",
+   "master_surname": "Edwards",
+   "from": "Poole",
+   "to": "Dartmouth",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "90",
+     "voyage_id": "37929",
+     "image_filename": "E 190_865_7 Poole 29 Sep 1575 - 22 Apr 1576 (4).JPG",
+     "scale": "0.9457009456",
+     "rotation": "0.00",
+     "translation_x": "-2041",
+     "translation_y": "-1277",
+     "clip_x1": "223",
+     "clip_y1": "251",
+     "clip_width": "1518",
+     "clip_height": "403",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37814",
+     "merchant_forename": "Christopher",
+     "merchant_surname": "Roze",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213648",
+       "qty": "34",
+       "measure": "bracii[?]",
+       "commodity": "ordi[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213649",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213650",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "weighing 2400 pounds",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37815",
+     "merchant_forename": "Peter",
+     "merchant_surname": "Barter",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Dartmouth",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213651",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37929' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

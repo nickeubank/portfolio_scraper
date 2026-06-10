@@ -1,0 +1,137 @@
+{
+ "debug": false,
+ "reference": "867/14",
+ "data": [
+  {
+   "id": "37988",
+   "reference": "867/14",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16000206",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Talbott",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "147",
+     "voyage_id": "37988",
+     "image_filename": "E 190_867_14 Poole 29 Sep 1599 - 23 Mar 1600 (2).JPG",
+     "scale": "0.7815710294",
+     "rotation": "0.00",
+     "translation_x": "-1880",
+     "translation_y": "-1962",
+     "clip_x1": "410",
+     "clip_y1": "254",
+     "clip_width": "1180",
+     "clip_height": "223",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37884",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213788",
+       "qty": "87",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37989",
+   "reference": "867/14",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16000223",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Standley",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "24",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "148",
+     "voyage_id": "37989",
+     "image_filename": "E 190_867_14 Poole 29 Sep 1599 - 23 Mar 1600 (2).JPG",
+     "scale": "0.7815710294",
+     "rotation": "-3.00",
+     "translation_x": "-1910",
+     "translation_y": "-2110",
+     "clip_x1": "410",
+     "clip_y1": "254",
+     "clip_width": "1236",
+     "clip_height": "215",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37885",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213789",
+       "qty": "82",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37989' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

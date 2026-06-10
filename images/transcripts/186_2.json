@@ -1,0 +1,88 @@
+{
+ "debug": false,
+ "reference": "186/2",
+ "data": [
+  {
+   "id": "38156",
+   "reference": "186/2",
+   "folio": "0",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16010506",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margret",
+   "vessel_home": "Bridlington",
+   "master_forename": "Richard",
+   "master_surname": "Troutbecke",
+   "from": "Bridlington",
+   "to": "Hartlepool",
+   "vessel_burthen": "",
+   "contributor": "11",
+   "owner": true,
+   "clips": [
+    {
+     "id": "320",
+     "voyage_id": "38156",
+     "image_filename": "E 190_186_2 THE PORT OF NEWCASTLE. Port: Hartlepool and Stockton Official: Surveyor Coastal. 29 Sep 1601 - 29 Sep 1602 IMG_5669.JPG",
+     "scale": "0.6250000000",
+     "rotation": "91.00",
+     "translation_x": "-635",
+     "translation_y": "-494",
+     "clip_x1": "335",
+     "clip_y1": "131",
+     "clip_width": "1137",
+     "clip_height": "337",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38054",
+     "merchant_forename": "",
+     "merchant_surname": "",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "11",
+     "tonnage": "9.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214114",
+       "qty": "18",
+       "measure": "quarter",
+       "commodity": "rye (Siligo)",
+       "description": "",
+       "contributor": "11"
+      },
+      {
+       "id": "214115",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "barley (hordeum)",
+       "description": "",
+       "contributor": "11"
+      },
+      {
+       "id": "214116",
+       "qty": "0",
+       "measure": "",
+       "commodity": "",
+       "description": "",
+       "contributor": "11"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38156' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

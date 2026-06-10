@@ -1,0 +1,363 @@
+{
+ "debug": false,
+ "reference": "815/9",
+ "data": [
+  {
+   "id": "38014",
+   "reference": "815/9",
+   "folio": "18",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15810902",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Merr dn",
+   "vessel_home": "Dieppe",
+   "master_forename": "Vincent",
+   "master_surname": "Flemminge",
+   "from": "Southampton",
+   "to": "",
+   "vessel_burthen": "18",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "177",
+     "voyage_id": "38014",
+     "image_filename": "E 190_815_9 Southampton 29 Sep 1580 - 29 Sep 1581 (19).JPG",
+     "scale": "0.5872058824",
+     "rotation": "3.00",
+     "translation_x": "-2259",
+     "translation_y": "-1124",
+     "clip_x1": "230",
+     "clip_y1": "61",
+     "clip_width": "504",
+     "clip_height": "393",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37912",
+     "merchant_forename": "William",
+     "merchant_surname": "Hersant",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213836",
+       "qty": "7",
+       "measure": "piece",
+       "commodity": "Saries[?]",
+       "description": "in 2 packets",
+       "contributor": "2"
+      },
+      {
+       "id": "213837",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "weighing 500 pounds",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37916",
+     "merchant_forename": "William",
+     "merchant_surname": "Hersant",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213843",
+       "qty": "7",
+       "measure": "piece",
+       "commodity": "saies[?]",
+       "description": "in 2 packets",
+       "contributor": "2"
+      },
+      {
+       "id": "213844",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "weighing 500 pounds",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37913",
+     "merchant_forename": "William",
+     "merchant_surname": "Hersant",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213838",
+       "qty": "7",
+       "measure": "piece",
+       "commodity": "Saies[?]",
+       "description": "in 2 packets",
+       "contributor": "2"
+      },
+      {
+       "id": "213839",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "weighing 500 pounds",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37914",
+     "merchant_forename": "Mathew",
+     "merchant_surname": "Sohneir[?]",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213840",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "green copperas",
+       "description": "weighing 1500 pounds",
+       "contributor": "2"
+      },
+      {
+       "id": "213841",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "weighing 500 pounds, for his own use",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37917",
+     "merchant_forename": "Mathew",
+     "merchant_surname": "Sohneir[?]",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213845",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "green copperas",
+       "description": "weighing 1500 pounds",
+       "contributor": "2"
+      },
+      {
+       "id": "213846",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "weighing 500 pounds, for his own use",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37918",
+     "merchant_forename": "Arnold",
+     "merchant_surname": "Clarke",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213847",
+       "qty": "8",
+       "measure": "piece",
+       "commodity": "saies[?]",
+       "description": "in 1 packet",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37915",
+     "merchant_forename": "Arnold",
+     "merchant_surname": "Clarke",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213842",
+       "qty": "8",
+       "measure": "piece",
+       "commodity": "saies",
+       "description": "in 1 packet",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38016",
+   "reference": "815/9",
+   "folio": "18",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15810908",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Jersey",
+   "master_forename": "Andrew",
+   "master_surname": "Phillator",
+   "from": "Southampton",
+   "to": "St Malo",
+   "vessel_burthen": "18",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "178",
+     "voyage_id": "38016",
+     "image_filename": "E 190_815_9 Southampton 29 Sep 1580 - 29 Sep 1581 (20).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-1228",
+     "translation_y": "-1185",
+     "clip_x1": "270",
+     "clip_y1": "324",
+     "clip_width": "759",
+     "clip_height": "356",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37919",
+     "merchant_forename": "Gilles",
+     "merchant_surname": "Shers",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213848",
+       "qty": "6",
+       "measure": "piece",
+       "commodity": "saies",
+       "description": "in 1 packet",
+       "contributor": "2"
+      },
+      {
+       "id": "213849",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "weighing 900 pounds",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37920",
+     "merchant_forename": "Peter",
+     "merchant_surname": "Janvris",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213850",
+       "qty": "12",
+       "measure": "piece",
+       "commodity": "stricts",
+       "description": "in 3 packets",
+       "contributor": "2"
+      },
+      {
+       "id": "213851",
+       "qty": "2",
+       "measure": "",
+       "commodity": "short cloths",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213852",
+       "qty": "9",
+       "measure": "piece",
+       "commodity": "kerseys",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213853",
+       "qty": "14",
+       "measure": "piece",
+       "commodity": "linings",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38016' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

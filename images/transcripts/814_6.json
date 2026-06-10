@@ -1,0 +1,72 @@
+{
+ "debug": false,
+ "reference": "814/6",
+ "data": [
+  {
+   "id": "38150",
+   "reference": "814/6",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15691014",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Shoulder of Mutton",
+   "vessel_home": "Hythe",
+   "master_forename": "John",
+   "master_surname": "Chadwell",
+   "from": "Southampton",
+   "to": "Poole",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "313",
+     "voyage_id": "38150",
+     "image_filename": "E 190_814_6 Southampton 29 Sep 1569 - 26 Mar 1570 (3).JPG",
+     "scale": "0.7815710294",
+     "rotation": "0.00",
+     "translation_x": "-994",
+     "translation_y": "-654",
+     "clip_x1": "126",
+     "clip_y1": "248",
+     "clip_width": "968",
+     "clip_height": "207",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38053",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Petie",
+     "merchant_occupation": "",
+     "merchant_abode": "Christchurch",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214113",
+       "qty": "1070",
+       "measure": "lb",
+       "commodity": "lead",
+       "description": "15 pieces",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38150' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

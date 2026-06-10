@@ -1,0 +1,145 @@
+{
+ "debug": false,
+ "reference": "872/4",
+ "data": [
+  {
+   "id": "37993",
+   "reference": "872/4",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16190318",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Lymington",
+   "master_forename": "Henry",
+   "master_surname": "Easton[?]",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "8",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "154",
+     "voyage_id": "37993",
+     "image_filename": "E 190_872_4 Poole 25 Dec 1618 - 25 Dec 1619 (3).JPG",
+     "scale": "0.7103340866",
+     "rotation": "0.00",
+     "translation_x": "-834",
+     "translation_y": "-1012",
+     "clip_x1": "156",
+     "clip_y1": "152",
+     "clip_width": "1099",
+     "clip_height": "254",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37889",
+     "merchant_forename": "Nicholas",
+     "merchant_surname": "G__gon[?]",
+     "merchant_occupation": "",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213796",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37994",
+   "reference": "872/4",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16191002",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Angell",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "18",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "155",
+     "voyage_id": "37994",
+     "image_filename": "E 190_872_4 Poole 25 Dec 1618 - 25 Dec 1619 (3).JPG",
+     "scale": "0.6203128085",
+     "rotation": "0.00",
+     "translation_x": "-1921",
+     "translation_y": "-1265",
+     "clip_x1": "156",
+     "clip_y1": "152",
+     "clip_width": "984",
+     "clip_height": "263",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37890",
+     "merchant_forename": "John",
+     "merchant_surname": "Cingly[?]",
+     "merchant_occupation": "grocer",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213797",
+       "qty": "50",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213798",
+       "qty": "4",
+       "measure": "hogshead",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37994' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

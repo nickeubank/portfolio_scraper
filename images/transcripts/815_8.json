@@ -1,0 +1,72 @@
+{
+ "debug": false,
+ "reference": "815/8",
+ "data": [
+  {
+   "id": "38146",
+   "reference": "815/8",
+   "folio": "4",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15790525",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mayflower",
+   "vessel_home": "Christchurch",
+   "master_forename": "Richard",
+   "master_surname": "Elmar",
+   "from": "Southampton",
+   "to": "Rye",
+   "vessel_burthen": "5",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "310",
+     "voyage_id": "38146",
+     "image_filename": "E 190_815_8 Southampton 19 Apr 1579 - 29 Sep 1579 (6).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-618",
+     "translation_y": "-1047",
+     "clip_x1": "390",
+     "clip_y1": "428",
+     "clip_width": "929",
+     "clip_height": "174",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38049",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Elmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214108",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38146' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

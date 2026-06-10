@@ -1,0 +1,2347 @@
+{
+ "debug": false,
+ "reference": "847/4",
+ "data": [
+  {
+   "id": "39424",
+   "reference": "847/4",
+   "folio": "11",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040721",
+   "serial": "28",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1534",
+     "voyage_id": "39424",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (13).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-830",
+     "translation_y": "-1778",
+     "clip_x1": "356",
+     "clip_y1": "288",
+     "clip_width": "975",
+     "clip_height": "135",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39286",
+     "merchant_forename": "John",
+     "merchant_surname": "Hancock",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215728",
+       "qty": "2",
+       "measure": "cwt",
+       "commodity": "prunes",
+       "description": "pd duty here the 30 May last per John Corbin out of the Hopewell of & from Guernsey himself master",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39425",
+   "reference": "847/4",
+   "folio": "12",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040803",
+   "serial": "42",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1535",
+     "voyage_id": "39425",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (14).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-675",
+     "translation_y": "-1311",
+     "clip_x1": "427",
+     "clip_y1": "281",
+     "clip_width": "1064",
+     "clip_height": "99",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39289",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "17.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215731",
+       "qty": "120",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39426",
+   "reference": "847/4",
+   "folio": "12",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040803",
+   "serial": "43",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joshua",
+   "vessel_home": "Poole",
+   "master_forename": "Henry",
+   "master_surname": "Weston",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1536",
+     "voyage_id": "39426",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (14).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-675",
+     "translation_y": "-1311",
+     "clip_x1": "427",
+     "clip_y1": "357",
+     "clip_width": "1064",
+     "clip_height": "99",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39288",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215730",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39427",
+   "reference": "847/4",
+   "folio": "13",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040817",
+   "serial": "59",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1537",
+     "voyage_id": "39427",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (15).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-679",
+     "translation_y": "-1031",
+     "clip_x1": "422",
+     "clip_y1": "152",
+     "clip_width": "1079",
+     "clip_height": "166",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39290",
+     "merchant_forename": "James",
+     "merchant_surname": "Turney",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215732",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "foreign iron",
+       "description": "came here in a 8 qt in the Richard & Mary Abraham Jones Master from London per coquet dated the 13 ultimo",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39428",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040829",
+   "serial": "69",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1538",
+     "voyage_id": "39428",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (15).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-1628",
+     "translation_y": "-1032",
+     "clip_x1": "525",
+     "clip_y1": "178",
+     "clip_width": "1079",
+     "clip_height": "116",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39294",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "17.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215736",
+       "qty": "120",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39429",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040829",
+   "serial": "70",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susannah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Cowes",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1539",
+     "voyage_id": "39429",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (15).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-1628",
+     "translation_y": "-1032",
+     "clip_x1": "525",
+     "clip_y1": "263",
+     "clip_width": "1079",
+     "clip_height": "116",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39293",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215735",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39430",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040829",
+   "serial": "71",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1540",
+     "voyage_id": "39430",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (15).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1873",
+     "translation_y": "-951",
+     "clip_x1": "278",
+     "clip_y1": "386",
+     "clip_width": "1674",
+     "clip_height": "112",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39295",
+     "merchant_forename": "John",
+     "merchant_surname": "Newman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215737",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39431",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "r",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040831",
+   "serial": "78",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Land Carriage",
+   "vessel_home": "",
+   "master_forename": "James",
+   "master_surname": "Etheridge",
+   "from": "Southampton",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1541",
+     "voyage_id": "39431",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (15).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1872",
+     "translation_y": "-2114",
+     "clip_x1": "287",
+     "clip_y1": "90",
+     "clip_width": "1674",
+     "clip_height": "195",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39296",
+     "merchant_forename": "James",
+     "merchant_surname": "Hancock",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215738",
+       "qty": "128",
+       "measure": "gallon",
+       "commodity": "single french prize brandy",
+       "description": "pd dutys here per J_ Falla the 24 July in a 8 qt out of the Margaret of & from Guernsey Jerem Donnall master",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39432",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040905",
+   "serial": "83",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Bazell",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1542",
+     "voyage_id": "39432",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (16).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-654",
+     "translation_y": "-1204",
+     "clip_x1": "444",
+     "clip_y1": "145",
+     "clip_width": "1078",
+     "clip_height": "124",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39297",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "28.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215739",
+       "qty": "200",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39433",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040905",
+   "serial": "84",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Cowes",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1543",
+     "voyage_id": "39433",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (16).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-654",
+     "translation_y": "-1204",
+     "clip_x1": "440",
+     "clip_y1": "232",
+     "clip_width": "1078",
+     "clip_height": "124",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39298",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215740",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39434",
+   "reference": "847/4",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040905",
+   "serial": "85",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Cowes",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1544",
+     "voyage_id": "39434",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (16).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-654",
+     "translation_y": "-1204",
+     "clip_x1": "438",
+     "clip_y1": "304",
+     "clip_width": "1078",
+     "clip_height": "124",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39299",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215741",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39435",
+   "reference": "847/4",
+   "folio": "16",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040926",
+   "serial": "127",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Bazell",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1545",
+     "voyage_id": "39435",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (18).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-720",
+     "translation_y": "-1681",
+     "clip_x1": "390",
+     "clip_y1": "219",
+     "clip_width": "1061",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39300",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "41.0",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215742",
+       "qty": "160",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39436",
+   "reference": "847/4",
+   "folio": "18",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041011",
+   "serial": "169",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dorothy",
+   "vessel_home": "Poole",
+   "master_forename": "George",
+   "master_surname": "Cloyde",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1546",
+     "voyage_id": "39436",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (20).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-774",
+     "translation_y": "-1719",
+     "clip_x1": "243",
+     "clip_y1": "133",
+     "clip_width": "1157",
+     "clip_height": "109",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39301",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215743",
+       "qty": "100",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39437",
+   "reference": "847/4",
+   "folio": "18",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041011",
+   "serial": "170",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1547",
+     "voyage_id": "39437",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (20).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-769",
+     "translation_y": "-1719",
+     "clip_x1": "243",
+     "clip_y1": "216",
+     "clip_width": "1157",
+     "clip_height": "109",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39302",
+     "merchant_forename": "William",
+     "merchant_surname": "Knapton",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215744",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39438",
+   "reference": "847/4",
+   "folio": "18",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041011",
+   "serial": "171",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susannah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1548",
+     "voyage_id": "39438",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (20).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-769",
+     "translation_y": "-1719",
+     "clip_x1": "247",
+     "clip_y1": "297",
+     "clip_width": "1157",
+     "clip_height": "109",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39303",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215745",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39439",
+   "reference": "847/4",
+   "folio": "18",
+   "rectoverso": "v",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041011",
+   "serial": "172",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1549",
+     "voyage_id": "39439",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (20).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-769",
+     "translation_y": "-1719",
+     "clip_x1": "239",
+     "clip_y1": "383",
+     "clip_width": "1157",
+     "clip_height": "109",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39304",
+     "merchant_forename": "Martin",
+     "merchant_surname": "Stokes",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "8.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215746",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39440",
+   "reference": "847/4",
+   "folio": "19",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041014",
+   "serial": "182",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Christchurch",
+   "master_forename": "Stephen",
+   "master_surname": "Leonard",
+   "from": "Southampton",
+   "to": "Arundel",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1550",
+     "voyage_id": "39440",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (21).JPG",
+     "scale": "0.4852941176",
+     "rotation": "0.00",
+     "translation_x": "-975",
+     "translation_y": "-774",
+     "clip_x1": "331",
+     "clip_y1": "352",
+     "clip_width": "880",
+     "clip_height": "147",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39305",
+     "merchant_forename": "Richard",
+     "merchant_surname": "King",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215747",
+       "qty": "400",
+       "measure": "bushel",
+       "commodity": "white english salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39441",
+   "reference": "847/4",
+   "folio": "20",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041024",
+   "serial": "201",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1551",
+     "voyage_id": "39441",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (22).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-823",
+     "translation_y": "-1130",
+     "clip_x1": "401",
+     "clip_y1": "249",
+     "clip_width": "953",
+     "clip_height": "108",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39306",
+     "merchant_forename": "John",
+     "merchant_surname": "Oake",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "8.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215748",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39442",
+   "reference": "847/4",
+   "folio": "20",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041024",
+   "serial": "202",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1552",
+     "voyage_id": "39442",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (22).JPG",
+     "scale": "0.4852941176",
+     "rotation": "0.00",
+     "translation_x": "-1122",
+     "translation_y": "-1224",
+     "clip_x1": "179",
+     "clip_y1": "264",
+     "clip_width": "874",
+     "clip_height": "80",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39307",
+     "merchant_forename": "John",
+     "merchant_surname": "Newman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215749",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39443",
+   "reference": "847/4",
+   "folio": "20",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041024",
+   "serial": "203",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susannah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1553",
+     "voyage_id": "39443",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (22).JPG",
+     "scale": "0.4852941176",
+     "rotation": "0.00",
+     "translation_x": "-1122",
+     "translation_y": "-1224",
+     "clip_x1": "181",
+     "clip_y1": "328",
+     "clip_width": "874",
+     "clip_height": "80",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39308",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215750",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39444",
+   "reference": "847/4",
+   "folio": "20",
+   "rectoverso": "v",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041027",
+   "serial": "207",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Christchurch",
+   "master_forename": "Stephen",
+   "master_surname": "Leonard",
+   "from": "Southampton",
+   "to": "Arundel",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1555",
+     "voyage_id": "39444",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (22).JPG",
+     "scale": "0.4852941176",
+     "rotation": "0.00",
+     "translation_x": "-1118",
+     "translation_y": "-1801",
+     "clip_x1": "177",
+     "clip_y1": "170",
+     "clip_width": "893",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39309",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Hackman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215751",
+       "qty": "350",
+       "measure": "bushel",
+       "commodity": "white english salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39445",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041107",
+   "serial": "229",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Poole",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1556",
+     "voyage_id": "39445",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (23).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-1533",
+     "translation_y": "-1112",
+     "clip_x1": "642",
+     "clip_y1": "257",
+     "clip_width": "1000",
+     "clip_height": "95",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39310",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Hackman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215752",
+       "qty": "310",
+       "measure": "bushel",
+       "commodity": "white english salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39446",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041113",
+   "serial": "236",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1557",
+     "voyage_id": "39446",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (24).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-639",
+     "translation_y": "-1053",
+     "clip_x1": "597",
+     "clip_y1": "173",
+     "clip_width": "956",
+     "clip_height": "111",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39315",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215757",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39447",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041113",
+   "serial": "237",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1558",
+     "voyage_id": "39447",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (24).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-639",
+     "translation_y": "-1053",
+     "clip_x1": "596",
+     "clip_y1": "245",
+     "clip_width": "956",
+     "clip_height": "111",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39314",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "17.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215756",
+       "qty": "120",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39448",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041113",
+   "serial": "238",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Cowes",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1559",
+     "voyage_id": "39448",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (24).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-639",
+     "translation_y": "-1053",
+     "clip_x1": "592",
+     "clip_y1": "325",
+     "clip_width": "956",
+     "clip_height": "111",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39313",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215755",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39449",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041113",
+   "serial": "239",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susannah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1560",
+     "voyage_id": "39449",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (24).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-1139",
+     "translation_y": "-1363",
+     "clip_x1": "80",
+     "clip_y1": "95",
+     "clip_width": "968",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39316",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215758",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39450",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041113",
+   "serial": "240",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1561",
+     "voyage_id": "39450",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (24).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-1139",
+     "translation_y": "-1363",
+     "clip_x1": "84",
+     "clip_y1": "169",
+     "clip_width": "968",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39317",
+     "merchant_forename": "John",
+     "merchant_surname": "Newman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215759",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39451",
+   "reference": "847/4",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041113",
+   "serial": "241",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1562",
+     "voyage_id": "39451",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (24).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-1139",
+     "translation_y": "-1363",
+     "clip_x1": "84",
+     "clip_y1": "241",
+     "clip_width": "968",
+     "clip_height": "97",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39318",
+     "merchant_forename": "John",
+     "merchant_surname": "Oake",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215760",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39452",
+   "reference": "847/4",
+   "folio": "26",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041201",
+   "serial": "293",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Joshua",
+   "vessel_home": "Poole",
+   "master_forename": "Henry",
+   "master_surname": "Weston",
+   "from": "Southampton",
+   "to": "Lyme",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1563",
+     "voyage_id": "39452",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (27).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-1489",
+     "translation_y": "-981",
+     "clip_x1": "720",
+     "clip_y1": "104",
+     "clip_width": "984",
+     "clip_height": "121",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39319",
+     "merchant_forename": "Mary",
+     "merchant_surname": "Knapton",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215761",
+       "qty": "320",
+       "measure": "bushel",
+       "commodity": "white english salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39453",
+   "reference": "847/4",
+   "folio": "26",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041204",
+   "serial": "296",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Two Brothers",
+   "vessel_home": "Christchurch",
+   "master_forename": "Stephen",
+   "master_surname": "Leonard",
+   "from": "Southampton",
+   "to": "Shoreham",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1564",
+     "voyage_id": "39453",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (27).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-1584",
+     "translation_y": "-1076",
+     "clip_x1": "614",
+     "clip_y1": "259",
+     "clip_width": "984",
+     "clip_height": "102",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39320",
+     "merchant_forename": "Samuel",
+     "merchant_surname": "Luke",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215762",
+       "qty": "350",
+       "measure": "bushel",
+       "commodity": "white english salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39454",
+   "reference": "847/4",
+   "folio": "27",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041219",
+   "serial": "317",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "Benjamin",
+   "master_surname": "Webster",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1565",
+     "voyage_id": "39454",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (28).JPG",
+     "scale": "0.5338235294",
+     "rotation": "-3.00",
+     "translation_x": "-1693",
+     "translation_y": "-1855",
+     "clip_x1": "536",
+     "clip_y1": "156",
+     "clip_width": "968",
+     "clip_height": "117",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39321",
+     "merchant_forename": "John",
+     "merchant_surname": "Oake",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.0",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215763",
+       "qty": "90",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39455",
+   "reference": "847/4",
+   "folio": "27",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041219",
+   "serial": "318",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Susannah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1566",
+     "voyage_id": "39455",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (28).JPG",
+     "scale": "0.5338235294",
+     "rotation": "-3.00",
+     "translation_x": "-1693",
+     "translation_y": "-1855",
+     "clip_x1": "535",
+     "clip_y1": "230",
+     "clip_width": "968",
+     "clip_height": "98",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39322",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215764",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39456",
+   "reference": "847/4",
+   "folio": "27",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041219",
+   "serial": "319",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Endeavour",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1567",
+     "voyage_id": "39456",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (28).JPG",
+     "scale": "0.5338235294",
+     "rotation": "-3.00",
+     "translation_x": "-1693",
+     "translation_y": "-1855",
+     "clip_x1": "531",
+     "clip_y1": "299",
+     "clip_width": "968",
+     "clip_height": "112",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39323",
+     "merchant_forename": "John",
+     "merchant_surname": "Newman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215765",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39457",
+   "reference": "847/4",
+   "folio": "27",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041219",
+   "serial": "319",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Bazell",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1568",
+     "voyage_id": "39457",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (29).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-765",
+     "translation_y": "-870",
+     "clip_x1": "488",
+     "clip_y1": "150",
+     "clip_width": "975",
+     "clip_height": "143",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39324",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "21.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215766",
+       "qty": "150",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39458",
+   "reference": "847/4",
+   "folio": "27",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17041219",
+   "serial": "320",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Dewey",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1569",
+     "voyage_id": "39458",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (29).JPG",
+     "scale": "0.5338235294",
+     "rotation": "0.00",
+     "translation_x": "-765",
+     "translation_y": "-870",
+     "clip_x1": "485",
+     "clip_y1": "256",
+     "clip_width": "975",
+     "clip_height": "114",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39325",
+     "merchant_forename": "Martin",
+     "merchant_surname": "Stokes",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "8.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215767",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39459",
+   "reference": "847/4",
+   "folio": "29",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "17040927",
+   "serial": "20",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Desire",
+   "vessel_home": "Christchurch",
+   "master_forename": "",
+   "master_surname": "",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1570",
+     "voyage_id": "39459",
+     "image_filename": "E 190_847_4 Southampton 24 Jun 1704 - 25 Dec 1704 (30).JPG",
+     "scale": "0.5338235294",
+     "rotation": "-6.00",
+     "translation_x": "-1570",
+     "translation_y": "-1401",
+     "clip_x1": "700",
+     "clip_y1": "582",
+     "clip_width": "995",
+     "clip_height": "120",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39326",
+     "merchant_forename": "John",
+     "merchant_surname": "Hancock",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215768",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "muscovado sugar",
+       "description": "pd duty the 8th inst",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='39459' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

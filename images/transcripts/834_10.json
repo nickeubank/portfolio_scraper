@@ -1,0 +1,924 @@
+{
+ "debug": false,
+ "reference": "834/10",
+ "data": [
+  {
+   "id": "38185",
+   "reference": "834/10",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16850626",
+   "serial": "4",
+   "date_other": "16850717",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "349",
+     "voyage_id": "38185",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (3).JPG",
+     "scale": "0.9587137906",
+     "rotation": "-3.00",
+     "translation_x": "-1826",
+     "translation_y": "-724",
+     "clip_x1": "77",
+     "clip_y1": "357",
+     "clip_width": "1738",
+     "clip_height": "265",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38081",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214160",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "[of which an illegible amount was loaded]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38186",
+   "reference": "834/10",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16850729",
+   "serial": "46",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "350",
+     "voyage_id": "38186",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (6).JPG",
+     "scale": "0.7446548344",
+     "rotation": "0.00",
+     "translation_x": "-1561",
+     "translation_y": "-896",
+     "clip_x1": "294",
+     "clip_y1": "363",
+     "clip_width": "1395",
+     "clip_height": "178",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38082",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214161",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38187",
+   "reference": "834/10",
+   "folio": "5",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16850807",
+   "serial": "59",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "Robert",
+   "master_surname": "Shepherd",
+   "from": "Southampton",
+   "to": "Plymouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "351",
+     "voyage_id": "38187",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (7).JPG",
+     "scale": "0.8878054107",
+     "rotation": "0.00",
+     "translation_x": "-117",
+     "translation_y": "-1456",
+     "clip_x1": "125",
+     "clip_y1": "361",
+     "clip_width": "1581",
+     "clip_height": "208",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38083",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Clarke",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214162",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38188",
+   "reference": "834/10",
+   "folio": "14",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16851201",
+   "serial": "180",
+   "date_other": "16851221",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "352",
+     "voyage_id": "38188",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (16).JPG",
+     "scale": "1.0013845536",
+     "rotation": "-3.00",
+     "translation_x": "51",
+     "translation_y": "11",
+     "clip_x1": "72",
+     "clip_y1": "308",
+     "clip_width": "1739",
+     "clip_height": "198",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38084",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214163",
+       "qty": "70",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38189",
+   "reference": "834/10",
+   "folio": "15",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16851222",
+   "serial": "196",
+   "date_other": "16860104",
+   "duty": "",
+   "vessel_name": "John and Sarah",
+   "vessel_home": "Keyhaven",
+   "master_forename": "John",
+   "master_surname": "Thomas",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "353",
+     "voyage_id": "38189",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (16).JPG",
+     "scale": "0.9012460982",
+     "rotation": "0.00",
+     "translation_x": "-1677",
+     "translation_y": "-1000",
+     "clip_x1": "158",
+     "clip_y1": "543",
+     "clip_width": "1657",
+     "clip_height": "233",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38085",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214164",
+       "qty": "70",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38190",
+   "reference": "834/10",
+   "folio": "20",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16851012",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "354",
+     "voyage_id": "38190",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (22).JPG",
+     "scale": "0.9268112044",
+     "rotation": "-3.00",
+     "translation_x": "-109",
+     "translation_y": "-435",
+     "clip_x1": "26",
+     "clip_y1": "473",
+     "clip_width": "1634",
+     "clip_height": "209",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38086",
+     "merchant_forename": "John",
+     "merchant_surname": "Pitt",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214165",
+       "qty": "2",
+       "measure": "half hogshead",
+       "commodity": "mead",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214166",
+       "qty": "1",
+       "measure": "small barrel",
+       "commodity": "mead",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214167",
+       "qty": "10",
+       "measure": "cwt",
+       "commodity": "honey",
+       "description": "in Earthen potts",
+       "contributor": "2"
+      },
+      {
+       "id": "214168",
+       "qty": "2",
+       "measure": "",
+       "commodity": "bees wax",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214169",
+       "qty": "2",
+       "measure": "cwt",
+       "commodity": "cheese",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38191",
+   "reference": "834/10",
+   "folio": "21",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16851123",
+   "serial": "137",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Keyhaven",
+   "master_forename": "George",
+   "master_surname": "Scott",
+   "from": "Southampton",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "355",
+     "voyage_id": "38191",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (23).JPG",
+     "scale": "0.9833393576",
+     "rotation": "3.00",
+     "translation_x": "-1722",
+     "translation_y": "-643",
+     "clip_x1": "80",
+     "clip_y1": "491",
+     "clip_width": "1791",
+     "clip_height": "226",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38087",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "9.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214170",
+       "qty": "55",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38192",
+   "reference": "834/10",
+   "folio": "22",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16851201",
+   "serial": "142",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Southampton",
+   "to": "",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "356",
+     "voyage_id": "38192",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (24).JPG",
+     "scale": "0.9764446483",
+     "rotation": "-3.00",
+     "translation_x": "-14",
+     "translation_y": "25",
+     "clip_x1": "35",
+     "clip_y1": "336",
+     "clip_width": "1698",
+     "clip_height": "204",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38088",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Bennett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214171",
+       "qty": "70",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214172",
+       "qty": "2",
+       "measure": "",
+       "commodity": "",
+       "description": "[?small maits]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38193",
+   "reference": "834/10",
+   "folio": "29",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16851021",
+   "serial": "55",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Pitt",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "357",
+     "voyage_id": "38193",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (31).JPG",
+     "scale": "0.7667954173",
+     "rotation": "0.00",
+     "translation_x": "-248",
+     "translation_y": "-18",
+     "clip_x1": "266",
+     "clip_y1": "345",
+     "clip_width": "1323",
+     "clip_height": "238",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38089",
+     "merchant_forename": "Patrick",
+     "merchant_surname": "Kelly",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214173",
+       "qty": "335",
+       "measure": "",
+       "commodity": "Maryland tobacco",
+       "description": "in 4 bags & 2 bundles",
+       "contributor": "2"
+      },
+      {
+       "id": "214174",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "scotch herrings",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39652",
+   "reference": "834/10",
+   "folio": "38",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "2",
+   "date": "16851220",
+   "serial": "111",
+   "date_other": "16851212",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Richard",
+   "master_surname": "Creed",
+   "from": "Looe",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1760",
+     "voyage_id": "39652",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (40).JPG",
+     "scale": "0.6893768546",
+     "rotation": "0.00",
+     "translation_x": "-1448",
+     "translation_y": "-1067",
+     "clip_x1": "362",
+     "clip_y1": "364",
+     "clip_width": "1305",
+     "clip_height": "193",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39521",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Chubb",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "216023",
+       "qty": "65",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "216024",
+       "qty": "15",
+       "measure": "quarter",
+       "commodity": "oats",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38194",
+   "reference": "834/10",
+   "folio": "40",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "2",
+   "date": "16850623",
+   "serial": "0",
+   "date_other": "16850714",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "James",
+   "master_surname": "Kerley",
+   "from": "Plymouth",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "358",
+     "voyage_id": "38194",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (42).JPG",
+     "scale": "0.8088190109",
+     "rotation": "-3.00",
+     "translation_x": "-266",
+     "translation_y": "-290",
+     "clip_x1": "113",
+     "clip_y1": "316",
+     "clip_width": "1444",
+     "clip_height": "113",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38090",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Clarke",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "15.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214175",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "english wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38195",
+   "reference": "834/10",
+   "folio": "40",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "2",
+   "date": "16850717",
+   "serial": "0",
+   "date_other": "16850804",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Exeter",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "359",
+     "voyage_id": "38195",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (42).JPG",
+     "scale": "0.8088190109",
+     "rotation": "0.00",
+     "translation_x": "-258",
+     "translation_y": "-932",
+     "clip_x1": "158",
+     "clip_y1": "456",
+     "clip_width": "1434",
+     "clip_height": "128",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38091",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214176",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38196",
+   "reference": "834/10",
+   "folio": "41",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "2",
+   "date": "16850715",
+   "serial": "46",
+   "date_other": "16850812",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "Joseph",
+   "master_surname": "Foquett",
+   "from": "Exeter",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "360",
+     "voyage_id": "38196",
+     "image_filename": "E 190_834_10 Southampton Customer and Controller Coastal 1684 (42).JPG",
+     "scale": "0.7927235126",
+     "rotation": "0.00",
+     "translation_x": "-1478",
+     "translation_y": "-645",
+     "clip_x1": "372",
+     "clip_y1": "286",
+     "clip_width": "1425",
+     "clip_height": "100",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38092",
+     "merchant_forename": "Joseph",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "18.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214177",
+       "qty": "70",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214178",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "oats",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214179",
+       "qty": "6",
+       "measure": "piece",
+       "commodity": "serge",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38196' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

@@ -1,0 +1,159 @@
+{
+ "debug": false,
+ "reference": "832/2",
+ "data": [
+  {
+   "id": "39654",
+   "reference": "832/2",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16820307",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sarah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Porto",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1763",
+     "voyage_id": "39654",
+     "image_filename": "E 190_832_2 Southampton 25 Dec 1681 - 25 Dec 1682 (3).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-529",
+     "translation_y": "-712",
+     "clip_x1": "277",
+     "clip_y1": "417",
+     "clip_width": "1375",
+     "clip_height": "215",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39523",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Parsons",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216026",
+       "qty": "4",
+       "measure": "tun",
+       "commodity": "port wine",
+       "description": "unfilled, of which one hogshead third defective",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "39524",
+     "merchant_forename": "William",
+     "merchant_surname": "Gass",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216027",
+       "qty": "5",
+       "measure": "tun",
+       "commodity": "port wine",
+       "description": "unfilled one hogshead third defective",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39655",
+   "reference": "832/2",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16820415",
+   "serial": "7",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Richard",
+   "vessel_home": "Christchurch",
+   "master_forename": "Richard",
+   "master_surname": "Paine",
+   "from": "Porto",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1764",
+     "voyage_id": "39655",
+     "image_filename": "E 190_832_2 Southampton 25 Dec 1681 - 25 Dec 1682 (6).JPG",
+     "scale": "0.7815710294",
+     "rotation": "3.00",
+     "translation_x": "-1866",
+     "translation_y": "-1148",
+     "clip_x1": "376",
+     "clip_y1": "375",
+     "clip_width": "1427",
+     "clip_height": "170",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39525",
+     "merchant_forename": "Richard",
+     "merchant_surname": "White",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216028",
+       "qty": "9",
+       "measure": "tun",
+       "commodity": "port wine",
+       "description": "unfilled of which 3hh & 7 tierces third defective",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='39655' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

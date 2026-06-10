@@ -1,0 +1,4844 @@
+{
+ "debug": false,
+ "reference": "1129/19",
+ "data": [
+  {
+   "id": "218",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760426",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Gloucester",
+   "master_forename": "Henry",
+   "master_surname": "Smith",
+   "from": "Gloucester",
+   "to": "Cardiff",
+   "vessel_burthen": "8",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "218",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 8 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "521",
+       "qty": "8",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "219",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760426",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Clement",
+   "vessel_home": "Minsterworth",
+   "master_forename": "William",
+   "master_surname": "Grasinge",
+   "from": "Gloucester",
+   "to": "Padstow",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "219",
+     "merchant_forename": "William",
+     "merchant_surname": "Grasinge",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Minsterworth",
+     "miscellanea": "burthen 12 ton merchant = merchant of minsterworth",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "522",
+       "qty": "14",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "220",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760426",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Gloucester",
+   "master_forename": "Thomas",
+   "master_surname": "Pugate",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "20",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "220",
+     "merchant_forename": "Lucas",
+     "merchant_surname": "Garnons",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 20 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "523",
+       "qty": "20",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "524",
+       "qty": "29",
+       "measure": "virgate",
+       "commodity": "panni vocat broadcloth rat colour",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "525",
+       "qty": "26",
+       "measure": "virgate",
+       "commodity": "panni vocat broad red",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "221",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760426",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Angel",
+   "vessel_home": "Frampton",
+   "master_forename": "Germain",
+   "master_surname": "Michell",
+   "from": "Gloucester",
+   "to": "Caernarvon",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "221",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 16 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "526",
+       "qty": "18",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "222",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760427",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Lodar",
+   "vessel_home": "Berkeley",
+   "master_forename": "Thomas",
+   "master_surname": "Coxe",
+   "from": "Tewkesbury",
+   "to": "Berkeley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "222",
+     "merchant_forename": "William",
+     "merchant_surname": "Machin",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Berkeley",
+     "miscellanea": "burthen 14 ton merchant = merchant of berkley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "527",
+       "qty": "1",
+       "measure": "wey",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "528",
+       "qty": "4",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "223",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760428",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Clement",
+   "vessel_home": "Elmore",
+   "master_forename": "John",
+   "master_surname": "Phillips",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "223",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Hassarde",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 18 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "529",
+       "qty": "18",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "530",
+       "qty": "1",
+       "measure": "wey",
+       "commodity": "fabarum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "531",
+       "qty": "16",
+       "measure": "virgate",
+       "commodity": "panni vocat blue cloth",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "224",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760503",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Harry",
+   "vessel_home": "Gloucester",
+   "master_forename": "John",
+   "master_surname": "Swanley",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "15",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "224",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Swanley",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 15 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "532",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "225",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760505",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Pearse",
+   "master_surname": "Griffen",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "225",
+     "merchant_forename": "Pearse",
+     "merchant_surname": "Griffen",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 14 ton him = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "533",
+       "qty": "12",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "226",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760507",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Russell",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "226",
+     "merchant_forename": "John",
+     "merchant_surname": "Russell",
+     "merchant_occupation": "maltmaker",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 14 ton him = maltmaker of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "534",
+       "qty": "14",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "535",
+       "qty": "0.5",
+       "measure": "wey",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "227",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760507",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Framilode",
+   "master_forename": "Thomas",
+   "master_surname": "Swanley",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "227",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 14 ton merchant = merchant of gloucester rest f02/11",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "536",
+       "qty": "14",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "228",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 14 ton merchant = merchant of gloucester rest f02/10",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "537",
+       "qty": "4",
+       "measure": "wey",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "229",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "12",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760507",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Newnham",
+   "master_forename": "Richard",
+   "master_surname": "Glewe",
+   "from": "Gloucester",
+   "to": "Cardiff",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "229",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Davys",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Elmore",
+     "miscellanea": "burthen 10 ton merchant = merchant of elmore",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "538",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "230",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "13",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760510",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Grace of God",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Davis",
+   "from": "Tewkesbury",
+   "to": "Aberdovey",
+   "vessel_burthen": "9",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "230",
+     "merchant_forename": "William",
+     "merchant_surname": "Hodges",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 9 ton merchant = merchant of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "539",
+       "qty": "8",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "231",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "14",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760510",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Cherubin",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Bushoppe",
+   "from": "Tewkesbury",
+   "to": "Haverfordwest",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "231",
+     "merchant_forename": "William",
+     "merchant_surname": "Wakeman",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 10 ton merchant= merchant of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "540",
+       "qty": "8",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "232",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "15",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760510",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Elmore",
+   "master_forename": "Henry",
+   "master_surname": "Okeye",
+   "from": "Gloucester",
+   "to": "Caernarvon",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "232",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Okeye",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Elmore",
+     "miscellanea": "burthen 12 ton him=merchant of elmore",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "541",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "233",
+   "reference": "1129/19",
+   "folio": "2",
+   "rectoverso": "",
+   "seq": "16",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760510",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Jesus",
+   "vessel_home": "Westbury",
+   "master_forename": "William",
+   "master_surname": "Whop",
+   "from": "Gloucester",
+   "to": "Caernarvon",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "233",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Franckom",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 14 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "542",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "234",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760210",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Clement",
+   "vessel_home": "Elmore",
+   "master_forename": "Robert",
+   "master_surname": "Goslinge",
+   "from": "Gloucester",
+   "to": "Barnstaple",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "234",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Hunte",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Minsterworth",
+     "miscellanea": "burthen 12 ton merchant=merchant of minsterworth",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "543",
+       "qty": "2",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "235",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760517",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Hodges",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "235",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Millington",
+     "merchant_occupation": "mariner",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 10 ton merchant = mariner of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "544",
+       "qty": "6",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "545",
+       "qty": "2",
+       "measure": "wey",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "236",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760517",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Gatcombe",
+   "master_forename": "Thomas",
+   "master_surname": "Wylsher",
+   "from": "Tewkesbury",
+   "to": "Aberdovey",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "236",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Millington",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "burthen 18ton",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "546",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "547",
+       "qty": "2",
+       "measure": "wey",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "237",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760521",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Lodar",
+   "vessel_home": "Berkeley",
+   "master_forename": "Thomas",
+   "master_surname": "Coxe",
+   "from": "Tewkesbury",
+   "to": "Berkeley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "237",
+     "merchant_forename": "William",
+     "merchant_surname": "Machine",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Berkeley",
+     "miscellanea": "burthen 14 ton merchant = merchant of berkeley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "548",
+       "qty": "4",
+       "measure": "wey",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "549",
+       "qty": "2",
+       "measure": "wey",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "550",
+       "qty": "0.5",
+       "measure": "wey",
+       "commodity": "fabarum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "551",
+       "qty": "0.5",
+       "measure": "wey",
+       "commodity": "hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "552",
+       "qty": "4",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "238",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760523",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Gilliflower",
+   "vessel_home": "Minsterworth",
+   "master_forename": "John",
+   "master_surname": "Horne",
+   "from": "Gloucester",
+   "to": "St Ives",
+   "vessel_burthen": "25",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "238",
+     "merchant_forename": "John",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 25 ton him=merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "553",
+       "qty": "25",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "239",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760524",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Alice",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Hobbes",
+   "from": "Tewkesbury",
+   "to": "Haverfordwest",
+   "vessel_burthen": "9",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "239",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Hobbes",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 9 ton him=merchant of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "554",
+       "qty": "9",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "240",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760526",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mayflower",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Bodinge",
+   "from": "Tewkesbury",
+   "to": "Carmarthen",
+   "vessel_burthen": "7",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "240",
+     "merchant_forename": "William",
+     "merchant_surname": "Marten",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 7ton merchant=merchant of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "555",
+       "qty": "6",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "241",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760608",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dragon",
+   "vessel_home": "Gloucester",
+   "master_forename": "George",
+   "master_surname": "Warre",
+   "from": "Gloucester",
+   "to": "Caernarvon",
+   "vessel_burthen": "17",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "241",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 17ton merchant=merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "556",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "242",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760608",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Harry",
+   "vessel_home": "Gloucester",
+   "master_forename": "John",
+   "master_surname": "Swanley",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "15",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "242",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Swanley",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 15ton merchant=merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "557",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "243",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760613",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Morgans",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Turbyll",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "243",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Turbyll",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 18 ton merchant = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "558",
+       "qty": "18",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "244",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "11",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760613",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Haile",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "244",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Shield",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 14 ton merchant = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "559",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "245",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "12",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760621",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Gloucester",
+   "master_forename": "Thomas",
+   "master_surname": "Pucotte",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "245",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Pewcott",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 18 ton him=merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "560",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "561",
+       "qty": "6",
+       "measure": "wey",
+       "commodity": "fabarum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "562",
+       "qty": "1",
+       "measure": "wey",
+       "commodity": "pisarum",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "246",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "13",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760621",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Elmore",
+   "master_forename": "William",
+   "master_surname": "Whop",
+   "from": "Gloucester",
+   "to": "Cardiff",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "246",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Davis",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Elmore",
+     "miscellanea": "burthen 12 ton merchant = merchant of elmore",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "563",
+       "qty": "12",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "247",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "14",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760622",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Gloucester",
+   "master_forename": "Thomas",
+   "master_surname": "Swanley",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "247",
+     "merchant_forename": "William",
+     "merchant_surname": "Wardeford",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Bristol",
+     "miscellanea": "burthen 12 ton merchant = brewer of bristol",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "564",
+       "qty": "12",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "248",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "15",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760622",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Toby",
+   "vessel_home": "Newnham",
+   "master_forename": "Thomas",
+   "master_surname": "Norrice",
+   "from": "Gloucester",
+   "to": "Caernarvon",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "248",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Bufforde",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Newnham",
+     "miscellanea": "burthen 18 ton merchant = merchant of newnham",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "565",
+       "qty": "17",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "249",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "16",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760623",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Gloucester",
+   "master_forename": "Henry",
+   "master_surname": "Smith",
+   "from": "Gloucester",
+   "to": "Cardiff",
+   "vessel_burthen": "8",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "249",
+     "merchant_forename": "John",
+     "merchant_surname": "Thomas",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Cardiff",
+     "miscellanea": "burthen 8 ton merchant=brewer of cardiff",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "566",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "250",
+   "reference": "1129/19",
+   "folio": "3",
+   "rectoverso": "",
+   "seq": "17",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760623",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Gloucester",
+   "master_forename": "Morris",
+   "master_surname": "Rees",
+   "from": "Gloucester",
+   "to": "Cardiff",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "250",
+     "merchant_forename": "John",
+     "merchant_surname": "Thomas",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Cardiff",
+     "miscellanea": "burthen 16 ton merchant = brewer of cariff",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "567",
+       "qty": "18",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "251",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760623",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Gabriel",
+   "vessel_home": "Carmarthen",
+   "master_forename": "Evan",
+   "master_surname": "Lloyde",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "17",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "251",
+     "merchant_forename": "John",
+     "merchant_surname": "Tailor",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 17 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "568",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "252",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760703",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Shawe",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "252",
+     "merchant_forename": "John",
+     "merchant_surname": "Burche",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Bristol",
+     "miscellanea": "burthen 16 ton merchant = brewer of bristol",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "569",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "253",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760703",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Gloucester",
+   "master_forename": "Thomas",
+   "master_surname": "Whoper",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "15",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "253",
+     "merchant_forename": "Lucas",
+     "merchant_surname": "Garnons",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 15 ton merchnat = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "570",
+       "qty": "16",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "254",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760705",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Gloucester",
+   "master_forename": "Richard",
+   "master_surname": "Whittingham",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "254",
+     "merchant_forename": "James",
+     "merchant_surname": "Bowier",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Bristol",
+     "miscellanea": "burthen 12 ton merchant = brewer of bristol",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "571",
+       "qty": "6",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "255",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760709",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Newnham",
+   "master_forename": "Thomas",
+   "master_surname": "Humfrey",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "255",
+     "merchant_forename": "Matthew",
+     "merchant_surname": "Davis",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Elmore",
+     "miscellanea": "burthen 10 ton merchant = merchant of elmore",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "572",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "256",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760709",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Morgans",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Turbyll",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "256",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Turbyll",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "burthen 18 ton him = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "573",
+       "qty": "18",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "257",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760710",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Gloucester",
+   "master_forename": "Morris",
+   "master_surname": "Rees",
+   "from": "Gloucester",
+   "to": "Cardiff",
+   "vessel_burthen": "20",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "257",
+     "merchant_forename": "John",
+     "merchant_surname": "Thomas",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Cardiff",
+     "miscellanea": "burthen 20 ton merchant = brewer of cardiff",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "574",
+       "qty": "20",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "575",
+       "qty": "15",
+       "measure": "c",
+       "commodity": "bisket",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "258",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760711",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Matthew",
+   "vessel_home": "Minsterworth",
+   "master_forename": "Richard",
+   "master_surname": "Glewe",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "258",
+     "merchant_forename": "Lucas",
+     "merchant_surname": "Garnons",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 10 ton merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "576",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "259",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760719",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Trinity",
+   "vessel_home": "Elmore",
+   "master_forename": "Henry",
+   "master_surname": "Okeye",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "259",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Hassarde",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 14 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "577",
+       "qty": "14",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "260",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760723",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary Fortune",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Hale",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "260",
+     "merchant_forename": "John",
+     "merchant_surname": "Hale",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 16 ton him = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "578",
+       "qty": "17",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "261",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "11",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760801",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Matthew",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Dower",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "261",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Dower",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 10 ton him = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "579",
+       "qty": "10",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "262",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "12",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760802",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Clement",
+   "vessel_home": "Elmore",
+   "master_forename": "Robert",
+   "master_surname": "Goslinge",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "262",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Horne",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 12 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "580",
+       "qty": "14",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "263",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "13",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760802",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Gloucester",
+   "master_forename": "Thomas",
+   "master_surname": "Swanley",
+   "from": "Gloucester",
+   "to": "Bristol",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "263",
+     "merchant_forename": "William",
+     "merchant_surname": "Wardeforde",
+     "merchant_occupation": "brewer",
+     "merchant_abode": "Bristol",
+     "miscellanea": "burthen 14 ton merchant = brewer of bristol",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "581",
+       "qty": "14",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "582",
+       "qty": "8",
+       "measure": "modius",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "264",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "14",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760803",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Coxe",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "264",
+     "merchant_forename": "John",
+     "merchant_surname": "Coxe",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 14 ton him = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "583",
+       "qty": "12",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "265",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "15",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760807",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Gloucester",
+   "master_forename": "Morris",
+   "master_surname": "Rees",
+   "from": "Tewkesbury",
+   "to": "Cardiff",
+   "vessel_burthen": "20",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "265",
+     "merchant_forename": "John",
+     "merchant_surname": "Butler",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 20 ton merchant = merchant of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "584",
+       "qty": "13",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "266",
+   "reference": "1129/19",
+   "folio": "4",
+   "rectoverso": "",
+   "seq": "16",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760808",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "John",
+   "master_surname": "Shawe",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "266",
+     "merchant_forename": "John",
+     "merchant_surname": "Shawe",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 16 ton him=trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "585",
+       "qty": "6",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "267",
+   "reference": "1129/19",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760822",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Toby",
+   "vessel_home": "Newnham",
+   "master_forename": "Thomas",
+   "master_surname": "Norrys",
+   "from": "Newnham",
+   "to": "Aberdovey",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "267",
+     "merchant_forename": "John",
+     "merchant_surname": "Drome",
+     "merchant_occupation": "mariner",
+     "merchant_abode": "Newnham",
+     "miscellanea": "burthen 16 ton merchant = mariner of newnham",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "586",
+       "qty": "7",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "268",
+   "reference": "1129/19",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760827",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Minsterworth",
+   "master_forename": "William",
+   "master_surname": "Ormleye",
+   "from": "Gloucester",
+   "to": "Carmarthen",
+   "vessel_burthen": "20",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "268",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Lane",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 20 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "587",
+       "qty": "22",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "269",
+   "reference": "1129/19",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760903",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Matthew",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Dower",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "269",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Dower",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 10 ton merchant = maltmaker of tewkesbuey",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "588",
+       "qty": "8",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "270",
+   "reference": "1129/19",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760903",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Pearse",
+   "master_surname": "Gryffen",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "15",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "270",
+     "merchant_forename": "Nicholas",
+     "merchant_surname": "Allen",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 15 ton merchant = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "589",
+       "qty": "5",
+       "measure": "wey",
+       "commodity": "pullis",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "271",
+   "reference": "1129/19",
+   "folio": "5",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15760918",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Morgans",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Turbell",
+   "from": "Tewkesbury",
+   "to": "Bristol",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "271",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Turbill",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Tewkesbury",
+     "miscellanea": "burthen 18 ton him = trowman of tewkesbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "590",
+       "qty": "6",
+       "measure": "wey",
+       "commodity": "brasei hordei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "591",
+       "qty": "5",
+       "measure": "hundred",
+       "commodity": "wax",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "272",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760506",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Bewdley",
+   "master_forename": "John",
+   "master_surname": "Aweare",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "272",
+     "merchant_forename": "Lawrence",
+     "merchant_surname": "Lake",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 14 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "592",
+       "qty": "4",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "593",
+       "qty": "2",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "594",
+       "qty": "2",
+       "measure": "pipe",
+       "commodity": "hollock",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "595",
+       "qty": "4",
+       "measure": "ton",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "596",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "vinegar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "597",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "598",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "599",
+       "qty": "1",
+       "measure": "piece",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "600",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "dry ware",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "273",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760428",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Upton",
+   "master_forename": "John",
+   "master_surname": "Badger",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "12",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "273",
+     "merchant_forename": "John",
+     "merchant_surname": "Browne",
+     "merchant_occupation": "mercer",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 12 ton merchant = mercer of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "601",
+       "qty": "24",
+       "measure": "fardle",
+       "commodity": "panni lini",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "602",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "vini tent",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "603",
+       "qty": "1",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "604",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "605",
+       "qty": "4",
+       "measure": "dozen",
+       "commodity": "pepper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "606",
+       "qty": "5",
+       "measure": "barrel",
+       "commodity": "saponis nigri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "607",
+       "qty": "2",
+       "measure": "barrel",
+       "commodity": "picis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "608",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "tar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "609",
+       "qty": "9",
+       "measure": "piece",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "610",
+       "qty": "2",
+       "measure": "dozen",
+       "commodity": "ginger",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "274",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760501",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Jane",
+   "vessel_home": "Bewdley",
+   "master_forename": "John",
+   "master_surname": "Sadler",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "274",
+     "merchant_forename": "John",
+     "merchant_surname": "Sparkes",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 14 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "611",
+       "qty": "8",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "612",
+       "qty": "4",
+       "measure": "ton",
+       "commodity": "sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "613",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "275",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760127",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Cherubin",
+   "vessel_home": "Awre",
+   "master_forename": "Richard",
+   "master_surname": "Bowrie",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "6",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "275",
+     "merchant_forename": "John",
+     "merchant_surname": "Browne",
+     "merchant_occupation": "mercer",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 6 ton merchant = mercer of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "614",
+       "qty": "10",
+       "measure": "pack",
+       "commodity": "panni lini",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "615",
+       "qty": "18",
+       "measure": "piece",
+       "commodity": "figs",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "276",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760327",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Bewdley",
+   "master_forename": "James",
+   "master_surname": "Chamberlen",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "276",
+     "merchant_forename": "James",
+     "merchant_surname": "Chamberlen",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "burthen 14 ton him = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "616",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "617",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "618",
+       "qty": "1",
+       "measure": "pack",
+       "commodity": "dry ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "619",
+       "qty": "1",
+       "measure": "firkin",
+       "commodity": "figs",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "277",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15761104",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Matthew",
+   "vessel_home": "Bewdley",
+   "master_forename": "Thomas",
+   "master_surname": "Glyn",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "277",
+     "merchant_forename": "Adam",
+     "merchant_surname": "Marshall",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 16 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "620",
+       "qty": "20",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "621",
+       "qty": "4",
+       "measure": "pipe",
+       "commodity": "vini",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "622",
+       "qty": "1",
+       "measure": "butt",
+       "commodity": "malmsey",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "623",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "624",
+       "qty": "2",
+       "measure": "barrel",
+       "commodity": "saponis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "625",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "dry ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "626",
+       "qty": "2",
+       "measure": "firkin",
+       "commodity": "saponis",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "278",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760201",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Bewdley",
+   "master_forename": "John",
+   "master_surname": "Awere",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "13",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "278",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Haywarde",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Shrewsbury",
+     "miscellanea": "burthen 13 ton merchant = merchant of shrewsbury",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "627",
+       "qty": "6",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "628",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "629",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "vinegar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "630",
+       "qty": "5",
+       "measure": "c",
+       "commodity": "stanni",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "631",
+       "qty": "5",
+       "measure": "c",
+       "commodity": "saponis nigri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "632",
+       "qty": "1",
+       "measure": "c",
+       "commodity": "liquorice",
+       "description": "1 bag",
+       "contributor": "0"
+      },
+      {
+       "id": "633",
+       "qty": "1",
+       "measure": "fardle",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "634",
+       "qty": "3",
+       "measure": "tapnet",
+       "commodity": "figs",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "635",
+       "qty": "1",
+       "measure": "firkin",
+       "commodity": "olei",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "279",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760128",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Matthew",
+   "vessel_home": "Bewdley",
+   "master_forename": "Thomas",
+   "master_surname": "Glyn",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "6",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "279",
+     "merchant_forename": "Adam",
+     "merchant_surname": "Marshall",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 6 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "636",
+       "qty": "6",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "637",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "638",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "woad",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "639",
+       "qty": "4",
+       "measure": "barrel",
+       "commodity": "figs",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "640",
+       "qty": "2",
+       "measure": "bag",
+       "commodity": "pepper",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "641",
+       "qty": "4",
+       "measure": "piece",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "642",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "saponis nigri",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "280",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760510",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Morgans",
+   "vessel_home": "Tewkesbury",
+   "master_forename": "Thomas",
+   "master_surname": "Turbyll",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "18",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "280",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Turbyll",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 18 ton merchant = trowman of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "643",
+       "qty": "8",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "644",
+       "qty": "6",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "645",
+       "qty": "1",
+       "measure": "butt",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "646",
+       "qty": "2",
+       "measure": "barrel",
+       "commodity": "mellis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "647",
+       "qty": "4",
+       "measure": "barrel",
+       "commodity": "pitch + tar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "648",
+       "qty": "8",
+       "measure": "barrel",
+       "commodity": "saponis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "649",
+       "qty": "0.5",
+       "measure": "fardle",
+       "commodity": "canvas",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "281",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760508",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Gloucester",
+   "master_forename": "Henry",
+   "master_surname": "Smithe",
+   "from": "Cardiff",
+   "to": "Gloucester",
+   "vessel_burthen": "8",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "281",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Smithe",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 8 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "650",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "ferri anglice vocat welsh iron",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "651",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "ferri anglice vocat spanish iron",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "652",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "653",
+       "qty": "20",
+       "measure": "modius",
+       "commodity": "oatmeal",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "654",
+       "qty": "10",
+       "measure": "flitch",
+       "commodity": "bacon",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "282",
+   "reference": "1129/19",
+   "folio": "6",
+   "rectoverso": "",
+   "seq": "11",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760505",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Dragon",
+   "vessel_home": "Gloucester",
+   "master_forename": "George",
+   "master_surname": "Warre",
+   "from": "Plymouth",
+   "to": "Gloucester",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "282",
+     "merchant_forename": "Humphrey",
+     "merchant_surname": "Foines",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Plymouth",
+     "miscellanea": "burthen 16 ton merchant = merchant of plymouth",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "655",
+       "qty": "4000",
+       "measure": "libra",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "656",
+       "qty": "1000",
+       "measure": "libra",
+       "commodity": "valencia soap",
+       "description": "10 seron",
+       "contributor": "0"
+      },
+      {
+       "id": "657",
+       "qty": "1000",
+       "measure": "libra",
+       "commodity": "aniseed",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "658",
+       "qty": "10",
+       "measure": "piece",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "659",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "vini rochelle",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "660",
+       "qty": "7",
+       "measure": "ton",
+       "commodity": "salis albi",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "661",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "civil oil",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "283",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760529",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Bewdley",
+   "master_forename": "John",
+   "master_surname": "Awere",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "283",
+     "merchant_forename": "Lawrence",
+     "merchant_surname": "Lake",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 14 ton merchant =trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "662",
+       "qty": "8",
+       "measure": "ton",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "663",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "664",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "665",
+       "qty": "0.5",
+       "measure": "ton",
+       "commodity": "dry ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "666",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "woad",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "667",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "668",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "vini albi",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "284",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760529",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Worcester",
+   "master_forename": "Roger",
+   "master_surname": "Brooke",
+   "from": "Bristol",
+   "to": "Worcester",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "284",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Brooke",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Worcester",
+     "miscellanea": "burthen 14 ton merchant = trowman of worcester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "669",
+       "qty": "9",
+       "measure": "ton",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "670",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "671",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "plumbi",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "672",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "tent",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "673",
+       "qty": "4",
+       "measure": "c",
+       "commodity": "saponis",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "285",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760514",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Worcester",
+   "master_forename": "Roger",
+   "master_surname": "Brooke",
+   "from": "Bristol",
+   "to": "Worcester",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "285",
+     "merchant_forename": "Ralph",
+     "merchant_surname": "Baggnell",
+     "merchant_occupation": "vintner",
+     "merchant_abode": "Worcester",
+     "miscellanea": "burthen 14 ton merchant = vintner of worcester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "674",
+       "qty": "8",
+       "measure": "ton",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "675",
+       "qty": "6",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "676",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "plumbi",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "677",
+       "qty": "4",
+       "measure": "barrel",
+       "commodity": "saponis",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "286",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "4",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760530",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Minsterworth",
+   "master_forename": "John",
+   "master_surname": "Dimocke",
+   "from": "Swansea",
+   "to": "Gloucester",
+   "vessel_burthen": "",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "286",
+     "merchant_forename": "Peter",
+     "merchant_surname": "Romneye",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "678",
+       "qty": "6",
+       "measure": "hundred",
+       "commodity": "lanae",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "679",
+       "qty": "1",
+       "measure": "hundred",
+       "commodity": "sugar",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "680",
+       "qty": "1",
+       "measure": "tierce",
+       "commodity": "molasses",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "287",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "5",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760529",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Toby",
+   "vessel_home": "Tintern",
+   "master_forename": "Howell",
+   "master_surname": "Aprise",
+   "from": "Bridgwater",
+   "to": "Kingroad",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "287",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Blake",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Bridgwater",
+     "miscellanea": "burthen 10 ton merchant = merchant of bridgewater",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "681",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "vini",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "288",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "6",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760614",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mathias",
+   "vessel_home": "Bewdley",
+   "master_forename": "Adam",
+   "master_surname": "Marshall",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "288",
+     "merchant_forename": "Adam",
+     "merchant_surname": "Marshall",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 16 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "682",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "pewterers ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "683",
+       "qty": "6",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "684",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "685",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "olei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "686",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "687",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "289",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "7",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760614",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Worcester",
+   "master_forename": "John",
+   "master_surname": "Sadler",
+   "from": "Bristol",
+   "to": "Worcester",
+   "vessel_burthen": "17",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "289",
+     "merchant_forename": "John",
+     "merchant_surname": "Sadler",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Worcester",
+     "miscellanea": "burthen 17 ton merchant = trowman of worcester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "688",
+       "qty": "8",
+       "measure": "ton",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "689",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "plumbi",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "690",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "691",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "692",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "olei",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "693",
+       "qty": "3",
+       "measure": "barrel",
+       "commodity": "saponis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "694",
+       "qty": "20",
+       "measure": "bundle",
+       "commodity": "mats",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "290",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "8",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760623",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Eleanor",
+   "vessel_home": "Bewdley",
+   "master_forename": "Thomas",
+   "master_surname": "Morgan",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "10",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "290",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Morgan",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 10 ton merchant =trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "695",
+       "qty": "30",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "696",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "697",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "vini albi",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "698",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "699",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "700",
+       "qty": "10",
+       "measure": "firkin",
+       "commodity": "soap",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "701",
+       "qty": "6",
+       "measure": "piece",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "702",
+       "qty": "3",
+       "measure": "piece",
+       "commodity": "lini",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "703",
+       "qty": "1",
+       "measure": "pack",
+       "commodity": "dry ware",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "291",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "9",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760428",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Jane",
+   "vessel_home": "Bristol",
+   "master_forename": "William",
+   "master_surname": "Steven",
+   "from": "Tenby",
+   "to": "Newnham",
+   "vessel_burthen": "6",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "291",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Meredith",
+     "merchant_occupation": "",
+     "merchant_abode": "Hereford",
+     "miscellanea": "burthen 6 ton merchant = of hereford",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "704",
+       "qty": "10",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "292",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "10",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760627",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Matthew",
+   "vessel_home": "Bewdley",
+   "master_forename": "Adam",
+   "master_surname": "Marshall",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "292",
+     "merchant_forename": "Adam",
+     "merchant_surname": "Marshall",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 16 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "705",
+       "qty": "7",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "706",
+       "qty": "3",
+       "measure": "butt",
+       "commodity": "sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "707",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "salis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "708",
+       "qty": "1",
+       "measure": "firkin",
+       "commodity": "soap",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "709",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "293",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "11",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760628",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Bewdley",
+   "master_forename": "James",
+   "master_surname": "Chamberlen",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "293",
+     "merchant_forename": "James",
+     "merchant_surname": "Chamberlen",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 14 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "710",
+       "qty": "5",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "711",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "712",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "294",
+   "reference": "1129/19",
+   "folio": "7",
+   "rectoverso": "",
+   "seq": "12",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760628",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Worcester",
+   "master_forename": "Roger",
+   "master_surname": "Brooke",
+   "from": "Bristol",
+   "to": "Worcester",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "294",
+     "merchant_forename": "Roger",
+     "merchant_surname": "Brooke",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Worcester",
+     "miscellanea": "burthen 14 ton merchant = trowman of worcester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "713",
+       "qty": "7",
+       "measure": "ton",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "714",
+       "qty": "1",
+       "measure": "butt",
+       "commodity": "muscatel",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "715",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "brazil",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "716",
+       "qty": "6",
+       "measure": "ton",
+       "commodity": "vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "717",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "pipe ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "718",
+       "qty": "3",
+       "measure": "barrel",
+       "commodity": "saponis nigri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "719",
+       "qty": "1",
+       "measure": "bag",
+       "commodity": "liquorice",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "295",
+   "reference": "1129/19",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760628",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Bewdley",
+   "master_forename": "John",
+   "master_surname": "Awere",
+   "from": "Bristol",
+   "to": "Bewdley",
+   "vessel_burthen": "14",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "295",
+     "merchant_forename": "Lawrence",
+     "merchant_surname": "Lake",
+     "merchant_occupation": "trowman",
+     "merchant_abode": "Bewdley",
+     "miscellanea": "burthen 14 ton merchant = trowman of bewdley",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "720",
+       "qty": "6",
+       "measure": "butt",
+       "commodity": "vini sack",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "721",
+       "qty": "6",
+       "measure": "ton",
+       "commodity": "pipe vini gascon",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "722",
+       "qty": "1.5",
+       "measure": "ton",
+       "commodity": "dry ware",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "723",
+       "qty": "2",
+       "measure": "butt",
+       "commodity": "salis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "724",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "vinegar",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "296",
+   "reference": "1129/19",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760728",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Harry",
+   "vessel_home": "Gloucester",
+   "master_forename": "John",
+   "master_surname": "Swanley",
+   "from": "Bristol",
+   "to": "Gloucester",
+   "vessel_burthen": "16",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "296",
+     "merchant_forename": "John",
+     "merchant_surname": "Swanley",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 16 ton merchant = merchant of gloucester",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "725",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "salis",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "726",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "727",
+       "qty": "12",
+       "measure": "pack",
+       "commodity": "canvas + panni lini",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "728",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "caseorum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "729",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "train",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "730",
+       "qty": "4",
+       "measure": "barrel",
+       "commodity": "saponis nigri",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "731",
+       "qty": "6",
+       "measure": "cake",
+       "commodity": "rosin",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "732",
+       "qty": "2",
+       "measure": "bag",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "297",
+   "reference": "1129/19",
+   "folio": "8",
+   "rectoverso": "",
+   "seq": "3",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15760910",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Gloucester",
+   "master_forename": "Henry",
+   "master_surname": "Smithe",
+   "from": "Cardiff",
+   "to": "Gloucester",
+   "vessel_burthen": "8",
+   "contributor": "0",
+   "owner": true,
+   "clips": [],
+   "cargos": [
+    {
+     "id": "297",
+     "merchant_forename": "John",
+     "merchant_surname": "Ramesden",
+     "merchant_occupation": "yeoman",
+     "merchant_abode": "Marche Glam",
+     "miscellanea": "burthen 8 ton merchant = yeoman of marche (glam) rest fo8/04",
+     "marginalia": "",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "733",
+       "qty": "3",
+       "measure": "ton",
+       "commodity": "ferri",
+       "description": "called weshe iron",
+       "contributor": "0"
+      },
+      {
+       "id": "734",
+       "qty": "20",
+       "measure": "stone",
+       "commodity": "caseorum",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    },
+    {
+     "id": "298",
+     "merchant_forename": "John",
+     "merchant_surname": "White",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Gloucester",
+     "miscellanea": "burthen 8 ton merchant = merchant of gloucester rest fo8/03",
+     "marginalia": "part",
+     "contributor": "0",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "735",
+       "qty": "136",
+       "measure": "stone",
+       "commodity": "caseorum",
+       "description": "",
+       "contributor": "0"
+      },
+      {
+       "id": "736",
+       "qty": "7",
+       "measure": "barrel",
+       "commodity": "butter",
+       "description": "",
+       "contributor": "0"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='297' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

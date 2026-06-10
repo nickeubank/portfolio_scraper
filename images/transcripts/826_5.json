@@ -1,0 +1,72 @@
+{
+ "debug": false,
+ "reference": "826/5",
+ "data": [
+  {
+   "id": "38064",
+   "reference": "826/5",
+   "folio": "17",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "16630523",
+   "serial": "34",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John & Mary",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Southampton",
+   "to": "Rotterdam",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "224",
+     "voyage_id": "38064",
+     "image_filename": "E 190_826_5 THE PORT OF SOUTHAMPTON. Port: SOUTHAMPTON Official:  Searcher Overseas. 25 Dec 1662 - 25 Dec 1663 IMG_0097.JPG",
+     "scale": "0.9362439361",
+     "rotation": "-3.00",
+     "translation_x": "-722",
+     "translation_y": "-1103",
+     "clip_x1": "323",
+     "clip_y1": "492",
+     "clip_width": "1311",
+     "clip_height": "133",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37966",
+     "merchant_forename": "John",
+     "merchant_surname": "Welshman jr.",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213944",
+       "qty": "70",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38064' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

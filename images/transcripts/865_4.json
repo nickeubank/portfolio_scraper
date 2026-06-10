@@ -1,0 +1,532 @@
+{
+ "debug": false,
+ "reference": "865/4",
+ "data": [
+  {
+   "id": "37907",
+   "reference": "865/4",
+   "folio": "2",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720523",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Lynterne",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "20",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "66",
+     "voyage_id": "37907",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (4).JPG",
+     "scale": "0.9457009456",
+     "rotation": "0.00",
+     "translation_x": "-526",
+     "translation_y": "-1648",
+     "clip_x1": "172",
+     "clip_y1": "290",
+     "clip_width": "1523",
+     "clip_height": "340",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37788",
+     "merchant_forename": "John",
+     "merchant_surname": "Hopkins",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "1.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213595",
+       "qty": "5.5",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213596",
+       "qty": "1",
+       "measure": "bag",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213597",
+       "qty": "6",
+       "measure": "quarter",
+       "commodity": "barley malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37908",
+   "reference": "865/4",
+   "folio": "3",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720531",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Rogers",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "67",
+     "voyage_id": "37908",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (4).JPG",
+     "scale": "0.8511308510",
+     "rotation": "6.00",
+     "translation_x": "-1949",
+     "translation_y": "-572",
+     "clip_x1": "293",
+     "clip_y1": "114",
+     "clip_width": "1392",
+     "clip_height": "260",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37789",
+     "merchant_forename": "George",
+     "merchant_surname": "Dickensby",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Wimborne",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213598",
+       "qty": "9",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37909",
+   "reference": "865/4",
+   "folio": "3",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720604",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Poole",
+   "master_forename": "Anthony",
+   "master_surname": "Millet",
+   "from": "Poole",
+   "to": "",
+   "vessel_burthen": "18",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "68",
+     "voyage_id": "37909",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (4).JPG",
+     "scale": "0.8511308510",
+     "rotation": "6.00",
+     "translation_x": "-1965",
+     "translation_y": "-840",
+     "clip_x1": "293",
+     "clip_y1": "114",
+     "clip_width": "1392",
+     "clip_height": "260",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37792",
+     "merchant_forename": "Christopher",
+     "merchant_surname": "Roze",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213602",
+       "qty": "2",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213603",
+       "qty": "2",
+       "measure": "weight",
+       "commodity": "hemp",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37910",
+   "reference": "865/4",
+   "folio": "3",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720625",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Poole",
+   "master_forename": "Andrew",
+   "master_surname": "Johns",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "16",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "69",
+     "voyage_id": "37910",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (4).JPG",
+     "scale": "0.8511308510",
+     "rotation": "3.00",
+     "translation_x": "-1904",
+     "translation_y": "-1882",
+     "clip_x1": "293",
+     "clip_y1": "114",
+     "clip_width": "1392",
+     "clip_height": "260",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37791",
+     "merchant_forename": "George",
+     "merchant_surname": "Dickensby",
+     "merchant_occupation": "",
+     "merchant_abode": "Wimborn",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213601",
+       "qty": "10",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37911",
+   "reference": "865/4",
+   "folio": "4",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15720822",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Jhns[?]",
+   "vessel_home": "Poole",
+   "master_forename": "Andrew",
+   "master_surname": "Johns",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "16",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "70",
+     "voyage_id": "37911",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (5).JPG",
+     "scale": "0.7105191176",
+     "rotation": "6.00",
+     "translation_x": "-1935",
+     "translation_y": "-1318",
+     "clip_x1": "259",
+     "clip_y1": "213",
+     "clip_width": "1162",
+     "clip_height": "304",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37793",
+     "merchant_forename": "William",
+     "merchant_surname": "Meriet",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213604",
+       "qty": "3",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213605",
+       "qty": "25",
+       "measure": "hundred pounds",
+       "commodity": "woad",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37794",
+     "merchant_forename": "William",
+     "merchant_surname": "Sharps",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213606",
+       "qty": "3",
+       "measure": "doleae [casks]",
+       "commodity": "gascon wine",
+       "description": "'vini vascon'",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37912",
+   "reference": "865/4",
+   "folio": "4",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720912",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mighell",
+   "vessel_home": "Poole",
+   "master_forename": "Michael",
+   "master_surname": "Petvin",
+   "from": "Poole",
+   "to": "",
+   "vessel_burthen": "12",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "71",
+     "voyage_id": "37912",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (6).JPG",
+     "scale": "0.7815710294",
+     "rotation": "-3.00",
+     "translation_x": "-911",
+     "translation_y": "-586",
+     "clip_x1": "27",
+     "clip_y1": "171",
+     "clip_width": "1239",
+     "clip_height": "303",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37795",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "Queen's Principal Secretary",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213607",
+       "qty": "12",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213608",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37913",
+   "reference": "865/4",
+   "folio": "4",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720920",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Jhns[?]",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Lynterne",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "72",
+     "voyage_id": "37913",
+     "image_filename": "E 190_865_4 Poole 06 Apr 1572 - 29 Sep 1572 (6).JPG",
+     "scale": "0.7815710294",
+     "rotation": "-3.00",
+     "translation_x": "-943",
+     "translation_y": "-882",
+     "clip_x1": "27",
+     "clip_y1": "171",
+     "clip_width": "1239",
+     "clip_height": "303",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37796",
+     "merchant_forename": "William",
+     "merchant_surname": "Grene",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213609",
+       "qty": "10",
+       "measure": "doleae [casks]",
+       "commodity": "green english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213610",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "train",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37913' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

@@ -1,0 +1,221 @@
+{
+ "debug": false,
+ "reference": "815/4",
+ "data": [
+  {
+   "id": "38142",
+   "reference": "815/4",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15790227",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "",
+   "master_surname": "",
+   "from": "Southampton",
+   "to": "",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "305",
+     "voyage_id": "38142",
+     "image_filename": "E 190_815_4 Southampton 29 Sep 1578 - 29 Sep 1579 (6).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-2038",
+     "translation_y": "-1294",
+     "clip_x1": "385",
+     "clip_y1": "411",
+     "clip_width": "1113",
+     "clip_height": "134",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": []
+  },
+  {
+   "id": "38143",
+   "reference": "815/4",
+   "folio": "6",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15790525",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mayflower",
+   "vessel_home": "Christchurch",
+   "master_forename": "Richard",
+   "master_surname": "Elmar",
+   "from": "Southampton",
+   "to": "Rye",
+   "vessel_burthen": "5",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "306",
+     "voyage_id": "38143",
+     "image_filename": "E 190_815_4 Southampton 29 Sep 1578 - 29 Sep 1579 (8).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-579",
+     "translation_y": "-1253",
+     "clip_x1": "457",
+     "clip_y1": "417",
+     "clip_width": "1008",
+     "clip_height": "142",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38046",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Elmar",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "5.1",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214105",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38144",
+   "reference": "815/4",
+   "folio": "6",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15790527",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mayflower",
+   "vessel_home": "Christchurch",
+   "master_forename": "",
+   "master_surname": "",
+   "from": "Southampton",
+   "to": "",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "307",
+     "voyage_id": "38144",
+     "image_filename": "E 190_815_4 Southampton 29 Sep 1578 - 29 Sep 1579 (8).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-609",
+     "translation_y": "-1657",
+     "clip_x1": "620",
+     "clip_y1": "284",
+     "clip_width": "804",
+     "clip_height": "107",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": []
+  },
+  {
+   "id": "38145",
+   "reference": "815/4",
+   "folio": "15",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "1",
+   "date": "15790822",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Bidlecome",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "308",
+     "voyage_id": "38145",
+     "image_filename": "E 190_815_4 Southampton 29 Sep 1578 - 29 Sep 1579 (16).JPG",
+     "scale": "0.7660177659",
+     "rotation": "0.00",
+     "translation_x": "-1852",
+     "translation_y": "-1449",
+     "clip_x1": "421",
+     "clip_y1": "555",
+     "clip_width": "873",
+     "clip_height": "174",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38048",
+     "merchant_forename": "Nicholas",
+     "merchant_surname": "Newman",
+     "merchant_occupation": "",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214107",
+       "qty": "8",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38145' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

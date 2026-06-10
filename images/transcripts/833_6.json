@@ -1,0 +1,1556 @@
+{
+ "debug": false,
+ "reference": "833/6",
+ "data": [
+  {
+   "id": "38040",
+   "reference": "833/6",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840218",
+   "serial": "16",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "201",
+     "voyage_id": "38040",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (3).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-1878",
+     "translation_y": "-1311",
+     "clip_x1": "297",
+     "clip_y1": "377",
+     "clip_width": "1158",
+     "clip_height": "165",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37943",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213897",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213898",
+       "qty": "25",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213899",
+       "qty": "15",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213900",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38041",
+   "reference": "833/6",
+   "folio": "3",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840402",
+   "serial": "40",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "202",
+     "voyage_id": "38041",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (5).JPG",
+     "scale": "0.7034139265",
+     "rotation": "3.00",
+     "translation_x": "-1883",
+     "translation_y": "-822",
+     "clip_x1": "280",
+     "clip_y1": "279",
+     "clip_width": "1263",
+     "clip_height": "133",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37944",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Creed",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "10.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213901",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213902",
+       "qty": "25",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38042",
+   "reference": "833/6",
+   "folio": "3",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840402",
+   "serial": "41",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "203",
+     "voyage_id": "38042",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (5).JPG",
+     "scale": "0.7034139265",
+     "rotation": "3.00",
+     "translation_x": "-1883",
+     "translation_y": "-822",
+     "clip_x1": "268",
+     "clip_y1": "389",
+     "clip_width": "1263",
+     "clip_height": "133",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37945",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "7.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213903",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213904",
+       "qty": "15",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213905",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38043",
+   "reference": "833/6",
+   "folio": "3",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840402",
+   "serial": "42",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "Henry",
+   "master_surname": "Dunninge",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "204",
+     "voyage_id": "38043",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (5).JPG",
+     "scale": "0.7034139265",
+     "rotation": "3.00",
+     "translation_x": "-1883",
+     "translation_y": "-822",
+     "clip_x1": "261",
+     "clip_y1": "500",
+     "clip_width": "1263",
+     "clip_height": "133",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37946",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213906",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213907",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213908",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38044",
+   "reference": "833/6",
+   "folio": "5",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840428",
+   "serial": "63",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "205",
+     "voyage_id": "38044",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (7).JPG",
+     "scale": "0.5872058824",
+     "rotation": "0.00",
+     "translation_x": "-954",
+     "translation_y": "-887",
+     "clip_x1": "238",
+     "clip_y1": "373",
+     "clip_width": "955",
+     "clip_height": "141",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37947",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Creed",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213909",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213910",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38045",
+   "reference": "833/6",
+   "folio": "6",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840514",
+   "serial": "80",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "206",
+     "voyage_id": "38045",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (8).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-709",
+     "translation_y": "-1384",
+     "clip_x1": "229",
+     "clip_y1": "285",
+     "clip_width": "1217",
+     "clip_height": "163",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37948",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213911",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213912",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213913",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38046",
+   "reference": "833/6",
+   "folio": "6",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840514",
+   "serial": "81",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "Henry",
+   "master_surname": "Dunning",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "207",
+     "voyage_id": "38046",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (8).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-709",
+     "translation_y": "-1384",
+     "clip_x1": "235",
+     "clip_y1": "394",
+     "clip_width": "1217",
+     "clip_height": "131",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37949",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213914",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213915",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38047",
+   "reference": "833/6",
+   "folio": "8",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840610",
+   "serial": "116",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "208",
+     "voyage_id": "38047",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (10).JPG",
+     "scale": "0.7815710294",
+     "rotation": "-3.00",
+     "translation_x": "-575",
+     "translation_y": "-2009",
+     "clip_x1": "246",
+     "clip_y1": "306",
+     "clip_width": "1373",
+     "clip_height": "154",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37950",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Creed",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "6.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213916",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213917",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213918",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38048",
+   "reference": "833/6",
+   "folio": "10",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840707",
+   "serial": "148",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "209",
+     "voyage_id": "38048",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (12).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-737",
+     "translation_y": "-1595",
+     "clip_x1": "39",
+     "clip_y1": "355",
+     "clip_width": "1482",
+     "clip_height": "183",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37951",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213919",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213920",
+       "qty": "15",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213921",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "rye",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38049",
+   "reference": "833/6",
+   "folio": "11",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840715",
+   "serial": "150",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "210",
+     "voyage_id": "38049",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (13).JPG",
+     "scale": "0.9084365550",
+     "rotation": "-3.00",
+     "translation_x": "-530",
+     "translation_y": "-498",
+     "clip_x1": "26",
+     "clip_y1": "296",
+     "clip_width": "1559",
+     "clip_height": "178",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37952",
+     "merchant_forename": "John",
+     "merchant_surname": "Kerley",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "20.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213922",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213923",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213924",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "oats",
+       "description": "[quantity unclear]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38050",
+   "reference": "833/6",
+   "folio": "15",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840824",
+   "serial": "222",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "211",
+     "voyage_id": "38050",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (17).JPG",
+     "scale": "0.7815710294",
+     "rotation": "-3.00",
+     "translation_x": "-1990",
+     "translation_y": "-1422",
+     "clip_x1": "216",
+     "clip_y1": "534",
+     "clip_width": "1550",
+     "clip_height": "143",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37953",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Creed",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "15.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213925",
+       "qty": "110",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38051",
+   "reference": "833/6",
+   "folio": "19",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16841028",
+   "serial": "262",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "212",
+     "voyage_id": "38051",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (21).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-730",
+     "translation_y": "-1777",
+     "clip_x1": "97",
+     "clip_y1": "335",
+     "clip_width": "1361",
+     "clip_height": "162",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37954",
+     "merchant_forename": "John",
+     "merchant_surname": "Kerley",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "2.9",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213926",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38052",
+   "reference": "833/6",
+   "folio": "20",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16841111",
+   "serial": "270",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "213",
+     "voyage_id": "38052",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (22).JPG",
+     "scale": "0.9084365550",
+     "rotation": "0.00",
+     "translation_x": "-361",
+     "translation_y": "-547",
+     "clip_x1": "28",
+     "clip_y1": "207",
+     "clip_width": "1721",
+     "clip_height": "242",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37955",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Creed",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "11.6",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213927",
+       "qty": "80",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38053",
+   "reference": "833/6",
+   "folio": "21",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16841204",
+   "serial": "284",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "Robert",
+   "master_surname": "Shepherd",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "214",
+     "voyage_id": "38053",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (23).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1738",
+     "translation_y": "-732",
+     "clip_x1": "438",
+     "clip_y1": "377",
+     "clip_width": "1350",
+     "clip_height": "168",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37956",
+     "merchant_forename": "John",
+     "merchant_surname": "Foquett",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "13.0",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213928",
+       "qty": "90",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38055",
+   "reference": "833/6",
+   "folio": "26",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16850329",
+   "serial": "67",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Sarah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Cox",
+   "from": "Southampton",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "216",
+     "voyage_id": "38055",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (28).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-656",
+     "translation_y": "-1677",
+     "clip_x1": "60",
+     "clip_y1": "364",
+     "clip_width": "1493",
+     "clip_height": "233",
+     "invert": "1",
+     "brightness": "0.90",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37957",
+     "merchant_forename": "John",
+     "merchant_surname": "Cox",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213929",
+       "qty": "0",
+       "measure": "",
+       "commodity": "brown [...] Linn[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213930",
+       "qty": "100",
+       "measure": "",
+       "commodity": "norway deals",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213931",
+       "qty": "0.5",
+       "measure": "hundred",
+       "commodity": "whole prunes",
+       "description": "in one bag",
+       "contributor": "2"
+      },
+      {
+       "id": "213932",
+       "qty": "4",
+       "measure": "",
+       "commodity": "tobacco",
+       "description": "[?units]",
+       "contributor": "2"
+      },
+      {
+       "id": "213933",
+       "qty": "1",
+       "measure": "cask",
+       "commodity": "[illegible]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213934",
+       "qty": "20",
+       "measure": "ream",
+       "commodity": "brown paper",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38056",
+   "reference": "833/6",
+   "folio": "48",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16840919",
+   "serial": "67",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "217",
+     "voyage_id": "38056",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (50).JPG",
+     "scale": "1.0402710401",
+     "rotation": "0.00",
+     "translation_x": "-426",
+     "translation_y": "-35",
+     "clip_x1": "36",
+     "clip_y1": "547",
+     "clip_width": "1780",
+     "clip_height": "217",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37958",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "9.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213935",
+       "qty": "37",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38057",
+   "reference": "833/6",
+   "folio": "52",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16840327",
+   "serial": "58",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Thomas and Ann",
+   "vessel_home": "Christchurch",
+   "master_forename": "Thomas",
+   "master_surname": "Henning",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "218",
+     "voyage_id": "38057",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (54).JPG",
+     "scale": "0.8993521894",
+     "rotation": "0.00",
+     "translation_x": "-628",
+     "translation_y": "-2168",
+     "clip_x1": "13",
+     "clip_y1": "42",
+     "clip_width": "1564",
+     "clip_height": "435",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37960",
+     "merchant_forename": "Isaac",
+     "merchant_surname": "Newland",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213937",
+       "qty": "364",
+       "measure": "pound",
+       "commodity": "Maryland tobacco",
+       "description": "in 7 bags",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38058",
+   "reference": "833/6",
+   "folio": "53",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16840503",
+   "serial": "82",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Thomas",
+   "vessel_home": "Christchurch",
+   "master_forename": "Thomas",
+   "master_surname": "Henning",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "219",
+     "voyage_id": "38058",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (55).JPG",
+     "scale": "0.7581028065",
+     "rotation": "0.00",
+     "translation_x": "-2126",
+     "translation_y": "-2324",
+     "clip_x1": "13",
+     "clip_y1": "42",
+     "clip_width": "1359",
+     "clip_height": "226",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37961",
+     "merchant_forename": "Isaac",
+     "merchant_surname": "Newland",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213938",
+       "qty": "520",
+       "measure": "pound",
+       "commodity": "Maryland tobacco",
+       "description": "in 6 bags and 8 bundles",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38059",
+   "reference": "833/6",
+   "folio": "64",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16841106",
+   "serial": "252",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Thomas",
+   "vessel_home": "Christchurch",
+   "master_forename": "Thomas",
+   "master_surname": "Henning",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "220",
+     "voyage_id": "38059",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (66).JPG",
+     "scale": "0.9457009456",
+     "rotation": "0.00",
+     "translation_x": "-2085",
+     "translation_y": "-493",
+     "clip_x1": "99",
+     "clip_y1": "472",
+     "clip_width": "1738",
+     "clip_height": "266",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37962",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Bethell",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213939",
+       "qty": "616",
+       "measure": "pound",
+       "commodity": "Maryland tobacco",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38061",
+   "reference": "833/6",
+   "folio": "68",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "1",
+   "date": "16840801",
+   "serial": "58",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John and Sarah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Cox",
+   "from": "Southampton",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "222",
+     "voyage_id": "38061",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (70).JPG",
+     "scale": "0.7947490918",
+     "rotation": "180.00",
+     "translation_x": "-1902",
+     "translation_y": "-959",
+     "clip_x1": "269",
+     "clip_y1": "436",
+     "clip_width": "1372",
+     "clip_height": "149",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37964",
+     "merchant_forename": "James",
+     "merchant_surname": "Blake",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "6.4",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213941",
+       "qty": "25",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38060",
+   "reference": "833/6",
+   "folio": "79",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16840919",
+   "serial": "198",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "Edward",
+   "master_surname": "Dixon",
+   "from": "Cowes",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "221",
+     "voyage_id": "38060",
+     "image_filename": "E 190_833_6 Southampton 25 Dec 1683 - 25 Dec 1684 (81).JPG",
+     "scale": "0.7544295102",
+     "rotation": "180.00",
+     "translation_x": "-583",
+     "translation_y": "-1804",
+     "clip_x1": "158",
+     "clip_y1": "579",
+     "clip_width": "1407",
+     "clip_height": "114",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37963",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "9.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213940",
+       "qty": "37",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38060' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

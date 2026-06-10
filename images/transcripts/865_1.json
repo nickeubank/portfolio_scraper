@@ -1,0 +1,49 @@
+{
+ "debug": false,
+ "reference": "865/1",
+ "data": [
+  {
+   "id": "38001",
+   "reference": "865/1",
+   "folio": "19",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "15720521",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Jesus",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Lynterne",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "20",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "162",
+     "voyage_id": "38001",
+     "image_filename": "E 190_865_1 Poole 29 Sep 1571 - 29 Sep 1572 (20).JPG",
+     "scale": "0.5167411765",
+     "rotation": "0.00",
+     "translation_x": "-1881",
+     "translation_y": "-837",
+     "clip_x1": "404",
+     "clip_y1": "354",
+     "clip_width": "854",
+     "clip_height": "162",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": []
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38001' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

@@ -1,0 +1,217 @@
+{
+ "debug": false,
+ "reference": "869/4",
+ "data": [
+  {
+   "id": "37939",
+   "reference": "869/4",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16060618",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Maria",
+   "vessel_home": "Poole",
+   "master_forename": "Walter",
+   "master_surname": "Barker",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "24",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "98",
+     "voyage_id": "37939",
+     "image_filename": "E 190_869_4 Poole 25 Dec 1605 - 25 Dec 1606 (3).JPG",
+     "scale": "0.7737553191",
+     "rotation": "0.00",
+     "translation_x": "-849",
+     "translation_y": "-1071",
+     "clip_x1": "114",
+     "clip_y1": "86",
+     "clip_width": "1240",
+     "clip_height": "375",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37824",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Nicholson",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213665",
+       "qty": "17",
+       "measure": "ton",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213666",
+       "qty": "9",
+       "measure": "barrel",
+       "commodity": "great reasons",
+       "description": "36 pieces",
+       "contributor": "2"
+      },
+      {
+       "id": "213667",
+       "qty": "8",
+       "measure": "cwt",
+       "commodity": "glue",
+       "description": "in 4 bags",
+       "contributor": "2"
+      },
+      {
+       "id": "213668",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "reason of the sm[?]",
+       "description": "502 quarters",
+       "contributor": "2"
+      },
+      {
+       "id": "213669",
+       "qty": "6",
+       "measure": "ton",
+       "commodity": "english lead",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37940",
+   "reference": "869/4",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16061013",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Maria",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Betterley",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "99",
+     "voyage_id": "37940",
+     "image_filename": "E 190_869_4 Poole 25 Dec 1605 - 25 Dec 1606 (3).JPG",
+     "scale": "0.7737553191",
+     "rotation": "0.00",
+     "translation_x": "-2010",
+     "translation_y": "-1565",
+     "clip_x1": "282",
+     "clip_y1": "75",
+     "clip_width": "1220",
+     "clip_height": "365",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37825",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Nicholson",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "and Thomas Robarts of Poole",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213670",
+       "qty": "16",
+       "measure": "ton",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213671",
+       "qty": "2",
+       "measure": "barrel",
+       "commodity": "english honey",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213672",
+       "qty": "7",
+       "measure": "half barrel",
+       "commodity": "english honey",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213673",
+       "qty": "1",
+       "measure": "mound[?]",
+       "commodity": "english werxtletd[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213674",
+       "qty": "1",
+       "measure": "piece",
+       "commodity": "great reasons",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213675",
+       "qty": "1500",
+       "measure": "",
+       "commodity": "dry fish",
+       "description": "Newland [=Newfoundland?]",
+       "contributor": "2"
+      },
+      {
+       "id": "213676",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37940' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

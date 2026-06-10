@@ -1,0 +1,601 @@
+{
+ "debug": false,
+ "reference": "814/9",
+ "data": [
+  {
+   "id": "37995",
+   "reference": "814/9",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15731126",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Primrose",
+   "vessel_home": "Hythe",
+   "master_forename": "John",
+   "master_surname": "Shishe",
+   "from": "Southampton",
+   "to": "Chichester",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "156",
+     "voyage_id": "37995",
+     "image_filename": "E 190_814_9 Southampton 29 Sep 1573 - 29 Sep 1574 (3).JPG",
+     "scale": "0.6823440894",
+     "rotation": "-3.00",
+     "translation_x": "-2332",
+     "translation_y": "-955",
+     "clip_x1": "12",
+     "clip_y1": "41",
+     "clip_width": "1037",
+     "clip_height": "186",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37891",
+     "merchant_forename": "William",
+     "merchant_surname": "Holland",
+     "merchant_occupation": "",
+     "merchant_abode": "Chichester",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213799",
+       "qty": "2",
+       "measure": "last",
+       "commodity": "white herrings",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213800",
+       "qty": "12",
+       "measure": "",
+       "commodity": "cabbages",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213801",
+       "qty": "2",
+       "measure": "piece",
+       "commodity": "frizados",
+       "description": "[fryseadoes]",
+       "contributor": "2"
+      },
+      {
+       "id": "213802",
+       "qty": "1",
+       "measure": "",
+       "commodity": "pomegranate",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213803",
+       "qty": "100",
+       "measure": "",
+       "commodity": "oranges",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213804",
+       "qty": "4",
+       "measure": "box",
+       "commodity": "marmalade",
+       "description": "[marmylade]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37996",
+   "reference": "814/9",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15731130",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Gabriel",
+   "vessel_home": "Southampton",
+   "master_forename": "Bryan",
+   "master_surname": "Laker[?]",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "25",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "157",
+     "voyage_id": "37996",
+     "image_filename": "E 190_814_9 Southampton 29 Sep 1573 - 29 Sep 1574 (3).JPG",
+     "scale": "0.6823440894",
+     "rotation": "-3.00",
+     "translation_x": "-2100",
+     "translation_y": "-1425",
+     "clip_x1": "263",
+     "clip_y1": "378",
+     "clip_width": "1057",
+     "clip_height": "132",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37892",
+     "merchant_forename": "Tobias",
+     "merchant_surname": "Pallaviseno",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213805",
+       "qty": "40000",
+       "measure": "pound",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37997",
+   "reference": "814/9",
+   "folio": "5",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15740324",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Arundel",
+   "master_forename": "John",
+   "master_surname": "Tredcrofte",
+   "from": "Southampton",
+   "to": "Arundel",
+   "vessel_burthen": "7",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "158",
+     "voyage_id": "37997",
+     "image_filename": "E 190_814_9 Southampton 29 Sep 1573 - 29 Sep 1574 (7).JPG",
+     "scale": "0.5684152941",
+     "rotation": "0.00",
+     "translation_x": "-1130",
+     "translation_y": "-1076",
+     "clip_x1": "207",
+     "clip_y1": "350",
+     "clip_width": "876",
+     "clip_height": "145",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37893",
+     "merchant_forename": "Allyn",
+     "merchant_surname": "Sheppard",
+     "merchant_occupation": "",
+     "merchant_abode": "Arundel",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213806",
+       "qty": "1",
+       "measure": "butt",
+       "commodity": "sack",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213807",
+       "qty": "4",
+       "measure": "barrel",
+       "commodity": "pitch & tar",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213808",
+       "qty": "4",
+       "measure": "burthen",
+       "commodity": "salt fish",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213809",
+       "qty": "100",
+       "measure": "pound",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213810",
+       "qty": "0.5",
+       "measure": "hundred",
+       "commodity": "prunes",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213811",
+       "qty": "1000",
+       "measure": "",
+       "commodity": "oranges",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213812",
+       "qty": "100.5",
+       "measure": "pound",
+       "commodity": "hoppes",
+       "description": " in 1 bag",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37998",
+   "reference": "814/9",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15740520",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mighell",
+   "vessel_home": "Hythe",
+   "master_forename": "John",
+   "master_surname": "Holbridge",
+   "from": "Southampton",
+   "to": "Chichester",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "159",
+     "voyage_id": "37998",
+     "image_filename": "E 190_814_9 Southampton 29 Sep 1573 - 29 Sep 1574 (9).JPG",
+     "scale": "0.6252568235",
+     "rotation": "-3.00",
+     "translation_x": "-1139",
+     "translation_y": "-853",
+     "clip_x1": "97",
+     "clip_y1": "163",
+     "clip_width": "933",
+     "clip_height": "184",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37894",
+     "merchant_forename": "William",
+     "merchant_surname": "Holland",
+     "merchant_occupation": "",
+     "merchant_abode": "Chichester",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213813",
+       "qty": "800",
+       "measure": "",
+       "commodity": "ling fish",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213814",
+       "qty": "5",
+       "measure": "peck",
+       "commodity": "raisins",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213815",
+       "qty": "200",
+       "measure": "pound",
+       "commodity": "alum",
+       "description": "in 2 bags",
+       "contributor": "2"
+      },
+      {
+       "id": "213816",
+       "qty": "300.5",
+       "measure": "pound",
+       "commodity": "hops",
+       "description": "in 2 pockets",
+       "contributor": "2"
+      },
+      {
+       "id": "213817",
+       "qty": "100",
+       "measure": "pound",
+       "commodity": "steel",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213818",
+       "qty": "50",
+       "measure": "pound",
+       "commodity": "currants",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213819",
+       "qty": "1",
+       "measure": "packet",
+       "commodity": "grocery wares",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37999",
+   "reference": "814/9",
+   "folio": "21",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "1",
+   "date": "15741118",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "George",
+   "vessel_home": "Jersey",
+   "master_forename": "John",
+   "master_surname": "Market",
+   "from": "Jersey",
+   "to": "Southampton",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "160",
+     "voyage_id": "37999",
+     "image_filename": "E 190_814_9 Southampton 29 Sep 1573 - 29 Sep 1574 (22).JPG",
+     "scale": "0.5627311412",
+     "rotation": "0.00",
+     "translation_x": "-1986",
+     "translation_y": "-1868",
+     "clip_x1": "316",
+     "clip_y1": "153",
+     "clip_width": "882",
+     "clip_height": "270",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37895",
+     "merchant_forename": "Peter",
+     "merchant_surname": "Beaver",
+     "merchant_occupation": "",
+     "merchant_abode": "Guernsey",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213820",
+       "qty": "9",
+       "measure": "fardle",
+       "commodity": "canvas rumbilo",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37896",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Dumareke[?]",
+     "merchant_occupation": "",
+     "merchant_abode": "Jersey",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213821",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "alum",
+       "description": "weighing 1000 pounds",
+       "contributor": "2"
+      },
+      {
+       "id": "213822",
+       "qty": "24",
+       "measure": "piece",
+       "commodity": "olbrens[?]",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37897",
+     "merchant_forename": "Hugh",
+     "merchant_surname": "Flory",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213823",
+       "qty": "100",
+       "measure": "ell",
+       "commodity": "canvas normandy brown",
+       "description": "in 1 packet",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38000",
+   "reference": "814/9",
+   "folio": "46",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15740806",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Southampton",
+   "master_forename": "Christopher",
+   "master_surname": "Hollyer",
+   "from": "Southampton",
+   "to": "Andalucia",
+   "vessel_burthen": "70",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "161",
+     "voyage_id": "38000",
+     "image_filename": "E 190_814_9 Southampton 29 Sep 1573 - 29 Sep 1574 (47).JPG",
+     "scale": "0.6809046808",
+     "rotation": "-3.00",
+     "translation_x": "-2042",
+     "translation_y": "-1488",
+     "clip_x1": "279",
+     "clip_y1": "242",
+     "clip_width": "837",
+     "clip_height": "194",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37898",
+     "merchant_forename": "John",
+     "merchant_surname": "Crooke",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213824",
+       "qty": "10",
+       "measure": "fother",
+       "commodity": "lead",
+       "description": "in 178 pieces",
+       "contributor": "2"
+      },
+      {
+       "id": "213825",
+       "qty": "400",
+       "measure": "pound",
+       "commodity": "wrought tin",
+       "description": "in 3 barrels",
+       "contributor": "2"
+      },
+      {
+       "id": "213826",
+       "qty": "12",
+       "measure": "",
+       "commodity": "half short cloths",
+       "description": "in 2 packets",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38000' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

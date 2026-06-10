@@ -1,0 +1,460 @@
+{
+ "debug": false,
+ "reference": "866/14",
+ "data": [
+  {
+   "id": "37919",
+   "reference": "866/14",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15930511",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Edward",
+   "vessel_home": "Newhaven",
+   "master_forename": "Edward",
+   "master_surname": "",
+   "from": "Poole",
+   "to": "Myching",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "79",
+     "voyage_id": "37919",
+     "image_filename": "E 190_866_14 Poole 15 Apr 1593 - 29 Sep 1593 (2).JPG",
+     "scale": "0.8597281324",
+     "rotation": "6.00",
+     "translation_x": "-2017",
+     "translation_y": "-754",
+     "clip_x1": "366",
+     "clip_y1": "183",
+     "clip_width": "1375",
+     "clip_height": "302",
+     "invert": "0",
+     "brightness": "0.35",
+     "contrast": "0.65",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37803",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Harman",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213622",
+       "qty": "10",
+       "measure": "bag",
+       "commodity": "alum",
+       "description": "weighing 1700 pounds",
+       "contributor": "2"
+      },
+      {
+       "id": "213623",
+       "qty": "100",
+       "measure": "ell",
+       "commodity": "Guernsey cloth",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213624",
+       "qty": "0.5",
+       "measure": "pocket",
+       "commodity": "trigar[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213625",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "sugar",
+       "description": "weighing 100 pounds",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37920",
+   "reference": "866/14",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15930524",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "80",
+     "voyage_id": "37920",
+     "image_filename": "E 190_866_14 Poole 15 Apr 1593 - 29 Sep 1593 (2).JPG",
+     "scale": "0.8597281324",
+     "rotation": "3.00",
+     "translation_x": "-2123",
+     "translation_y": "-1134",
+     "clip_x1": "207",
+     "clip_y1": "248",
+     "clip_width": "1409",
+     "clip_height": "256",
+     "invert": "0",
+     "brightness": "0.35",
+     "contrast": "0.65",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37804",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213626",
+       "qty": "64",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213627",
+       "qty": "7",
+       "measure": "bag",
+       "commodity": "rice",
+       "description": "weighing 100 pounds",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37921",
+   "reference": "866/14",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15930620",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "James",
+   "vessel_home": "Poole",
+   "master_forename": "James",
+   "master_surname": "Cartrage",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "81",
+     "voyage_id": "37921",
+     "image_filename": "E 190_866_14 Poole 15 Apr 1593 - 29 Sep 1593 (2).JPG",
+     "scale": "0.8597281324",
+     "rotation": "3.00",
+     "translation_x": "-2202",
+     "translation_y": "-1738",
+     "clip_x1": "96",
+     "clip_y1": "205",
+     "clip_width": "1449",
+     "clip_height": "288",
+     "invert": "0",
+     "brightness": "0.35",
+     "contrast": "0.65",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37805",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Tope",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213628",
+       "qty": "1",
+       "measure": "doleae [casks]",
+       "commodity": "train",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213629",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37922",
+   "reference": "866/14",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15930627",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "82",
+     "voyage_id": "37922",
+     "image_filename": "E 190_866_14 Poole 15 Apr 1593 - 29 Sep 1593 (3).JPG",
+     "scale": "1.0402710401",
+     "rotation": "-3.00",
+     "translation_x": "-442",
+     "translation_y": "-460",
+     "clip_x1": "63",
+     "clip_y1": "91",
+     "clip_width": "1611",
+     "clip_height": "507",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37806",
+     "merchant_forename": "Michael",
+     "merchant_surname": "Leamon",
+     "merchant_occupation": "merchant, alien",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213630",
+       "qty": "78",
+       "measure": "brick",
+       "commodity": "copper",
+       "description": "weighing 4200 pounds",
+       "contributor": "2"
+      },
+      {
+       "id": "213631",
+       "qty": "32",
+       "measure": "bundle",
+       "commodity": "hemp",
+       "description": "weighing 4000 pounds",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37807",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213632",
+       "qty": "60",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213633",
+       "qty": "8",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37923",
+   "reference": "866/14",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15930802",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "83",
+     "voyage_id": "37923",
+     "image_filename": "E 190_866_14 Poole 15 Apr 1593 - 29 Sep 1593 (3).JPG",
+     "scale": "1.0402710401",
+     "rotation": "0.00",
+     "translation_x": "-487",
+     "translation_y": "-1650",
+     "clip_x1": "80",
+     "clip_y1": "110",
+     "clip_width": "1570",
+     "clip_height": "373",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37808",
+     "merchant_forename": "Richard",
+     "merchant_surname": "Merrat",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213634",
+       "qty": "76",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213635",
+       "qty": "12",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37924",
+   "reference": "866/14",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "1",
+   "date": "15930507",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Hopewell",
+   "vessel_home": "Poole",
+   "master_forename": "Thomas",
+   "master_surname": "Bennett",
+   "from": "Southampton",
+   "to": "Poole",
+   "vessel_burthen": "16",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "84",
+     "voyage_id": "37924",
+     "image_filename": "E 190_866_14 Poole 15 Apr 1593 - 29 Sep 1593 (6).JPG",
+     "scale": "0.9457009456",
+     "rotation": "3.00",
+     "translation_x": "-1964",
+     "translation_y": "-703",
+     "clip_x1": "320",
+     "clip_y1": "178",
+     "clip_width": "1538",
+     "clip_height": "464",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": []
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37924' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

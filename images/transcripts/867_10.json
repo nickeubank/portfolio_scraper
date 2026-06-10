@@ -1,0 +1,370 @@
+{
+ "debug": false,
+ "reference": "867/10",
+ "data": [
+  {
+   "id": "37983",
+   "reference": "867/10",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15981111",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Leeke",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "142",
+     "voyage_id": "37983",
+     "image_filename": "E 190_867_10 Poole 29 Sep 1598 - 08 Apr 1599 (2).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1880",
+     "translation_y": "-1194",
+     "clip_x1": "410",
+     "clip_y1": "400",
+     "clip_width": "1127",
+     "clip_height": "247",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37876",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213777",
+       "qty": "20",
+       "measure": "",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213778",
+       "qty": "4",
+       "measure": "doleae [casks]",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37984",
+   "reference": "867/10",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15981127",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "William & John",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "Poole",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "143",
+     "voyage_id": "37984",
+     "image_filename": "E 190_867_10 Poole 29 Sep 1598 - 08 Apr 1599 (2).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1899",
+     "translation_y": "-1408",
+     "clip_x1": "410",
+     "clip_y1": "400",
+     "clip_width": "1127",
+     "clip_height": "247",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37877",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213779",
+       "qty": "140",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37985",
+   "reference": "867/10",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15981202",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Katherine",
+   "vessel_home": "Poole",
+   "master_forename": "Richard",
+   "master_surname": "Myller",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "40",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "144",
+     "voyage_id": "37985",
+     "image_filename": "E 190_867_10 Poole 29 Sep 1598 - 08 Apr 1599 (2).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1889",
+     "translation_y": "-1637",
+     "clip_x1": "410",
+     "clip_y1": "400",
+     "clip_width": "1127",
+     "clip_height": "285",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37878",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Eyre",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Sarum",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213780",
+       "qty": "50",
+       "measure": "doleae [casks]",
+       "commodity": "glasti viridis",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213781",
+       "qty": "8",
+       "measure": "doleae [casks]",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37879",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213782",
+       "qty": "64",
+       "measure": "hogshead",
+       "commodity": "copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37986",
+   "reference": "867/10",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "4",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15990109",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Leeke",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "145",
+     "voyage_id": "37986",
+     "image_filename": "E 190_867_10 Poole 29 Sep 1598 - 08 Apr 1599 (2).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1934",
+     "translation_y": "-1893",
+     "clip_x1": "410",
+     "clip_y1": "400",
+     "clip_width": "1103",
+     "clip_height": "239",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37880",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "City of London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213783",
+       "qty": "96",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37987",
+   "reference": "867/10",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15990109",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Talbott",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "146",
+     "voyage_id": "37987",
+     "image_filename": "E 190_867_10 Poole 29 Sep 1598 - 08 Apr 1599 (3).JPG",
+     "scale": "0.6459264706",
+     "rotation": "-3.00",
+     "translation_x": "-969",
+     "translation_y": "-624",
+     "clip_x1": "223",
+     "clip_y1": "395",
+     "clip_width": "994",
+     "clip_height": "267",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37883",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213787",
+       "qty": "84",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37987' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

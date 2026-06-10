@@ -1,0 +1,753 @@
+{
+ "debug": false,
+ "reference": "826/10",
+ "data": [
+  {
+   "id": "39628",
+   "reference": "826/10",
+   "folio": "4",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16660620",
+   "serial": "66",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Speedwell",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Fabin",
+   "from": "Southampton",
+   "to": "Newhaven",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1736",
+     "voyage_id": "39628",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (6).JPG",
+     "scale": "0.5652045923",
+     "rotation": "0.00",
+     "translation_x": "-326",
+     "translation_y": "-1333",
+     "clip_x1": "439",
+     "clip_y1": "248",
+     "clip_width": "903",
+     "clip_height": "137",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39497",
+     "merchant_forename": "Charles",
+     "merchant_surname": "Guydott",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215979",
+       "qty": "75",
+       "measure": "quarter",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39629",
+   "reference": "826/10",
+   "folio": "6",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16660806",
+   "serial": "94",
+   "date_other": "0",
+   "duty": "200",
+   "vessel_name": "Swan",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1737",
+     "voyage_id": "39629",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (7).JPG",
+     "scale": "0.6204465335",
+     "rotation": "0.00",
+     "translation_x": "-1189",
+     "translation_y": "-1278",
+     "clip_x1": "476",
+     "clip_y1": "317",
+     "clip_width": "1077",
+     "clip_height": "179",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39498",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "14.5",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215980",
+       "qty": "100",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39630",
+   "reference": "826/10",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16660925",
+   "serial": "123",
+   "date_other": "0",
+   "duty": "30",
+   "vessel_name": "William",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Southampton",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1738",
+     "voyage_id": "39630",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (9).JPG",
+     "scale": "0.5609114812",
+     "rotation": "0.00",
+     "translation_x": "-348",
+     "translation_y": "-925",
+     "clip_x1": "440",
+     "clip_y1": "184",
+     "clip_width": "895",
+     "clip_height": "115",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39499",
+     "merchant_forename": "John",
+     "merchant_surname": "Welshman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "7.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215981",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39631",
+   "reference": "826/10",
+   "folio": "8",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16661011",
+   "serial": "134",
+   "date_other": "0",
+   "duty": "50",
+   "vessel_name": "Margaret",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Fabin",
+   "from": "Southampton",
+   "to": "Weymouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1739",
+     "voyage_id": "39631",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (9).JPG",
+     "scale": "0.5609114812",
+     "rotation": "0.00",
+     "translation_x": "-1259",
+     "translation_y": "-971",
+     "clip_x1": "432",
+     "clip_y1": "196",
+     "clip_width": "961",
+     "clip_height": "137",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39500",
+     "merchant_forename": "John",
+     "merchant_surname": "Fabin",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215982",
+       "qty": "240",
+       "measure": "sack",
+       "commodity": "charcoal",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215983",
+       "qty": "4000",
+       "measure": "",
+       "commodity": "laths",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215984",
+       "qty": "12",
+       "measure": "bundle",
+       "commodity": "hoops",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39632",
+   "reference": "826/10",
+   "folio": "8",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16661023",
+   "serial": "139",
+   "date_other": "0",
+   "duty": "200",
+   "vessel_name": "Mary",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1740",
+     "voyage_id": "39632",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (10).JPG",
+     "scale": "0.6157434402",
+     "rotation": "0.00",
+     "translation_x": "-69",
+     "translation_y": "-426",
+     "clip_x1": "588",
+     "clip_y1": "224",
+     "clip_width": "1024",
+     "clip_height": "157",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39501",
+     "merchant_forename": "John",
+     "merchant_surname": "Welshman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "15.2",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215985",
+       "qty": "60",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215986",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215987",
+       "qty": "2",
+       "measure": "cwt",
+       "commodity": "glovers clippings",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215988",
+       "qty": "100",
+       "measure": "dozen",
+       "commodity": "hoops",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215989",
+       "qty": "1",
+       "measure": "cwt",
+       "commodity": "hops",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39633",
+   "reference": "826/10",
+   "folio": "9",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16661106",
+   "serial": "148",
+   "date_other": "0",
+   "duty": "200",
+   "vessel_name": "William",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Southampton",
+   "to": "Exeter",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1741",
+     "voyage_id": "39633",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (10).JPG",
+     "scale": "0.6157434402",
+     "rotation": "0.00",
+     "translation_x": "-1227",
+     "translation_y": "-854",
+     "clip_x1": "485",
+     "clip_y1": "220",
+     "clip_width": "1024",
+     "clip_height": "157",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39502",
+     "merchant_forename": "William",
+     "merchant_surname": "Dale",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "8.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215990",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215991",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39634",
+   "reference": "826/10",
+   "folio": "13",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16660705",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Happy Return",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Fabin",
+   "from": "Southampton",
+   "to": "Newhaven",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1742",
+     "voyage_id": "39634",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (15).JPG",
+     "scale": "0.8294694600",
+     "rotation": "0.00",
+     "translation_x": "-63",
+     "translation_y": "-363",
+     "clip_x1": "256",
+     "clip_y1": "345",
+     "clip_width": "1341",
+     "clip_height": "122",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39503",
+     "merchant_forename": "Charles",
+     "merchant_surname": "Guydott",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215992",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "white salt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39635",
+   "reference": "826/10",
+   "folio": "18",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "2",
+   "date": "16660104",
+   "serial": "4",
+   "date_other": "0",
+   "duty": "100",
+   "vessel_name": "John & Mary",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Foquett",
+   "from": "Cowes",
+   "to": "Portsmouth",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1743",
+     "voyage_id": "39635",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (19).JPG",
+     "scale": "0.7963376771",
+     "rotation": "0.00",
+     "translation_x": "-1420",
+     "translation_y": "-952",
+     "clip_x1": "299",
+     "clip_y1": "255",
+     "clip_width": "1405",
+     "clip_height": "251",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39504",
+     "merchant_forename": "John",
+     "merchant_surname": "Welshman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "12.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "215993",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215994",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "oats",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215995",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39636",
+   "reference": "826/10",
+   "folio": "27",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16660306",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "small boat",
+   "vessel_home": "Christchurch",
+   "master_forename": "Ellis",
+   "master_surname": "Standard",
+   "from": "Cowes",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1744",
+     "voyage_id": "39636",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (29).JPG",
+     "scale": "0.6666284075",
+     "rotation": "-3.00",
+     "translation_x": "-324",
+     "translation_y": "-816",
+     "clip_x1": "303",
+     "clip_y1": "401",
+     "clip_width": "1098",
+     "clip_height": "156",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39505",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Moore",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215996",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "french wine",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215997",
+       "qty": "14",
+       "measure": "gallon",
+       "commodity": "spanish wine",
+       "description": "in 2 casks",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39637",
+   "reference": "826/10",
+   "folio": "32",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16660927",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "boat",
+   "vessel_home": "Christchurch",
+   "master_forename": "Ellis",
+   "master_surname": "Standard",
+   "from": "Cowes",
+   "to": "Christchurch",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1745",
+     "voyage_id": "39637",
+     "image_filename": "E 190_826_10 Southampton, including Cowes Customer and Controller Coastal 1665 (34).JPG",
+     "scale": "0.6555304740",
+     "rotation": "0.00",
+     "translation_x": "-334",
+     "translation_y": "-1402",
+     "clip_x1": "329",
+     "clip_y1": "98",
+     "clip_width": "1090",
+     "clip_height": "199",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39506",
+     "merchant_forename": "John",
+     "merchant_surname": "Welshman",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "215998",
+       "qty": "8.25",
+       "measure": "cwt",
+       "commodity": "currants",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "215999",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "french wine",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "216000",
+       "qty": "1",
+       "measure": "small cask",
+       "commodity": "french wine",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='39637' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

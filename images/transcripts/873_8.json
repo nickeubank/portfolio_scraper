@@ -1,0 +1,176 @@
+{
+ "debug": false,
+ "reference": "873/8",
+ "data": [
+  {
+   "id": "38017",
+   "reference": "873/8",
+   "folio": "4",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "1",
+   "date": "16260708",
+   "serial": "0",
+   "date_other": "16260527",
+   "duty": "",
+   "vessel_name": "Mary",
+   "vessel_home": "Southampton",
+   "master_forename": "Richard",
+   "master_surname": "Slade",
+   "from": "London",
+   "to": "Poole",
+   "vessel_burthen": "20",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "179",
+     "voyage_id": "38017",
+     "image_filename": "E 190_873_8 Poole 25 Dec 1625 - 25 Dec 1626 (5).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-1843",
+     "translation_y": "-1022",
+     "clip_x1": "380",
+     "clip_y1": "197",
+     "clip_width": "981",
+     "clip_height": "623",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37921",
+     "merchant_forename": "John",
+     "merchant_surname": "Harbin",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "and others",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213854",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "beer eagas[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213855",
+       "qty": "2",
+       "measure": "ton",
+       "commodity": "grocery wares",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213856",
+       "qty": "1",
+       "measure": "ton",
+       "commodity": "copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213857",
+       "qty": "7",
+       "measure": "barrel",
+       "commodity": "soap",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213858",
+       "qty": "5",
+       "measure": "cwt",
+       "commodity": "barrel wood",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213859",
+       "qty": "1",
+       "measure": "pipe",
+       "commodity": "oil",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213860",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "wine lees",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213861",
+       "qty": "4",
+       "measure": "butt",
+       "commodity": "spanish wine",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213862",
+       "qty": "1",
+       "measure": "bag",
+       "commodity": "spewnack[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213863",
+       "qty": "5",
+       "measure": "barrel",
+       "commodity": "pitch and tar",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213864",
+       "qty": "5",
+       "measure": "bags",
+       "commodity": "hops",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213865",
+       "qty": "30",
+       "measure": "firkin",
+       "commodity": "pitts & glasses",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213866",
+       "qty": "1",
+       "measure": "basket",
+       "commodity": "pitts & glasses",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213867",
+       "qty": "2",
+       "measure": "chest",
+       "commodity": "pitts & glasses",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38017' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

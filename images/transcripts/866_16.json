@@ -1,0 +1,210 @@
+{
+ "debug": false,
+ "reference": "866/16",
+ "data": [
+  {
+   "id": "37972",
+   "reference": "866/16",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15940617",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Talbott",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "24",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "131",
+     "voyage_id": "37972",
+     "image_filename": "E 190_866_16 Poole 31 Mar 1594 - 29 Sep 1594 (3).JPG",
+     "scale": "0.7105191176",
+     "rotation": "-3.00",
+     "translation_x": "-653",
+     "translation_y": "-504",
+     "clip_x1": "351",
+     "clip_y1": "320",
+     "clip_width": "1175",
+     "clip_height": "272",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37862",
+     "merchant_forename": "Randolph",
+     "merchant_surname": "Thorpe",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213754",
+       "qty": "84",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37973",
+   "reference": "866/16",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15940625",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "London",
+   "master_forename": "Samuel",
+   "master_surname": "Dewey",
+   "from": "Poole",
+   "to": "[?damaged]",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "132",
+     "voyage_id": "37973",
+     "image_filename": "E 190_866_16 Poole 31 Mar 1594 - 29 Sep 1594 (3).JPG",
+     "scale": "0.7105191176",
+     "rotation": "-3.00",
+     "translation_x": "-617",
+     "translation_y": "-719",
+     "clip_x1": "351",
+     "clip_y1": "320",
+     "clip_width": "1175",
+     "clip_height": "272",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37863",
+     "merchant_forename": "Randolph",
+     "merchant_surname": "Thorpe",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213755",
+       "qty": "0",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "[?document damaged]",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37974",
+   "reference": "866/16",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15940803",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Poole",
+   "master_forename": "Walter",
+   "master_surname": "Hewes",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "24",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "133",
+     "voyage_id": "37974",
+     "image_filename": "E 190_866_16 Poole 31 Mar 1594 - 29 Sep 1594 (3).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-686",
+     "translation_y": "-1148",
+     "clip_x1": "351",
+     "clip_y1": "320",
+     "clip_width": "1175",
+     "clip_height": "272",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37864",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Bressy",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213756",
+       "qty": "84",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213757",
+       "qty": "80",
+       "measure": "pound",
+       "commodity": "white sugar",
+       "description": "in two 'cistas'",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37974' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

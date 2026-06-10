@@ -1,0 +1,80 @@
+{
+ "debug": false,
+ "reference": "877/9",
+ "data": [
+  {
+   "id": "38018",
+   "reference": "877/9",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16410205",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Grace",
+   "vessel_home": "Poole",
+   "master_forename": "Henry",
+   "master_surname": "Harte",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "180",
+     "voyage_id": "38018",
+     "image_filename": "E 190_877_9 Poole 25 Dec 1640 - 25 Dec 1641 (2).JPG",
+     "scale": "0.7815710294",
+     "rotation": "0.00",
+     "translation_x": "-1886",
+     "translation_y": "-477",
+     "clip_x1": "436",
+     "clip_y1": "329",
+     "clip_width": "1186",
+     "clip_height": "260",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37922",
+     "merchant_forename": "William",
+     "merchant_surname": "Williams",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213868",
+       "qty": "16",
+       "measure": "ton",
+       "commodity": "tobacco pipe clay",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213869",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38018' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

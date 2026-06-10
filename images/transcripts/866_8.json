@@ -1,0 +1,72 @@
+{
+ "debug": false,
+ "reference": "866/8",
+ "data": [
+  {
+   "id": "37918",
+   "reference": "866/8",
+   "folio": "0",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "15921104",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Aven",
+   "vessel_home": "",
+   "master_forename": "",
+   "master_surname": "",
+   "from": "Poole",
+   "to": "",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "78",
+     "voyage_id": "37918",
+     "image_filename": "E 190_866_8 Poole 29 Sep 1592 - 15 Apr 1593 (2).JPG",
+     "scale": "0.9084365550",
+     "rotation": "0.00",
+     "translation_x": "-1963",
+     "translation_y": "-845",
+     "clip_x1": "390",
+     "clip_y1": "288",
+     "clip_width": "1435",
+     "clip_height": "293",
+     "invert": "0",
+     "brightness": "0.35",
+     "contrast": "0.60",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37802",
+     "merchant_forename": "",
+     "merchant_surname": "",
+     "merchant_occupation": "",
+     "merchant_abode": "Hampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213621",
+       "qty": "0",
+       "measure": "",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37918' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

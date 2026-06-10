@@ -1,0 +1,307 @@
+{
+ "debug": false,
+ "reference": "867/16",
+ "data": [
+  {
+   "id": "37930",
+   "reference": "867/16",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16001210",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Nightingale",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Tolkeet[?]",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "91",
+     "voyage_id": "37930",
+     "image_filename": "E 190_867_16 Poole 29 Sep 1600 - 12 Apr 1601 (2).JPG",
+     "scale": "0.9362439361",
+     "rotation": "0.00",
+     "translation_x": "-2068",
+     "translation_y": "-1505",
+     "clip_x1": "289",
+     "clip_y1": "183",
+     "clip_width": "1473",
+     "clip_height": "262",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37816",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213652",
+       "qty": "20",
+       "measure": "doleae [casks]",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213653",
+       "qty": "6",
+       "measure": "hogshead",
+       "commodity": "",
+       "description": "[?]",
+       "contributor": "2"
+      },
+      {
+       "id": "213654",
+       "qty": "4",
+       "measure": "quarter",
+       "commodity": "nucis[?]",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37931",
+   "reference": "867/16",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16001211",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Fortune",
+   "vessel_home": "Poole",
+   "master_forename": "William ",
+   "master_surname": "Balling",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "18",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "92",
+     "voyage_id": "37931",
+     "image_filename": "E 190_867_16 Poole 29 Sep 1600 - 12 Apr 1601 (2).JPG",
+     "scale": "0.9362439361",
+     "rotation": "0.00",
+     "translation_x": "-2068",
+     "translation_y": "-1505",
+     "clip_x1": "281",
+     "clip_y1": "410",
+     "clip_width": "1473",
+     "clip_height": "262",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37817",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213655",
+       "qty": "80",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37932",
+   "reference": "867/16",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16010204",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Nightingale",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Talbott",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "93",
+     "voyage_id": "37932",
+     "image_filename": "E 190_867_16 Poole 29 Sep 1600 - 12 Apr 1601 (3).JPG",
+     "scale": "0.8511308510",
+     "rotation": "-3.00",
+     "translation_x": "-774",
+     "translation_y": "-748",
+     "clip_x1": "133",
+     "clip_y1": "253",
+     "clip_width": "1271",
+     "clip_height": "220",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37818",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "gentleman",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213656",
+       "qty": "88",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213657",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "pesaru[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213658",
+       "qty": "1",
+       "measure": "packet",
+       "commodity": "coney skins",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213659",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "sack",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37933",
+   "reference": "867/16",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16010407",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Nightingale",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Talbott",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "94",
+     "voyage_id": "37933",
+     "image_filename": "E 190_867_16 Poole 29 Sep 1600 - 12 Apr 1601 (3).JPG",
+     "scale": "1.0093739500",
+     "rotation": "-3.00",
+     "translation_x": "-646",
+     "translation_y": "-1858",
+     "clip_x1": "60",
+     "clip_y1": "375",
+     "clip_width": "1579",
+     "clip_height": "426",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37819",
+     "merchant_forename": "John",
+     "merchant_surname": "Mansfield",
+     "merchant_occupation": "gentleman",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213660",
+       "qty": "29",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37933' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

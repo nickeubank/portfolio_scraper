@@ -1,0 +1,153 @@
+{
+ "debug": false,
+ "reference": "814/12",
+ "data": [
+  {
+   "id": "38138",
+   "reference": "814/12",
+   "folio": "3",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "15751114",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "John",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Tivito",
+   "from": "Christchurch",
+   "to": "Southampton",
+   "vessel_burthen": "4",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "301",
+     "voyage_id": "38138",
+     "image_filename": "E 190_814_12 Southampton 29 Sep 1575 - 22 Apr 1576 (4).JPG",
+     "scale": "0.9457009456",
+     "rotation": "0.00",
+     "translation_x": "-2049",
+     "translation_y": "-1250",
+     "clip_x1": "333",
+     "clip_y1": "397",
+     "clip_width": "1206",
+     "clip_height": "224",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38042",
+     "merchant_forename": "John",
+     "merchant_surname": "More",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214097",
+       "qty": "20",
+       "measure": "quarter",
+       "commodity": "tritici",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38141",
+   "reference": "814/12",
+   "folio": "5",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "1",
+   "date": "15760109",
+   "serial": "0",
+   "date_other": "15751231",
+   "duty": "",
+   "vessel_name": "Mayflower",
+   "vessel_home": "Lepe",
+   "master_forename": "Thomas",
+   "master_surname": "Smith",
+   "from": "Meeching",
+   "to": "Southampton",
+   "vessel_burthen": "11",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "304",
+     "voyage_id": "38141",
+     "image_filename": "E 190_814_12 Southampton 29 Sep 1575 - 22 Apr 1576 (7).JPG",
+     "scale": "0.8597281324",
+     "rotation": "0.00",
+     "translation_x": "-517",
+     "translation_y": "-789",
+     "clip_x1": "224",
+     "clip_y1": "390",
+     "clip_width": "1452",
+     "clip_height": "216",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38045",
+     "merchant_forename": "John",
+     "merchant_surname": "Harman",
+     "merchant_occupation": "",
+     "merchant_abode": "Lewes",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214102",
+       "qty": "10",
+       "measure": "ton",
+       "commodity": "iron",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214103",
+       "qty": "1000",
+       "measure": "lb",
+       "commodity": "iron weights",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214104",
+       "qty": "1",
+       "measure": "bundle",
+       "commodity": "shovels",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38141' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

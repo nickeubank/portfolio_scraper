@@ -1,0 +1,229 @@
+{
+ "debug": false,
+ "reference": "830/13",
+ "data": [
+  {
+   "id": "38621",
+   "reference": "830/13",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "16800219",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Henry",
+   "vessel_home": "Christchurch",
+   "master_forename": "Henry",
+   "master_surname": "Peake",
+   "from": "Southampton",
+   "to": "Guernsey",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "735",
+     "voyage_id": "38621",
+     "image_filename": "E 190_830_13 Southampton Controller Overseas 1679 (4).JPG",
+     "scale": "0.6459264706",
+     "rotation": "0.00",
+     "translation_x": "-692",
+     "translation_y": "-1518",
+     "clip_x1": "380",
+     "clip_y1": "459",
+     "clip_width": "1110",
+     "clip_height": "289",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38467",
+     "merchant_forename": "William",
+     "merchant_surname": "White",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214799",
+       "qty": "58",
+       "measure": "piece",
+       "commodity": "cloth rashes",
+       "description": "and two pound overwt besides 6ps wrappers",
+       "contributor": "2"
+      },
+      {
+       "id": "214800",
+       "qty": "0",
+       "measure": "",
+       "commodity": "",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "38468",
+     "merchant_forename": "William",
+     "merchant_surname": "White",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214801",
+       "qty": "58",
+       "measure": "piece",
+       "commodity": "cloth rashes",
+       "description": "and two pound overwt besides 6ps wrappers",
+       "contributor": "2"
+      },
+      {
+       "id": "214802",
+       "qty": "0",
+       "measure": "",
+       "commodity": "",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "38469",
+     "merchant_forename": "Thomas",
+     "merchant_surname": "Stephens",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "9.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214803",
+       "qty": "50",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214804",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38622",
+   "reference": "830/13",
+   "folio": "8",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "0",
+   "date": "16800521",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sarah",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Cowes",
+   "to": "St Malo",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "736",
+     "voyage_id": "38622",
+     "image_filename": "E 190_830_13 Southampton Controller Overseas 1679 (10).JPG",
+     "scale": "0.6459264706",
+     "rotation": "-3.00",
+     "translation_x": "-1729",
+     "translation_y": "-1433",
+     "clip_x1": "459",
+     "clip_y1": "340",
+     "clip_width": "1122",
+     "clip_height": "278",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38470",
+     "merchant_forename": "John",
+     "merchant_surname": "Burden",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "0.3",
+     "owner": true,
+     "goods": [
+      {
+       "id": "214805",
+       "qty": "5",
+       "measure": "half piece",
+       "commodity": "broadcloth",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "214806",
+       "qty": "13",
+       "measure": "piece",
+       "commodity": "double bay",
+       "description": "besides 1 ps wrapper",
+       "contributor": "2"
+      },
+      {
+       "id": "214807",
+       "qty": "10",
+       "measure": "piece",
+       "commodity": "single bay",
+       "description": "besides 2 ps wrap.",
+       "contributor": "2"
+      },
+      {
+       "id": "214808",
+       "qty": "2",
+       "measure": "quarter",
+       "commodity": "malt",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38622' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

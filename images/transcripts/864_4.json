@@ -1,0 +1,126 @@
+{
+ "debug": false,
+ "reference": "864/4",
+ "data": [
+  {
+   "id": "37964",
+   "reference": "864/4",
+   "folio": "6",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15660228",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Peter",
+   "vessel_home": "Poole",
+   "master_forename": "Nicholas",
+   "master_surname": "Rogers",
+   "from": "Poole",
+   "to": "Lyme",
+   "vessel_burthen": "5",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "123",
+     "voyage_id": "37964",
+     "image_filename": "E 190_864_4 Poole 29 Sep 1565 - 14 Apr 1566 (8).JPG",
+     "scale": "0.8597281324",
+     "rotation": "3.00",
+     "translation_x": "-1836",
+     "translation_y": "-1369",
+     "clip_x1": "363",
+     "clip_y1": "212",
+     "clip_width": "1423",
+     "clip_height": "306",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37851",
+     "merchant_forename": "John",
+     "merchant_surname": "Bramble",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213731",
+       "qty": "0",
+       "measure": "doleae [casks]",
+       "commodity": "bastard wine",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213732",
+       "qty": "5",
+       "measure": "peck",
+       "commodity": "ficis [figs?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213733",
+       "qty": "5",
+       "measure": "keporeth[?]",
+       "commodity": "ficis [figs?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213734",
+       "qty": "1",
+       "measure": "seron",
+       "commodity": "castile soap",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213735",
+       "qty": "2",
+       "measure": "bag",
+       "commodity": "alum",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    },
+    {
+     "id": "37852",
+     "merchant_forename": "William",
+     "merchant_surname": "Meriet",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213736",
+       "qty": "9",
+       "measure": "barrel",
+       "commodity": "honey",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37964' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

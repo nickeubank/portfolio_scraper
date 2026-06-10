@@ -1,0 +1,226 @@
+{
+ "debug": false,
+ "reference": "814/8",
+ "data": [
+  {
+   "id": "37990",
+   "reference": "814/8",
+   "folio": "3",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720116",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Myniken",
+   "vessel_home": "Dartmouth",
+   "master_forename": "Gregory",
+   "master_surname": "Cogill",
+   "from": "Southampton",
+   "to": "Dartmouth",
+   "vessel_burthen": "12",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "151",
+     "voyage_id": "37990",
+     "image_filename": "E 190_814_8 Southampton 29 Sep 1571 - 29 Sep 1572 (5).JPG",
+     "scale": "0.7103340866",
+     "rotation": "0.00",
+     "translation_x": "-862",
+     "translation_y": "-1375",
+     "clip_x1": "297",
+     "clip_y1": "371",
+     "clip_width": "1063",
+     "clip_height": "220",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37886",
+     "merchant_forename": "Christopher",
+     "merchant_surname": "Browne",
+     "merchant_occupation": "",
+     "merchant_abode": "Christchurch",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "6.7",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213790",
+       "qty": "30",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213791",
+       "qty": "5",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213792",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "peason",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37991",
+   "reference": "814/8",
+   "folio": "4",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720208",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sibill",
+   "vessel_home": "Christchurch",
+   "master_forename": "Richard",
+   "master_surname": "Giles",
+   "from": "Southampton",
+   "to": "London",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "152",
+     "voyage_id": "37991",
+     "image_filename": "E 190_814_8 Southampton 29 Sep 1571 - 29 Sep 1572 (6).JPG",
+     "scale": "0.7813674953",
+     "rotation": "0.00",
+     "translation_x": "-1065",
+     "translation_y": "-1993",
+     "clip_x1": "13",
+     "clip_y1": "80",
+     "clip_width": "1170",
+     "clip_height": "206",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37887",
+     "merchant_forename": "John",
+     "merchant_surname": "Marshall",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "[voyage from Portsmouth to London]",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213793",
+       "qty": "6",
+       "measure": "ton",
+       "commodity": "bastard wine",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37992",
+   "reference": "814/8",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15720609",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Margaret",
+   "vessel_home": "Christchurch",
+   "master_forename": "",
+   "master_surname": "Tyter",
+   "from": "Southampton",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "153",
+     "voyage_id": "37992",
+     "image_filename": "E 190_814_8 Southampton 29 Sep 1571 - 29 Sep 1572 (9).JPG",
+     "scale": "0.8595042448",
+     "rotation": "0.00",
+     "translation_x": "-2217",
+     "translation_y": "-734",
+     "clip_x1": "204",
+     "clip_y1": "240",
+     "clip_width": "1215",
+     "clip_height": "249",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37888",
+     "merchant_forename": "James",
+     "merchant_surname": "Brand",
+     "merchant_occupation": "gentleman",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": "9.8",
+     "owner": true,
+     "goods": [
+      {
+       "id": "213794",
+       "qty": "40",
+       "measure": "quarter",
+       "commodity": "barley",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213795",
+       "qty": "10",
+       "measure": "quarter",
+       "commodity": "wheat",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37992' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

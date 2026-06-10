@@ -1,0 +1,72 @@
+{
+ "debug": false,
+ "reference": "842/4",
+ "data": [
+  {
+   "id": "38620",
+   "reference": "842/4",
+   "folio": "9",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "17000802",
+   "serial": "1",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Lark",
+   "vessel_home": "Christchurch",
+   "master_forename": "Parkinson",
+   "master_surname": "Odber",
+   "from": "Cherbourg",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "734",
+     "voyage_id": "38620",
+     "image_filename": "E 190_842_4 Southampton Controller Overseas imported wines 1699 (11).JPG",
+     "scale": "0.4288235294",
+     "rotation": "0.00",
+     "translation_x": "-895",
+     "translation_y": "-1604",
+     "clip_x1": "219",
+     "clip_y1": "460",
+     "clip_width": "970",
+     "clip_height": "200",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "38466",
+     "merchant_forename": "Joseph",
+     "merchant_surname": "Preston",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "214798",
+       "qty": "1",
+       "measure": "tierce",
+       "commodity": "french wine",
+       "description": "unfilled",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='38620' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

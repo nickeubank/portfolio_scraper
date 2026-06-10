@@ -1,0 +1,307 @@
+{
+ "debug": false,
+ "reference": "866/3",
+ "data": [
+  {
+   "id": "37968",
+   "reference": "866/3",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15910409",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "127",
+     "voyage_id": "37968",
+     "image_filename": "E 190_866_3 Poole 04 Apr 1591 - 29 Sep 1591 (2).JPG",
+     "scale": "0.7737553191",
+     "rotation": "0.00",
+     "translation_x": "-1858",
+     "translation_y": "-883",
+     "clip_x1": "425",
+     "clip_y1": "173",
+     "clip_width": "1239",
+     "clip_height": "222",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37858",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213745",
+       "qty": "84",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37969",
+   "reference": "866/3",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15910412",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Mayflower",
+   "vessel_home": "Poole",
+   "master_forename": "Peter",
+   "master_surname": "Selleye",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "26",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "128",
+     "voyage_id": "37969",
+     "image_filename": "E 190_866_3 Poole 04 Apr 1591 - 29 Sep 1591 (2).JPG",
+     "scale": "0.7737553191",
+     "rotation": "0.00",
+     "translation_x": "-1829",
+     "translation_y": "-1364",
+     "clip_x1": "425",
+     "clip_y1": "173",
+     "clip_width": "1249",
+     "clip_height": "282",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37859",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213746",
+       "qty": "40",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213747",
+       "qty": "1050",
+       "measure": "pound",
+       "commodity": "white powdered sugar",
+       "description": "in 5 chests",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37970",
+   "reference": "866/3",
+   "folio": "1",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15910701",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Sithe[?]",
+   "vessel_home": "Poole",
+   "master_forename": "William",
+   "master_surname": "North",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "22",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "129",
+     "voyage_id": "37970",
+     "image_filename": "E 190_866_3 Poole 04 Apr 1591 - 29 Sep 1591 (3).JPG",
+     "scale": "0.7105191176",
+     "rotation": "-6.00",
+     "translation_x": "-781",
+     "translation_y": "-1583",
+     "clip_x1": "246",
+     "clip_y1": "196",
+     "clip_width": "1162",
+     "clip_height": "198",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37860",
+     "merchant_forename": "Philip",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213748",
+       "qty": "86",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37971",
+   "reference": "866/3",
+   "folio": "2",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "15910921",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Phoenix",
+   "vessel_home": "Rye",
+   "master_forename": "Edward",
+   "master_surname": "Newton",
+   "from": "Poole",
+   "to": "Meeching",
+   "vessel_burthen": "8",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "130",
+     "voyage_id": "37971",
+     "image_filename": "E 190_866_3 Poole 04 Apr 1591 - 29 Sep 1591 (3).JPG",
+     "scale": "0.7105191176",
+     "rotation": "6.00",
+     "translation_x": "-1977",
+     "translation_y": "-1012",
+     "clip_x1": "246",
+     "clip_y1": "196",
+     "clip_width": "1211",
+     "clip_height": "324",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37861",
+     "merchant_forename": "Robert",
+     "merchant_surname": "Emerye",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213749",
+       "qty": "1",
+       "measure": "doleae [casks]",
+       "commodity": "Newfoundland fish",
+       "description": "['piscibus nove terre ex medijs madidis'",
+       "contributor": "2"
+      },
+      {
+       "id": "213750",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213751",
+       "qty": "1",
+       "measure": "firkin",
+       "commodity": "butiri",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213752",
+       "qty": "2",
+       "measure": "firkin",
+       "commodity": "honey",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213753",
+       "qty": "200",
+       "measure": "ell",
+       "commodity": "Guernsey canvas",
+       "description": "in 1 packet",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37971' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

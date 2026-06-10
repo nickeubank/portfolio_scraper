@@ -1,0 +1,267 @@
+{
+ "debug": false,
+ "reference": "123/26*",
+ "data": [
+  {
+   "id": "39661",
+   "reference": "123/26*",
+   "folio": "6",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16041011",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Le Veridem Draconem",
+   "vessel_home": "London",
+   "master_forename": "Leonard",
+   "master_surname": "Hart",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "110",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1770",
+     "voyage_id": "39661",
+     "image_filename": "E 190_123_26* Port: Poole Customs book of Arthur Gregory. 24 Mar 1604 - 23 Mar 1606 IMG_0248.JPG",
+     "scale": "0.9639499835",
+     "rotation": "0.00",
+     "translation_x": "-1579",
+     "translation_y": "-274",
+     "clip_x1": "13",
+     "clip_y1": "42",
+     "clip_width": "1503",
+     "clip_height": "567",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39531",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Nicholson",
+     "merchant_occupation": "Citizen",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216036",
+       "qty": "168",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39663",
+   "reference": "123/26*",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16050423",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Marie",
+   "vessel_home": "Hythe",
+   "master_forename": "Joseph",
+   "master_surname": "Chealler",
+   "from": "Poole",
+   "to": "Southampton",
+   "vessel_burthen": "50",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1772",
+     "voyage_id": "39663",
+     "image_filename": "E 190_123_26* Port: Poole Customs book of Arthur Gregory. 24 Mar 1604 - 23 Mar 1606 IMG_0249.JPG",
+     "scale": "1.0288368924",
+     "rotation": "0.00",
+     "translation_x": "62",
+     "translation_y": "-1205",
+     "clip_x1": "103",
+     "clip_y1": "92",
+     "clip_width": "1569",
+     "clip_height": "320",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39533",
+     "merchant_forename": "Joseph",
+     "merchant_surname": "Hearson",
+     "merchant_occupation": "",
+     "merchant_abode": "Southampton",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216038",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39662",
+   "reference": "123/26*",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16050702",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Poole",
+   "master_forename": "Nicholas",
+   "master_surname": "Thresher",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1771",
+     "voyage_id": "39662",
+     "image_filename": "E 190_123_26* Port: Poole Customs book of Arthur Gregory. 24 Mar 1604 - 23 Mar 1606 IMG_0249.JPG",
+     "scale": "0.9447538038",
+     "rotation": "0.00",
+     "translation_x": "-1245",
+     "translation_y": "-888",
+     "clip_x1": "342",
+     "clip_y1": "187",
+     "clip_width": "1475",
+     "clip_height": "328",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39532",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Nicholson",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216037",
+       "qty": "60",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39664",
+   "reference": "123/26*",
+   "folio": "7",
+   "rectoverso": "v",
+   "seq": "3",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16050807",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Judith",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Barnes",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "28",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1773",
+     "voyage_id": "39664",
+     "image_filename": "E 190_123_26* Port: Poole Customs book of Arthur Gregory. 24 Mar 1604 - 23 Mar 1606 IMG_0249.JPG",
+     "scale": "1.0288368924",
+     "rotation": "0.00",
+     "translation_x": "-1397",
+     "translation_y": "-1065",
+     "clip_x1": "221",
+     "clip_y1": "365",
+     "clip_width": "1554",
+     "clip_height": "338",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39534",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Nicholson",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216039",
+       "qty": "104",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='39664' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

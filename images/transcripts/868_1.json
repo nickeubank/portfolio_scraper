@@ -1,0 +1,428 @@
+{
+ "debug": false,
+ "reference": "868/1",
+ "data": [
+  {
+   "id": "37942",
+   "reference": "868/1",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16011001",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Judith",
+   "vessel_home": "Poole",
+   "master_forename": "Edward",
+   "master_surname": "Barnes",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "30",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "101",
+     "voyage_id": "37942",
+     "image_filename": "E 190_868_1 Poole 29 Sep 1601 - 29 Sep 1602 (6).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1833",
+     "translation_y": "-889",
+     "clip_x1": "420",
+     "clip_y1": "113",
+     "clip_width": "1100",
+     "clip_height": "219",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37827",
+     "merchant_forename": "Augustine",
+     "merchant_surname": "Skinner",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213678",
+       "qty": "62",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213679",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213680",
+       "qty": "4",
+       "measure": "doleae [casks]",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37943",
+   "reference": "868/1",
+   "folio": "5",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16011102",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Emmett",
+   "vessel_home": "Poole",
+   "master_forename": "Edward",
+   "master_surname": "Havercombe",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "32",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "102",
+     "voyage_id": "37943",
+     "image_filename": "E 190_868_1 Poole 29 Sep 1601 - 29 Sep 1602 (6).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-1793",
+     "translation_y": "-1093",
+     "clip_x1": "420",
+     "clip_y1": "113",
+     "clip_width": "1147",
+     "clip_height": "358",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37828",
+     "merchant_forename": "John",
+     "merchant_surname": "Berriman",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "Poole",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213681",
+       "qty": "36",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213682",
+       "qty": "8",
+       "measure": "hogshead",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213683",
+       "qty": "1",
+       "measure": "barrel",
+       "commodity": "english alum",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213684",
+       "qty": "14",
+       "measure": "barrel",
+       "commodity": "english honey",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213685",
+       "qty": "13.5",
+       "measure": "doleae [casks]",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213686",
+       "qty": "3",
+       "measure": "voll[?]",
+       "commodity": "glastr' verid' Anglie[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213687",
+       "qty": "2",
+       "measure": "hogshead",
+       "commodity": "dry fish",
+       "description": "called 'ruggan'",
+       "contributor": "2"
+      },
+      {
+       "id": "213688",
+       "qty": "1",
+       "measure": "firkin",
+       "commodity": "sampire[?]",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213689",
+       "qty": "1",
+       "measure": "hogshead",
+       "commodity": "dry ruggan",
+       "description": "in total 15 things",
+       "contributor": "2"
+      },
+      {
+       "id": "213690",
+       "qty": "4",
+       "measure": "tub",
+       "commodity": "butiri",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37944",
+   "reference": "868/1",
+   "folio": "5",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16020620",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Poole",
+   "master_forename": "John",
+   "master_surname": "Talbott",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "34",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "103",
+     "voyage_id": "37944",
+     "image_filename": "E 190_868_1 Poole 29 Sep 1601 - 29 Sep 1602 (7).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-843",
+     "translation_y": "-889",
+     "clip_x1": "233",
+     "clip_y1": "161",
+     "clip_width": "1147",
+     "clip_height": "249",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37829",
+     "merchant_forename": "Augustine",
+     "merchant_surname": "Skinner",
+     "merchant_occupation": "",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213691",
+       "qty": "131",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37945",
+   "reference": "868/1",
+   "folio": "6",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16020821",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Poole",
+   "master_forename": "Jarman",
+   "master_surname": "Tito",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "36",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "104",
+     "voyage_id": "37945",
+     "image_filename": "E 190_868_1 Poole 29 Sep 1601 - 29 Sep 1602 (7).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-2004",
+     "translation_y": "-788",
+     "clip_x1": "242",
+     "clip_y1": "180",
+     "clip_width": "1145",
+     "clip_height": "290",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37832",
+     "merchant_forename": "Augustine",
+     "merchant_surname": "Skinner",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213695",
+       "qty": "140",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37946",
+   "reference": "868/1",
+   "folio": "6",
+   "rectoverso": "r",
+   "seq": "2",
+   "i_o": "OUT",
+   "certcoq": "1",
+   "date": "16020908",
+   "serial": "0",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Amittie",
+   "vessel_home": "London",
+   "master_forename": "James",
+   "master_surname": "Davis",
+   "from": "Poole",
+   "to": "London",
+   "vessel_burthen": "100",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "105",
+     "voyage_id": "37946",
+     "image_filename": "E 190_868_1 Poole 29 Sep 1601 - 29 Sep 1602 (7).JPG",
+     "scale": "0.7105191176",
+     "rotation": "0.00",
+     "translation_x": "-2233",
+     "translation_y": "-926",
+     "clip_x1": "54",
+     "clip_y1": "301",
+     "clip_width": "1097",
+     "clip_height": "237",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "37833",
+     "merchant_forename": "Edmund",
+     "merchant_surname": "Nicholson",
+     "merchant_occupation": "merchant",
+     "merchant_abode": "London",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "213696",
+       "qty": "100",
+       "measure": "hogshead",
+       "commodity": "english copperas",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "213697",
+       "qty": "30",
+       "measure": "hogshead",
+       "commodity": "train oil",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='37946' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

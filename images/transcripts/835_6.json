@@ -1,0 +1,137 @@
+{
+ "debug": false,
+ "reference": "835/6",
+ "data": [
+  {
+   "id": "39659",
+   "reference": "835/6",
+   "folio": "3",
+   "rectoverso": "v",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16870301",
+   "serial": "16",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Guernsey",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1768",
+     "voyage_id": "39659",
+     "image_filename": "E 190_835_6 Southampton 25 Dec 1686 - 25 Dec 1687 (5).JPG",
+     "scale": "1.1442981442",
+     "rotation": "0.00",
+     "translation_x": "-276",
+     "translation_y": "-505",
+     "clip_x1": "3",
+     "clip_y1": "291",
+     "clip_width": "1799",
+     "clip_height": "167",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39529",
+     "merchant_forename": "Henry",
+     "merchant_surname": "Squibb",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216034",
+       "qty": "3",
+       "measure": "hogshead",
+       "commodity": "french wine",
+       "description": "unfilled for Sale",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "39660",
+   "reference": "835/6",
+   "folio": "3",
+   "rectoverso": "v",
+   "seq": "2",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16870311",
+   "serial": "25",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Martha",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Kerley",
+   "from": "Guernsey",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1769",
+     "voyage_id": "39660",
+     "image_filename": "E 190_835_6 Southampton 25 Dec 1686 - 25 Dec 1687 (5).JPG",
+     "scale": "1.1442981442",
+     "rotation": "0.00",
+     "translation_x": "-277",
+     "translation_y": "-1329",
+     "clip_x1": "3",
+     "clip_y1": "460",
+     "clip_width": "1797",
+     "clip_height": "165",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39530",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216035",
+       "qty": "2",
+       "measure": "tun",
+       "commodity": "french wine",
+       "description": "unfilled for Sale",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='39660' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}

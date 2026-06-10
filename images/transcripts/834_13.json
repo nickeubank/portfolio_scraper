@@ -1,0 +1,80 @@
+{
+ "debug": false,
+ "reference": "834/13",
+ "data": [
+  {
+   "id": "39656",
+   "reference": "834/13",
+   "folio": "1",
+   "rectoverso": "r",
+   "seq": "1",
+   "i_o": "IN",
+   "certcoq": "0",
+   "date": "16850719",
+   "serial": "9",
+   "date_other": "0",
+   "duty": "",
+   "vessel_name": "Elizabeth",
+   "vessel_home": "Christchurch",
+   "master_forename": "John",
+   "master_surname": "Smith",
+   "from": "Guernsey",
+   "to": "Southampton",
+   "vessel_burthen": "",
+   "contributor": "2",
+   "owner": true,
+   "clips": [
+    {
+     "id": "1765",
+     "voyage_id": "39656",
+     "image_filename": "E 190_834_13 Southampton 24 Jun 1685 - 25 Dec 1685 (2).JPG",
+     "scale": "0.7105191176",
+     "rotation": "-3.00",
+     "translation_x": "-2143",
+     "translation_y": "-1612",
+     "clip_x1": "168",
+     "clip_y1": "355",
+     "clip_width": "1317",
+     "clip_height": "167",
+     "invert": "0",
+     "brightness": "0.50",
+     "contrast": "0.50",
+     "contributor": "2"
+    }
+   ],
+   "cargos": [
+    {
+     "id": "39526",
+     "merchant_forename": "John",
+     "merchant_surname": "Smith",
+     "merchant_occupation": "",
+     "merchant_abode": "",
+     "miscellanea": "",
+     "marginalia": "",
+     "contributor": "2",
+     "tonnage": null,
+     "owner": true,
+     "goods": [
+      {
+       "id": "216029",
+       "qty": "9",
+       "measure": "hogshead",
+       "commodity": "port wine",
+       "description": "",
+       "contributor": "2"
+      },
+      {
+       "id": "216030",
+       "qty": "5",
+       "measure": "half hogshead",
+       "commodity": "port wine",
+       "description": "",
+       "contributor": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "SQL": "SELECT cargos.id,merchant_forename,merchant_surname,merchant_occupation,merchant_abode,miscellanea,marginalia,cargos.contributor,ROUND(SUM(goods.qty*conversions.value*densities.density/1000),1) AS tonnage FROM cargos \r\n\t\t\tJOIN goods ON goods.cargo_id = cargos.id \r\n\t\t\tLEFT JOIN conversions ON goods.measure = conversions.measure\r\n\t\t\tLEFT JOIN densities ON goods.commodity LIKE CONCAT('%', densities.commodity, '%')\r\n\t\t\tWHERE voyage_id='39656' \r\n\t\t\tGROUP BY cargos.id\r\n\t\t\tORDER BY cargos.seq"
+}
